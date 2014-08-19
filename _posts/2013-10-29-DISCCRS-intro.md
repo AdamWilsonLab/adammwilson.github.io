@@ -2,7 +2,7 @@
 layout: post
 type:	video
 title: "An introduction"
-description: ""
+description: "test"
 category: videos
 tags: [about, video,outreach]
 video: https://www.youtube.com/watch?v=YRtdUQ4FeNU

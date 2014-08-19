@@ -1,7 +1,7 @@
 ---
 layout: post
 type: photo
-title: "Minature Forests of Cape Horn, Patagonia"
+title: "Miniature Forests of Cape Horn, Patagonia"
 description: "Examples and code for displaying galleries in posts."
 category: photos
 tags: [photography, outreach]

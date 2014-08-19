@@ -18,8 +18,10 @@ fin_color:        "255,255,255"
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #url:       		/hmfaysal-omega-theme
 #baseurl:			/hmfaysal-omega-theme
-url:              "http://adammwilson.github.io"
-baseurl:              "http://adammwilson.github.io"
+#url:              "http://adammwilson.github.io"
+#baseurl:              "http://adammwilson.github.io"
+url:              "http://localhost:4000"
+#baseurl:              "http://localhost"
 
 # Owner/author information
 owner:
