@@ -16,30 +16,23 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:       		/hmfaysal-omega-theme
-#baseurl:			/hmfaysal-omega-theme
-#url:              "http://adammwilson.github.io"
-#baseurl:              "http://adammwilson.github.io"
-url:              "http://localhost:4000"
+url:              "http://adammwilson.github.io"
+baseurl:              "http://adammwilson.github.io"
+#url:              "http://localhost:4000"
 #baseurl:              "http://localhost"
 
 # Owner/author information
 owner:
   name:           Adam M. Wilson
-  avatar:         hmfaysal.jpg
+  avatar:         AdamWilson_Mug.jpg
   email:          adam.wilson@yale.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    
   # Social networking links used in footer. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        planetflux
   facebook:       adammichaelwilson
   github:         adammwilson
-#  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
 #  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
-#  instagram:      
-#  flickr:         
-#  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/+AdamMWilson
 
@@ -56,9 +49,9 @@ links:
     url: /
     external: false
     icon: home
-  - title: Research #<i class="icon-book"></i>
+  - title: Research <i class="icon-book"></i>
     url: /research
-  - title: Publications #<i class="icon-book"></i>
+  - title: Publications <i class="icon-book"></i>
     url: /publications
   - title: Categories
     url: /categories
