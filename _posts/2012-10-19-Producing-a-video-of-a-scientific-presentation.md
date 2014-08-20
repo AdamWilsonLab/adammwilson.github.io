@@ -3,7 +3,7 @@ layout: post
 title: "Producing a video of a scientific presentation"
 description: "Using ffmpeg to create a 'picture-in-picture' recording'"
 category: research
-tags: [research, blog, Open Source Software]
+tags: [photo,research, blog, Open Source Software]
 imagefeature: 
 comments: true
 share: true
