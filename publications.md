@@ -9,7 +9,7 @@ tags: [about,]
 Publications (_via [Orcid](http://orcid.org/0000-0003-3362-7806.html)_)
 
 <figure class="third">
-	<a href="{{ site.url }}/files/WilsonAdam_CV.pdf"><img src="{{ site.url }}/images/WilsonAdam_CV_thumb.png"></a>
+	<a href="{{ site.url }}/files/Wilson_Adam_CV.pdf"><img src="{{ site.url }}/images/Wilson_Adam_CV_thumb.png"></a>
 </figure>
 
 
