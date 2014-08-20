@@ -5,7 +5,7 @@ title: "Miniature Forests of Cape Horn, Patagonia"
 description: "I love exploring the world through a macro lens..."
 category: photos
 tags: [photography, outreach, research]
-imagefeature: picture-16.jpg
+imagefeature: galleries/MiniatureForests/images/20110104_9622.jpg
 comments: true
 mathjax: 
 ---
