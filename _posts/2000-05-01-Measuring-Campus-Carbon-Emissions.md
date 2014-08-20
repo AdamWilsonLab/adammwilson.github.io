@@ -10,7 +10,7 @@ share: true
 
 ---
 
-<figure class="half">
+<figure class="third">
 	<a href="{{ site.url }}/images/posts/CACPlogo.jpg"><img src="{{ site.url }}/images/posts/CACPlogo.jpg"></a>
 </figure>
 

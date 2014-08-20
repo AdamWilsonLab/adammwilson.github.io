@@ -26,13 +26,4 @@ The process of using photography to connect people to nature, enhance the conver
 
 Science offers many insights into the ways we depend on our environment and how to develop sustainable attitudes, behaviors and policies. But these insights are rarely communicated well and often not grasped by society at large. There is a dire need to cultivate effective communications between science and society. Dry scientific statements about numbers of species, rates of deforestation, or the functions of wetlands are often too cerebral and seldom compelling to non-scientists. Additionally, in the absence of two-way communication and an engaged public, scientific knowledge can be applied in unsustainable ways that displace more sustainable low-tech, indigenous methods that are also deeply tied to local culture. To communicate effectively about conservation issues, one must both “arouse and fulfill” the audience (Olson, 2009). Science is great at fulfillment but is often horrible at arousal. Photography, on the other hand, can be a powerful medium to capture attention but often leaves the viewer hungry for more details. When used together, photography and conservation science can engage the public and share detailed information and stories.
 
-<figure class="half">
-	<a href="{{ site.url }}/images/galleries/MiniatureForests/OmoraEcoTourism.png"><img src="{{ site.url }}/images/galleries/MiniatureForests/OmoraEcoTourism.png"></a>
-	<figcaption>Ecotourism with a hand lens in Omora Park</figcaption>
-</figure>
-<figure class="third">
-	<a href="{{ site.url }}/images/galleries/MiniatureForests/PrensaAustral.png"><img src="{{ site.url }}/images/galleries/MiniatureForests/PrensaAustral.png"></a>
-	<figcaption>Giornale DiVicenza </figcaption>
-</figure>
-
 <iframe src="../../images/galleries/Moss/index.html" style="width: 95%; height: 400px"></iframe>
