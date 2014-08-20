@@ -2,7 +2,7 @@
 layout: post
 type: photo
 title: "Miniature Forests of Cape Horn, Patagonia"
-description: "Examples and code for displaying galleries in posts."
+description: "I love exploring the world through a macro lens..."
 category: photos
 tags: [photography, outreach, research]
 imagefeature: picture-16.jpg
