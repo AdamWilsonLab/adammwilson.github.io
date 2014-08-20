@@ -51,8 +51,10 @@ links:
     icon: home
   - title: Research <i class="icon-book"></i>
     url: /research
-  - title: Publications <i class="icon-book"></i>
-    url: /publications
+  - title: CV <i class="icon-book"></i>
+    url: /CV
+  - title: Photography <i class="icon-book"></i>
+    url: /photo
   - title: Categories
     url: /categories
   - title: Tags
