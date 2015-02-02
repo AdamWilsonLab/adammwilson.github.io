@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Measuring Campus Carbon Emissions"
-description: "Building tools to understand our impact"
-category: articles
+excerpt: "Building tools to understand our impact"
+category: research
 tags: [research,outreach,service]
 imagefeature: 
 comments: true

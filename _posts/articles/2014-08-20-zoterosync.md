@@ -2,7 +2,7 @@
 layout: post
 title: Syncing Zotero attachments via google drive
 description: ""
-categories: web
+categories: blog
 tags: [web]
 comments: true
 mathjax: null

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Conservation Biology in Morocco"
-description: "How eco-friendly is 'eco-friendly'?'"
-category: research
+excerpt: "How eco-friendly is 'eco-friendly'?'"
+category: blog
 tags: [research]
 imagefeature: 
 comments: true

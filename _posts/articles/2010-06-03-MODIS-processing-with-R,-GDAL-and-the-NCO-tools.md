@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "MODIS processing with R, GDAL, and the NCO tools"
-description: ""
-category: research
+excerpt: "Open-source tools for MODIS processing"
+category: blog
 tags: [research]
 imagefeature: 
 comments: true

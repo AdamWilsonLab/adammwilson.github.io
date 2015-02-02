@@ -1,26 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Biography
+excerpt: "Biography"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: fieldwork.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+<figure>
+	<a href="../images/bio-photot.jpg">
+	<img src="../images/bio-photo.jpg" alt="image" width="50%" align='center'></a>
+</figure>
 
-## So Simple Theme is all about:
+Adam M. Wilson, Ph.D.,  is a postdoctoral fellow at the Yale Climate and Energy Institute where he studies the ecological implications of global environmental change. Dr. Wilson earned his Ph.D. in Ecology and Evolutionary Biology at the University of Connecticut with interdisciplinary research in South Africa investigating the effects of climate change on species distributions, ecosystem resilience, and wildfire. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+Prior to his doctoral work, Wilson served as a community forestry agent in the Moroccan Arganeraie Biosphere Reserve with the U.S. Peace Corps. Before that he earned a M.Sc. in Earth Science (concentrating in climate change) and B.Sc. in Biology (concentrating in ecology) at the University of New Hampshire. Concurrently, he examined historical climate records at the Climate Change Research Center and served as the project coordinator for the Integrated Human Health and Air Quality Research Project. Wilson has worked in the temperate forests of eastern North America and Patagonia, the arctic tundra of Alaska, the desert margins of Morocco, the wet tropical rainforests of Costa Rica, the monsoonal tropical forests of southern India, and the savanna and shrublands of South Africa. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+In his free time, Wilson makes strange sounds with a didgeridoo, rides his bike everywhere he can, travels with his family (most recently back to Morocco), and encourages his two-year old daughter to play with worms. He’s interested in nature photography as a tool to connect people to nature and enhance the conversation between science and society. To this end he has served on the North American Nature Photographers’ Association (NANPA) College Committee since 2010. His photos have won a few awards (ESA Eco-Photo, NANPA) and were recently collated in a guide to the mosses and lichens of Patagonia.

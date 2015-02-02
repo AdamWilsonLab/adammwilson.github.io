@@ -2,8 +2,8 @@
 layout: post
 type:	video
 title: "An introduction"
-description: "test"
-category: videos
+excerpt: "test"
+category: blog
 tags: [about, video,outreach]
 video: https://www.youtube.com/watch?v=YRtdUQ4FeNU
 comments: true

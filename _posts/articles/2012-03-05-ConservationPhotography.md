@@ -2,12 +2,11 @@
 layout: post
 type: photo
 title: "A Call for Conservation Photography Education"
-description: "Photography is a useful communication tool"
-category: photos
+excerpt: "Photography is a useful communication tool"
+category: articles
 tags: [photo, outreach]
 imagefeature: picture-16.jpg
 comments: true
-mathjax: 
 ---
  
 _Photos © Adam M. Wilson_

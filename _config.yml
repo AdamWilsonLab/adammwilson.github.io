@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Adam M. Wilson
-  avatar: bio-photo.jpg
+  avatar: AdamWilson_CircleMug.png
   email: adam.wilson@yale.edu
   disqus-shortname:
   twitter: planetflux

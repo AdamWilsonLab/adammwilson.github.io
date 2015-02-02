@@ -2,8 +2,8 @@
 layout: post
 type:	video
 title: "Fire and Climate: the Implications of Global Change in the Cape Floristic Region of South Africa"
-description: "My dissertation defense"
-category: research
+excerpt: "My dissertation defense"
+category: blog
 tags: [research, video]
 video: https://www.youtube.com/watch?v=nI1Sfc6lwLE
 imagefeature: picture-21.jpg

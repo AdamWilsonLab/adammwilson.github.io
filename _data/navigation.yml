@@ -3,17 +3,20 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Research
+  url: /research/
+
+- title: Publications
+  url: /publications/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Photography
+  url: /photo/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+#- title: Made Mistakes
+#  url: http://mademistakes.com
 
 - title: Search
   url: /search/

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Research Topics
+excerpt: "Overview of Research Topics"
 search_omit: true
 ---
 
