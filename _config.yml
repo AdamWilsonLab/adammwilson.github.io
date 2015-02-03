@@ -3,10 +3,10 @@
 title: Adam Michael Wilson, Ph.D.
 locale: en_US
 description: Studying Ecological Change in a Changing World
-logo: site-logo.png
+logo: logos/ian-symbol-wake-turbulence_icon-01.png
 search: true
-url: http://adammwilson.github.io/
-#url: http://localhost:4000
+#url: http://adammwilson.github.io/
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -33,9 +33,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Adam M. Wilson
-  avatar: AdamWilson_CircleMug.png
+  avatar: bio-photo.jpg
   email: adam.wilson@yale.edu
-  disqus-shortname:
+  disqus-shortname: planetflux
   twitter: planetflux
   facebook: #username
   github: adammwilson

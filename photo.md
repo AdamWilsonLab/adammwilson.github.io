@@ -5,8 +5,8 @@ title: A Call for Conservation Photography Education
 excerpt: "Photography is a useful communication tool"
 category: articles
 tags: [about,photo]
-image: 
-feature: picture-16.jpg
+image:
+  feature: WilsonAdam_20100826_5215_v2.jpg
 comments: true
 
 ---

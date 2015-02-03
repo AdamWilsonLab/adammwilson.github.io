@@ -3,7 +3,8 @@ layout: page
 permalink: /research/index.html
 title: Research Interests
 tags: [about,research]
-imagefeature: fieldwork.jpg
+image:
+  feature: fieldwork.jpg
 featured: true
 
 ---

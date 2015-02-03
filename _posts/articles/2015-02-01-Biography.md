@@ -1,16 +1,13 @@
 ---
-layout: page
-title: Biography
-excerpt: "Biography"
-modified: 2014-08-08T19:44:38.564948-04:00
+layout: post
+title: People
+category: blog
+permalink: /people.html
+excerpt: "People in the Wilson Lab"
+modified: 2015-02-01
 image:
-  feature: fieldwork.jpg
+  feature: WilsonAdam_20100728_9893.jpg
 ---
-
-<figure>
-	<a href="../images/bio-photot.jpg">
-	<img src="../images/bio-photo.jpg" alt="image" width="50%" align='center'></a>
-</figure>
 
 Adam M. Wilson, Ph.D.,  is a postdoctoral fellow at the Yale Climate and Energy Institute where he studies the ecological implications of global environmental change. Dr. Wilson earned his Ph.D. in Ecology and Evolutionary Biology at the University of Connecticut with interdisciplinary research in South Africa investigating the effects of climate change on species distributions, ecosystem resilience, and wildfire. 
 
