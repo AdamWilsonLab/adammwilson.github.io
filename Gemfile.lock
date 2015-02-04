@@ -1,9 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    bibtex-ruby (4.0.10)
+      latex-decode (~> 0.0)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
+    citeproc (1.0.1)
+      namae (~> 0.8)
+    citeproc-ruby (1.0.4)
+      citeproc (~> 1.0)
+      csl (~> 1.2)
     classifier-reborn (2.0.2)
       fast-stemmer (~> 1.0)
     coffee-script (2.3.0)
@@ -11,7 +18,15 @@ GEM
       execjs
     coffee-script-source (1.8.0)
     colorator (0.1)
+    csl (1.2.3)
+      namae (~> 0.7)
+    csl-styles (1.0.1.5)
+      csl (~> 1.0)
     execjs (2.2.2)
+    faraday (0.9.1)
+      multipart-post (>= 1.2, < 3)
+    faraday_middleware (0.9.1)
+      faraday (>= 0.7.4, < 0.10)
     fast-stemmer (1.0.2)
     ffi (1.9.6)
     ffi (1.9.6-x64-mingw32)
@@ -37,16 +52,25 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.2.1)
       sass (~> 3.2)
+    jekyll-scholar (4.3.3)
+      bibtex-ruby (~> 4.0, >= 4.0.9)
+      citeproc-ruby (~> 1.0)
+      csl-styles (~> 1.0)
+      jekyll (~> 2.0)
     jekyll-sitemap (0.6.2)
     jekyll-watch (1.1.2)
       listen (~> 2.7)
     kramdown (1.5.0)
+    latex-decode (0.1.1)
+      unicode (~> 0.4)
     liquid (2.6.1)
     listen (2.7.11)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.4)
+    multipart-post (2.0.0)
+    namae (0.9.2)
     octopress (3.0.0.rc.15)
       jekyll (~> 2.0)
       mercenary (~> 0.3.2)
@@ -81,6 +105,7 @@ GEM
     titlecase (0.1.1)
     toml (0.1.2)
       parslet (~> 1.5.0)
+    unicode (0.4.4.1)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -88,6 +113,9 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  faraday
+  faraday_middleware
   jekyll
+  jekyll-scholar
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)

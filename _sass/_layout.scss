@@ -142,8 +142,8 @@ body {
 }
 .site-logo {
 	img {
-		width: 50px;
-		height: 50px;
+		width: 100px;
+		height: 100px;
 		@include animation-duration(1s);
 	    @include animation-delay(.05s);
 	    border: 4px solid $white;
