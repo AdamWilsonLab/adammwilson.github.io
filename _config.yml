@@ -1,10 +1,6 @@
 include:
   - .nojekyll
 
-gems:
-  - jekyll-pandoc
-# - jekyll-travis
-
 # Site wide configuration
 
 title: Adam Michael Wilson, Ph.D.
@@ -23,8 +19,6 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
-gems:
-  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
@@ -77,7 +71,7 @@ scholar:
   details_layout: bibtex.html
   details_link:   Details
   query: "@*"
-  bibliography: 0000-0003-3362-7806.bib
+  bibliography: bibliography.bib
   bibtex_filters:
     - latex
     - markdown

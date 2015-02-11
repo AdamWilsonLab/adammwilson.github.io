@@ -15,7 +15,7 @@ C.V.
 </figure>
 
 
-<!-- <div class="row" id="year"></div>
+<div class="row" id="year"></div>
 
 <script type="text/javascript">
   var orcid = "{{ site.author.orcid }}";
@@ -42,4 +42,3 @@ C.V.
     {% bibliography -q @misc %}
   </div>
 </div>
--->
