@@ -4,7 +4,7 @@ title: "Producing a video of a scientific presentation"
 excerpt: "Using ffmpeg to create a 'picture-in-picture' recording'"
 category: blog
 tags: [photo,research, blog, Open Source Software]
-imagefeature: 
+imagefeature:
 comments: true
 share: true
 
@@ -25,4 +25,4 @@ mplayer -ss 1145 -noborder -geometry 190x110+10+650 -screenw 200 -screenh 500 de
 
 Here is the result:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/nI1Sfc6lwLE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nI1Sfc6lwLE" frameborder="0" allowfullscreen></iframe>

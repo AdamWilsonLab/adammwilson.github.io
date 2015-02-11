@@ -4,7 +4,7 @@ title: "Conservation Biology in Morocco"
 excerpt: "How eco-friendly is 'eco-friendly'?'"
 category: blog
 tags: [research]
-imagefeature: 
+imagefeature:
 comments: true
 share: true
 
@@ -13,7 +13,7 @@ share: true
 # Background
 From March 2004 to May 2006 I served as a Community Forestry Agent with the Moroccan Ministry of Water and Forests and the U.S. Peace Corps with my wife in a small village in the Argan Biosphere Reserve in southwest Morocco. During my time there I worked on a project to document and identify the plants present in the Amsittene Mountian Protected Area. Below are several products from this work and related materials.
 
-<iframe width="400px" height="315px" src="//www.youtube.com/embed/dfqVdBKs6Xo" frameborder="0" ></iframe> 
+<iframe width="400px" height="315px" src="http://www.youtube.com/embed/dfqVdBKs6Xo" frameborder="0" ></iframe> 
 
 # Resources
 Guide to the plants of Amsittene Mountain, Argan Biosphere Reserve (in French)
