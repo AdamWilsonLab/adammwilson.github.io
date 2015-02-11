@@ -68,7 +68,8 @@ scholar:
   locale: en
   sort_by: year
   order: descending
-  bibliography_template: "{{reference}}"
+  repository: pdf
+  bibliography_template: bibliography
   replace_strings: true
   join_strings:    true
   details_dir:    bibliography
