@@ -20,10 +20,10 @@ featured: true
 
 ## Links to my profile on various scholar networks:
 <span id="badgeCont127077"><script src='http://labs.researcherid.com/mashlets?el=badgeCont127077&amp;mashlet=badge&amp;showTitle=true&amp;className=a&amp;rid=C-6731-2009'></script></span>
-<a href="http://yale.academia.edu/AdamWilson" target="_blank"><img alt="Academia.edu" src="files/logos/academia-logo-big.jpg" width="40%"/></a>
-<a href="http://scholar.google.com/citations?user=zgVlijsAAAAJ&amp;hl=en" target="_blank"><img alt="Google Scholar" src="http://scholar.google.com/intl/en/scholar/images/scholar_logo_md_2011.gif" width="50%"/></a>
-<a href="http://orcid.org/0000-0003-3362-7806" target="_blank"><img alt="OrcID" src="http://orcid.org/sites/all/themes/orcid/img/orcid-logo.png" width="30%" /></a>
-<a href="http://www.scopus.com/authid/detail.url?authorId=26533580600" target="_blank"><img alt="Scopus" src="files/logos/sciversescopus.gif" width="40%" /></a></p>
+<a href="http://yale.academia.edu/AdamWilson" target="_blank"><img alt="Academia.edu" src="images/logos/academia-logo-big.jpg" width="25%"/></a>
+<a href="http://scholar.google.com/citations?user=zgVlijsAAAAJ&amp;hl=en" target="_blank"><img alt="Google Scholar" src="http://scholar.google.com/intl/en/scholar/images/scholar_logo_md_2011.gif" width="25%"/></a>
+<a href="http://orcid.org/0000-0003-3362-7806" target="_blank"><img alt="OrcID" src="http://orcid.org/sites/all/themes/orcid/img/orcid-logo.png" width="25%" /></a>
+<a href="http://www.scopus.com/authid/detail.url?authorId=26533580600" target="_blank"><img alt="Scopus" src="images/logos/sciversescopus.gif" width="25%" /></a></p>
 
 ## Publications, presentations, and other academic output...
 
