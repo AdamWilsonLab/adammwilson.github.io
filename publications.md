@@ -5,20 +5,13 @@ title: Publications
 tags: [about,research]
 image:
  feature: WilsonAdam_20100729_9935_v2.jpg
-featured: true
 
 ---
 
 
-
-## C.V.
-<figure>
-	<a href="{{ site.url }}/files/Wilson_Adam_CV.pdf" ><img src="{{ site.url }}/images/Wilson_Adam_CV_thumb.png" width="50%"></a>
-</figure>
-
 <img width="40%" height="auto" src="http://www.researcherid.com/CitationDistribution.action?key=50509&listId=LIST1&a=1382492327827">
 
-Links to my profile on various scholar networks:
+My <a href="{{ site.url }}/files/Wilson_Adam_CV.pdf" > C.V. </a> and links to my profile on various scholar networks:
 
 <span id="badgeCont127077"><script src='http://labs.researcherid.com/mashlets?el=badgeCont127077&amp;mashlet=badge&amp;showTitle=true&amp;className=a&amp;rid=C-6731-2009'></script></span>
 
