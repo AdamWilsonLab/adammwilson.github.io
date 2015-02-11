@@ -36,9 +36,9 @@ C.V.
     {% bibliography -q @article %}
   </div>
   <div class="tab-pane" id="book">
-    {% bibliography -q @book %}
+    {% bibliography -q @inproceedings %}
   </div>
     <div class="tab-pane" id="misc">
-    {% bibliography -q @misc %}
+    {% bibliography -q !@book&!@inproceedings %}
   </div>
 </div>
