@@ -15,6 +15,6 @@ C.V.
 </figure>
 
 
-
+## Publications, presentations, and other academic output...
 
 {% bibliography %}
