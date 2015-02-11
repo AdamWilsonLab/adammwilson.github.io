@@ -18,12 +18,12 @@ C.V.
 
 ## Articles
 
-    {% bibliography -q @article %}
+{% bibliography -q @article %}
 
 ## Presentations
 
-    {% bibliography -q @inproceedings %}
+{% bibliography -q @inproceedings %}
 
 ## Other
 
-    {% bibliography -q !@article&!@inproceedings %}
+{% bibliography -q !@article&!@inproceedings %}
