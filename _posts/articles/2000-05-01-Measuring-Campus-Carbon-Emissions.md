@@ -4,7 +4,7 @@ title: "Measuring Campus Carbon Emissions"
 excerpt: "Building tools to understand our impact"
 category: research
 tags: [research,outreach,service]
-imagefeature: 
+imagefeature:
 comments: true
 share: true
 

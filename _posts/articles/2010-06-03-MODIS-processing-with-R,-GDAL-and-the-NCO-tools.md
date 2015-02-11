@@ -4,7 +4,7 @@ title: "MODIS processing with R, GDAL, and the NCO tools"
 excerpt: "Open-source tools for MODIS processing"
 category: blog
 tags: [research]
-imagefeature: 
+imagefeature:
 comments: true
 share: true
 
@@ -20,7 +20,7 @@ First you need to identify which tiles you need by looking at the map:
 
 
 Then run something like this to download the entire MOD13Q1 (vegetation indices) data from MODIS.  Get ready for lots of data (the following list of tiles results in 269GB!):
- 
+
 {% highlight r %}
  ### Some specifications  
  ftpsite="ftp://e4ftl01u.ecs.nasa.gov/MOLT/MOD13Q1.005/" #for veg index  
@@ -35,7 +35,7 @@ Then run something like this to download the entire MOD13Q1 (vegetation indices)
  searchstring=paste("\"*",tiles,"*\"",sep="",collapse=",")  
   system(paste("wget -S --recursive --no-parent --no-directories -N -P",hdffolder," --accept",searchstring," --reject \"*xml\"",ftpsite))  
 {% endhighlight %}
- 
+
 This will put all the files in the hdffolder (which I set to "1_HDF").  You now have each tile for time period as a separate file.  I find it convenient to mosaic the tiles and perhaps warp them to another projection and subset it to a smaller region than all of the tiles together.  To do this I use the following functions (note that some details are specific to extracting NDVI, if you want something else it will need to be edited).  The first converts a MODIS date code to the R date format:
 
 {% highlight r %}modday2date<-function(i) as.Date(paste(c(substr(i,2,5),substr(i,6,9)),collapse="-"),"%Y-%j")
@@ -43,50 +43,50 @@ This will put all the files in the hdffolder (which I set to "1_HDF").  You now 
 
 The second converts a geotiff to a netcdf with a single-date record dimension:
 
-{% highlight r %}geotiff2netcdf=function(geotiff,output,date=NULL,startday=as.Date("2000-01-01"),varname="NDVI",scale=0.0001,missing=-3000,range=c(-1,1)){ 
-  ## Create netcdf file from modistool geotiff output 
-  ##create file and open for editing 
-  ## convert Date 
-  utdates=as.numeric(date-startday) 
-  ## Read in geotiff to set netCDF attributes 
-  print(paste("Importing ",geotiff)) 
-  x=readGDAL(geotiff) 
-  ## Set dimentions 
-  print("Defining NetCDF") 
-  create.nc(output,clobber=T) 
-  nc=open.nc(output,write=T) # Opens connection with netcdf file and write permission 
-  dim.def.nc(nc, "latitude", dimlength=x@grid@cells.dim[2], unlim=FALSE) 
-  dim.def.nc(nc, "longitude", dimlength=x@grid@cells.dim[1], unlim=FALSE) 
-  dim.def.nc(nc, "time", dimlength=length(utdates), unlim=TRUE) 
-  var.def.nc(nc,"time","NC_SHORT","time") 
-  var.put.nc(nc,"time",utdates, start=NA, count=NA, na.mode=0) 
-  att.put.nc(nc,"time", "units","NC_CHAR",paste("days since ",startday," 0",sep="")) 
-  att.put.nc(nc,"time", "standard_name","NC_CHAR","time") 
-  var.def.nc(nc,"longitude","NC_DOUBLE","longitude") 
-  att.put.nc(nc,"longitude", "units","NC_CHAR","degrees_east") 
-  att.put.nc(nc,"longitude", "standard_name","NC_CHAR","longitude") 
-  var.put.nc(nc,"longitude",seq(x@coords[1],x@coords[2],x@grid@cellsize[1]), start=NA, count=NA, na.mode=0) 
-  var.def.nc(nc,"latitude","NC_DOUBLE","latitude") 
-  att.put.nc(nc,"latitude", "units","NC_CHAR","degrees_north") 
-  att.put.nc(nc,"latitude", "standard_name","NC_CHAR","latitude") 
-  var.put.nc(nc,"latitude",seq(x@coords[3],x@coords[4],x@grid@cellsize[2]), start=NA, count=NA, na.mode=0) 
-  var.def.nc(nc,varname,"NC_SHORT",c("longitude","latitude","time")) 
-  att.put.nc(nc,varname, "missing_value","NC_DOUBLE",missing) 
-  att.put.nc(nc,varname, "units","NC_CHAR",varname) 
-  att.put.nc(nc,varname, "standard_name","NC_CHAR",varname) 
-  ## Process the data 
-  print("Processing data and writing to disk") 
-  notnull=x@data!=missing 
-  x@data[notnull][x@data[notnull]range[2]/scale]=missing #get rid of occasional weird value 
-  ## write the data to netCDF file 
-  var.put.nc(nc,varname,as.matrix(x)[,ncol(as.matrix(x)):1], start=c(1,1,1),count=c(x@grid@cells.dim[1],x@grid@cells.dim[2],1)) 
-  close.nc(nc) 
-  print("Finished!") 
- } 
+{% highlight r %}geotiff2netcdf=function(geotiff,output,date=NULL,startday=as.Date("2000-01-01"),varname="NDVI",scale=0.0001,missing=-3000,range=c(-1,1)){
+  ## Create netcdf file from modistool geotiff output
+  ##create file and open for editing
+  ## convert Date
+  utdates=as.numeric(date-startday)
+  ## Read in geotiff to set netCDF attributes
+  print(paste("Importing ",geotiff))
+  x=readGDAL(geotiff)
+  ## Set dimentions
+  print("Defining NetCDF")
+  create.nc(output,clobber=T)
+  nc=open.nc(output,write=T) # Opens connection with netcdf file and write permission
+  dim.def.nc(nc, "latitude", dimlength=x@grid@cells.dim[2], unlim=FALSE)
+  dim.def.nc(nc, "longitude", dimlength=x@grid@cells.dim[1], unlim=FALSE)
+  dim.def.nc(nc, "time", dimlength=length(utdates), unlim=TRUE)
+  var.def.nc(nc,"time","NC_SHORT","time")
+  var.put.nc(nc,"time",utdates, start=NA, count=NA, na.mode=0)
+  att.put.nc(nc,"time", "units","NC_CHAR",paste("days since ",startday," 0",sep=""))
+  att.put.nc(nc,"time", "standard_name","NC_CHAR","time")
+  var.def.nc(nc,"longitude","NC_DOUBLE","longitude")
+  att.put.nc(nc,"longitude", "units","NC_CHAR","degrees_east")
+  att.put.nc(nc,"longitude", "standard_name","NC_CHAR","longitude")
+  var.put.nc(nc,"longitude",seq(x@coords[1],x@coords[2],x@grid@cellsize[1]), start=NA, count=NA, na.mode=0)
+  var.def.nc(nc,"latitude","NC_DOUBLE","latitude")
+  att.put.nc(nc,"latitude", "units","NC_CHAR","degrees_north")
+  att.put.nc(nc,"latitude", "standard_name","NC_CHAR","latitude")
+  var.put.nc(nc,"latitude",seq(x@coords[3],x@coords[4],x@grid@cellsize[2]), start=NA, count=NA, na.mode=0)
+  var.def.nc(nc,varname,"NC_SHORT",c("longitude","latitude","time"))
+  att.put.nc(nc,varname, "missing_value","NC_DOUBLE",missing)
+  att.put.nc(nc,varname, "units","NC_CHAR",varname)
+  att.put.nc(nc,varname, "standard_name","NC_CHAR",varname)
+  ## Process the data
+  print("Processing data and writing to disk")
+  notnull=x@data!=missing
+  x@data[notnull][x@data[notnull]range[2]/scale]=missing #get rid of occasional weird value
+  ## write the data to netCDF file
+  var.put.nc(nc,varname,as.matrix(x)[,ncol(as.matrix(x)):1], start=c(1,1,1),count=c(x@grid@cells.dim[1],x@grid@cells.dim[2],1))
+  close.nc(nc)
+  print("Finished!")
+ }
 {% endhighlight %}
 
 And the third puts it all together by first using the mrtmosaic tool to mosaic the tiles and subset to the band of interest, then using resample tool (available at the link above) to convert the HDF to a geotiff and then calling the function above to convert that to a netCDF:
- 
+
 {% highlight r %}
  ### Function to procss the files using the commands above.  
  modis2netcdf<-function(i,hdffolder,outputfolder,files,bandsubset=1){  
@@ -114,7 +114,7 @@ And the third puts it all together by first using the mrtmosaic tool to mosaic t
 {% endhighlight %}
 
 You can then run these functions to process a folder of HDF files with the following commands.  If you are on a *nix system with multiple cores, I recommend using the multicore package to parallelize the processing.  Otherwise you'll need to change the mclapply() below to lapply():
- 
+
 {% highlight r %}
  allfiles=as.character(list.files(path = paste(getwd(),hdffolder,sep="/"))) # build file list  
  dates=unique(do.call("rbind",strsplit(allfiles,".",fixed=T))[,2]) #get unique dates  

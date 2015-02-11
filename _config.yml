@@ -1,3 +1,10 @@
+include:
+  - .nojekyll
+
+gems:
+  - jekyll-pandoc
+# - jekyll-travis
+
 # Site wide configuration
 
 title: Adam Michael Wilson, Ph.D.
@@ -49,28 +56,32 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
 
 author:
+  name: Adam M. Wilson
   orcid: 0000-0003-3362-7806
   # https://github.com/mfenner/jekyll-orcid
-  
+
 scholar:
-  source:          ./bibliography
+  source: bibliography
   style: apa
   locale: en
-  
   sort_by: none
   order: ascending
-  bibliography: references.bib
   bibliography_template: "{{reference}}"
-
   replace_strings: true
   join_strings:    true
-
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
-
   query: "@*"
+  bibliography: 0000-0003-3362-7806.bib
+  bibtex_filters:
+    - latex
+    - markdown
+
+
+production_url:  http://adammwilson.github.io
+source_url:      https://github.com/adammwilson/adammwilson.github.io

@@ -9,13 +9,13 @@ featured: true
 
 ---
 
-C.V. 
+C.V.
 <figure>
 	<a href="{{ site.url }}/files/Wilson_Adam_CV.pdf" ><img src="{{ site.url }}/images/Wilson_Adam_CV_thumb.png" width="25%"></a>
 </figure>
 
 
-<div class="row" id="year"></div>
+<!-- <div class="row" id="year"></div>
 
 <script type="text/javascript">
   var orcid = "{{ site.author.orcid }}";
@@ -42,3 +42,4 @@ C.V.
     {% bibliography -q @misc %}
   </div>
 </div>
+-->
