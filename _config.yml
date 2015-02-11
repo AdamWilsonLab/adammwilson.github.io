@@ -66,7 +66,7 @@ scholar:
   source: bibliography
   style: apa
   locale: en
-  sort_by: none
+  sort_by: Year
   order: ascending
   bibliography_template: "{{reference}}"
   replace_strings: true
