@@ -24,6 +24,7 @@ require 'rubygems'
      system "mv _site/* #{tmp}"
     ## commit to source
      system "git commit -am #{message.shellescape}"
+     system "git push"
      system "git checkout -B master"
      system "rm -rf *"
      system "mv #{tmp}/* ."
