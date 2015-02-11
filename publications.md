@@ -16,14 +16,5 @@ C.V.
 
 
 
-## Articles
 
-{% bibliography -q @article %}
-
-## Presentations
-
-{% bibliography -q @inproceedings %}
-
-## Other
-
-{% bibliography -q !@article&!@inproceedings %}
+{% bibliography %}
