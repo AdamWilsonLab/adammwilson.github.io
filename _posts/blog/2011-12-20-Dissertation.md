@@ -14,4 +14,4 @@ Climate change threatens to affect ecological dynamics at regional to global sca
 
 If you are curious how I made this video, [check out the other post on this topic](blog/2012-10-19-Producing-a-video-of-a-scientific-presentation).
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/nI1Sfc6lwLE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nI1Sfc6lwLE" frameborder="0" allowfullscreen></iframe>
