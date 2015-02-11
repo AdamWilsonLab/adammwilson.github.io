@@ -3,6 +3,10 @@ include:
 
 # Site wide configuration
 
+gems:
+  - jekyll/scholar
+  - jekyll-pandoc
+
 title: Adam Michael Wilson, Ph.D.
 locale: en_US
 description: Studying Ecological Change in a Changing World
@@ -74,7 +78,6 @@ scholar:
   bibliography: bibliography.bib
   bibtex_filters:
     - latex
-    - markdown
 
 
 production_url:  http://adammwilson.github.io
