@@ -21,12 +21,14 @@ require 'rubygems'
      system "bundle exec jekyll build"
      message = "Site updated at #{Time.now.utc}"
      system "git add ."
-     system "git commit -am #{message.shellescape}"
      system "mv _site/* #{tmp}"
+    ## commit to source
+     system "git commit -am #{message.shellescape}"
      system "git checkout -B master"
      system "rm -rf *"
      system "mv #{tmp}/* ."
      system "git add ."
+     ## commit to master
      system "git commit -am #{message.shellescape}"
      system "git push origin master --force"
      system "git checkout source"
