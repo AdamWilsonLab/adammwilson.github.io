@@ -23,6 +23,14 @@ My <a href="{{ site.url }}/files/Wilson_Adam_CV.pdf" > C.V. </a> and links to my
 
 <a href="http://www.scopus.com/authid/detail.url?authorId=26533580600" target="_blank"><img alt="Scopus" src="/images/logos/sciversescopus.gif" width="20%" /></a>
 
-## Publications, presentations, and other academic output...
+## Publications
 
-{% bibliography %}
+{% bibliography --query @article %}
+
+<h2 id="presentations">Presentations</h2>
+
+{% bibliography --query @inproceedings %}
+
+<h2 id="misc">Other academic output</h2>
+
+{% bibliography --query @misc  %}

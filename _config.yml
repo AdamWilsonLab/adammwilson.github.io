@@ -69,12 +69,11 @@ scholar:
   sort_by: year
   order: descending
   repository: pdf
-#  bibliography_template: bibliography
   replace_strings: true
   join_strings:    true
   details_dir:    bibliography
-#  details_layout: bibtex.html
-  details_link:   Details
+  details_layout: bibliography.html
+  details_link:   "  Details"
   query: "@*"
   bibliography: bibliography.bib
   bibtex_filters:
