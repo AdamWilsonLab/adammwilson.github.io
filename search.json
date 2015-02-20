@@ -1,25 +1,333 @@
----
-sitemap: false
----
-
 [
-{% for post in site.posts %}
-  {% if post.title != null and post.title != empty and post.search_omit != true %}
-    {% if forloop.index > 1 %},{% endif %}{
-      "title"			: {{ post.title | jsonify }},
-      "link"			: "{{ site.url }}{{ post.url }}",
-      "excerpt"		: "{{ post.excerpt }}"
-    }
-  {% endif %}
-{% endfor %}
 
-{% for page in site.pages %}
-  {% if page.layout != 'none' and page.layout != 'none' and page.title != null and page.title != empty and page.search_omit != true %}
-    {% if forloop.index > 1 %},{% endif %}{
-      "title"			: {{ page.title | jsonify }},
-      "link"			: "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
-      "excerpt"		: "{{ page.excerpt }}"
+  
+    {
+      "title"			: "Transitioning to new website",
+      "link"			: "http://adammwilson.github.io//blog/switch/",
+      "excerpt"		: "Switching to GitHub Pages and Jekyll/RMarkdown"
     }
-  {%endif%}
-{% endfor %}
+  
+
+  
+    ,{
+      "title"			: "People",
+      "link"			: "http://adammwilson.github.io//people.html",
+      "excerpt"		: "People in the Wilson Lab"
+    }
+  
+
+  
+    ,{
+      "title"			: "Syncing Zotero attachments via Box.com",
+      "link"			: "http://adammwilson.github.io//blog/zoterosync/",
+      "excerpt"		: "More storage for free!"
+    }
+  
+
+  
+    ,{
+      "title"			: "DISsertations initiative for the advancement of Climate Change ReSearch (DISCCRS) Conference",
+      "link"			: "http://adammwilson.github.io//blog/DISCCRS-intro/",
+      "excerpt"		: "short statement of Adam M. Wilson's research interests"
+    }
+  
+
+  
+    ,{
+      "title"			: "Climate and Fall Foliage in the Northeastern U.S.",
+      "link"			: "http://adammwilson.github.io//articles/Fall-Foliage/",
+      "excerpt"		: "Will climate change alter the fall display?"
+    }
+  
+
+  
+    ,{
+      "title"			: "Species Distribution Modeling",
+      "link"			: "http://adammwilson.github.io//articles/Distribution-Modeling/",
+      "excerpt"		: "A few thoughts on the way forward."
+    }
+  
+
+  
+    ,{
+      "title"			: "Miniature Forests of Cape Horn, Patagonia",
+      "link"			: "http://adammwilson.github.io//articles/MiniatureForests/",
+      "excerpt"		: "I love exploring the world through a macro lens..."
+    }
+  
+
+  
+    ,{
+      "title"			: "Producing a video of a scientific presentation",
+      "link"			: "http://adammwilson.github.io//blog/Producing-a-video-of-a-scientific-presentation/",
+      "excerpt"		: "Using ffmpeg to create a 'picture-in-picture' recording'"
+    }
+  
+
+  
+    ,{
+      "title"			: "Fire and Climate: the Implications of Global Change in the Cape Floristic Region of South Africa",
+      "link"			: "http://adammwilson.github.io//blog/Dissertation/",
+      "excerpt"		: "My dissertation defense"
+    }
+  
+
+  
+    ,{
+      "title"			: "Copy all the files in a directory to a new directory using R",
+      "link"			: "http://adammwilson.github.io//blog/copy-all-the-files-in-a-directory-to-a-new-directory-using-r/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "MODIS processing with R, GDAL, and the NCO tools",
+      "link"			: "http://adammwilson.github.io//blog/MODIS-processing-with-R,-GDAL-and-the-NCO-tools/",
+      "excerpt"		: "Open-source tools for MODIS processing"
+    }
+  
+
+  
+    ,{
+      "title"			: "Conservation Biology in Morocco",
+      "link"			: "http://adammwilson.github.io//blog/Conservation-Biology-in-Morocco/",
+      "excerpt"		: "How eco-friendly is 'eco-friendly'?'"
+    }
+  
+
+  
+    ,{
+      "title"			: "Measuring Campus Carbon Emissions",
+      "link"			: "http://adammwilson.github.io//research/Measuring-Campus-Carbon-Emissions/",
+      "excerpt"		: "Building tools to understand our impact"
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://adammwilson.github.io//theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "A Call for Conservation Photography Education",
+      "link"			: "http://adammwilson.github.io//photo/",
+      "excerpt"		: "Photography is a useful communication tool"
+    }
+  
+
+  
+    ,{
+      "title"			: "Publications",
+      "link"			: "http://adammwilson.github.io//publications/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Research Interests",
+      "link"			: "http://adammwilson.github.io//research/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
 ]
