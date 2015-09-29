@@ -22,8 +22,8 @@ description: "Adam M. Wilson's lab webpage"
 # This URL is the main adresse. Don't include a slash at the end.
 #
 #url: "http://127.0.0.1:4000/"
-baseurl: http://adamwilson.us/
-url: http://adamwilson.us/
+baseurl: "http://adamwilson.us/"
+url: "http://adamwilson.us/"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
