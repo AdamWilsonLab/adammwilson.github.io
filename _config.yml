@@ -193,7 +193,7 @@ disqus_shortname: planetflux
 
 sass:
     sass_dir: _sass
-    style: :compressed
+    style: :uncompressed
 
 
 #       ___                __      __  _
