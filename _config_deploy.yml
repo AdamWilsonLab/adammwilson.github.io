@@ -5,5 +5,5 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: ""
-urlimg: "images"
+url: "http://adammwilson.github.io"
+urlimg: "http://adammwilson.github.io/images"
