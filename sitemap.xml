@@ -4,7 +4,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/zoterosync/</loc>
+      <loc>/blog/zoterosync/</loc>
       
         <lastmod>2014-08-20T00:00:00-04:00</lastmod>
       
@@ -19,7 +19,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/DISCCRS-intro/</loc>
+      <loc>/blog/DISCCRS-intro/</loc>
       
         <lastmod>2013-10-29T00:00:00-04:00</lastmod>
       
@@ -34,7 +34,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//articles/Fall-Foliage/</loc>
+      <loc>/articles/Fall-Foliage/</loc>
       
         <lastmod>2013-10-24T00:00:00-04:00</lastmod>
       
@@ -49,7 +49,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//articles/Distribution-Modeling/</loc>
+      <loc>/articles/Distribution-Modeling/</loc>
       
         <lastmod>2013-01-15T00:00:00-05:00</lastmod>
       
@@ -64,7 +64,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//articles/MiniatureForests/</loc>
+      <loc>/articles/MiniatureForests/</loc>
       
         <lastmod>2012-11-13T00:00:00-05:00</lastmod>
       
@@ -79,7 +79,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/Producing-a-video-of-a-scientific-presentation/</loc>
+      <loc>/blog/Producing-a-video-of-a-scientific-presentation/</loc>
       
         <lastmod>2012-10-19T00:00:00-04:00</lastmod>
       
@@ -94,7 +94,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/Dissertation/</loc>
+      <loc>/blog/Dissertation/</loc>
       
         <lastmod>2011-12-20T00:00:00-05:00</lastmod>
       
@@ -109,7 +109,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/copy-all-the-files-in-a-directory-to-a-new-directory-using-r/</loc>
+      <loc>/blog/copy-all-the-files-in-a-directory-to-a-new-directory-using-r/</loc>
       
         <lastmod>2011-10-27T00:00:00-04:00</lastmod>
       
@@ -124,7 +124,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/MODIS-processing-with-R,-GDAL-and-the-NCO-tools/</loc>
+      <loc>/blog/MODIS-processing-with-R,-GDAL-and-the-NCO-tools/</loc>
       
         <lastmod>2010-06-03T00:00:00-04:00</lastmod>
       
@@ -139,7 +139,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//blog/Conservation-Biology-in-Morocco/</loc>
+      <loc>/blog/Conservation-Biology-in-Morocco/</loc>
       
         <lastmod>2006-05-30T00:00:00-04:00</lastmod>
       
@@ -154,7 +154,7 @@
   
     
     <url>
-      <loc>http://adamwilson.us//research/Measuring-Campus-Carbon-Emissions/</loc>
+      <loc>/research/Measuring-Campus-Carbon-Emissions/</loc>
       
         <lastmod>2000-05-01T00:00:00-04:00</lastmod>
       
@@ -170,24 +170,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//404.html</loc>
+      <loc>/404.html</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//contact/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -200,24 +185,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//design/</loc>
+      <loc>/blog/archive/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//documentation/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -230,24 +200,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//getting-started/</loc>
+      <loc>/contact/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//headers/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -260,24 +215,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//</loc>
+      <loc>/design/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//info/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -290,24 +230,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//photo/</loc>
+      <loc>/documentation/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//research/publications/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -320,24 +245,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//redirect-page/</loc>
+      <loc>/getting-started/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//research/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -350,24 +260,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//robots.txt</loc>
+      <loc>/headers/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//search/</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -380,24 +275,9 @@
   
     
     <url>
-      <loc>http://adamwilson.us//sitemap.xml</loc>
+      <loc>/blog/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://adamwilson.us//assets/css/styles_feeling_responsive.css</loc>
-      
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -410,9 +290,189 @@
   
     
     <url>
-      <loc>http://adamwilson.us//teaching/</loc>
+      <loc>/</loc>
       
-        <lastmod>2015-09-29T16:33:26-04:00</lastmod>
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/info/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/photo/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/research/publications/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/redirect-page/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/research/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/robots.txt</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/search/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/sitemap.xml</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/assets/css/styles_feeling_responsive.css</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/teaching/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/blog/page2/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/blog/page3/</loc>
+      
+        <lastmod>2015-09-29T16:54:11-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

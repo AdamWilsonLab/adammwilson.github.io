@@ -1,3 +1,7 @@
 User-agent: *
+<<<<<<< HEAD
 Sitemap: http://adamwilson.us//sitemap.xml
 Sitemap: {{ site.url }}/sitemap.xml
+=======
+Sitemap: /sitemap.xml
+>>>>>>> 6be16d5ac5eef6bcb85ea51c4798c411e9bd819a
