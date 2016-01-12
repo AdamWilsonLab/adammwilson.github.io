@@ -22,9 +22,9 @@
 - title: Photography
   url: "/photo/"
   side: left
-  dropdown:
-  - title: Albums
-    url: "/documentation/"
+#  dropdown:
+#  - title: Albums
+#    url: "/documentation/"
 - title: Blog
   url: "/blog/"
   side: left
