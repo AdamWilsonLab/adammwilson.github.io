@@ -21,7 +21,7 @@ First you need to identify which tiles you need by looking at the map:
 
 Then run something like this to download the entire MOD13Q1 (vegetation indices) data from MODIS.  Get ready for lots of data (the following list of tiles results in 269GB!):
 
-{% highlight r %}
+```
  ### Some specifications  
  ftpsite="ftp://e4ftl01u.ecs.nasa.gov/MOLT/MOD13Q1.005/" #for veg index  
  hdffolder="1_HDF" #folder to hold HDF files  
@@ -34,16 +34,16 @@ Then run something like this to download the entire MOD13Q1 (vegetation indices)
  ### Use wget to recursively download all files for selected tiles - will not overwrite unless source is newer  
  searchstring=paste("\"*",tiles,"*\"",sep="",collapse=",")  
   system(paste("wget -S --recursive --no-parent --no-directories -N -P",hdffolder," --accept",searchstring," --reject \"*xml\"",ftpsite))  
-{% endhighlight %}
+```
 
 This will put all the files in the hdffolder (which I set to "1_HDF").  You now have each tile for time period as a separate file.  I find it convenient to mosaic the tiles and perhaps warp them to another projection and subset it to a smaller region than all of the tiles together.  To do this I use the following functions (note that some details are specific to extracting NDVI, if you want something else it will need to be edited).  The first converts a MODIS date code to the R date format:
 
-{% highlight r %}modday2date<-function(i) as.Date(paste(c(substr(i,2,5),substr(i,6,9)),collapse="-"),"%Y-%j")
-{% endhighlight %}
-
+```modday2date<-function(i) as.Date(paste(c(substr(i,2,5),substr(i,6,9)),collapse="-"),"%Y-%j")
+```
 The second converts a geotiff to a netcdf with a single-date record dimension:
 
-{% highlight r %}geotiff2netcdf=function(geotiff,output,date=NULL,startday=as.Date("2000-01-01"),varname="NDVI",scale=0.0001,missing=-3000,range=c(-1,1)){
+``
+geotiff2netcdf=function(geotiff,output,date=NULL,startday=as.Date("2000-01-01"),varname="NDVI",scale=0.0001,missing=-3000,range=c(-1,1)){
   ## Create netcdf file from modistool geotiff output
   ##create file and open for editing
   ## convert Date
@@ -83,12 +83,10 @@ The second converts a geotiff to a netcdf with a single-date record dimension:
   close.nc(nc)
   print("Finished!")
  }
-{% endhighlight %}
-
+```
 And the third puts it all together by first using the mrtmosaic tool to mosaic the tiles and subset to the band of interest, then using resample tool (available at the link above) to convert the HDF to a geotiff and then calling the function above to convert that to a netCDF:
 
-{% highlight r %}
- ### Function to procss the files using the commands above.  
+``` ### Function to procss the files using the commands above.  
  modis2netcdf<-function(i,hdffolder,outputfolder,files,bandsubset=1){  
   tdir="/media/fynbos/public/tmp"  
   dir.create(tdir)  
@@ -111,16 +109,16 @@ And the third puts it all together by first using the mrtmosaic tool to mosaic t
   file.remove(tmos,tclip,tparams); gc()  
   print(paste(which(dates%in%i), "out of ", length(dates)))  
  }}  
-{% endhighlight %}
+```
 
 You can then run these functions to process a folder of HDF files with the following commands.  If you are on a *nix system with multiple cores, I recommend using the multicore package to parallelize the processing.  Otherwise you'll need to change the mclapply() below to lapply():
 
-{% highlight r %}
+```
  allfiles=as.character(list.files(path = paste(getwd(),hdffolder,sep="/"))) # build file list  
  dates=unique(do.call("rbind",strsplit(allfiles,".",fixed=T))[,2]) #get unique dates  
  type=do.call("rbind",strsplit(allfiles,".",fixed=T))[1,1] #get prefix of file type  
  band=1  
  ### Run the files - will not overwrite existing mosaics  
  mclapply(dates,modis2netcdf,hdffolder,outputfolder=ofolder,files=allfiles,bandsubset=band,mc.cores=8,mc.preschedule=F)  
-{% endhighlight %}
+```
 Now you can use the NCO commands to extract a timeseries from these files, perhaps for only a subset of the data using ncrcat.
