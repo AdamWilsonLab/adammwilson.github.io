@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # www.robotstxt.org/
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
@@ -6,10 +6,5 @@ User-agent: *
 Sitemap: /sitemap.xml
 =======
 User-agent: *
-<<<<<<< HEAD
 Sitemap: http://adamwilson.us//sitemap.xml
 Sitemap: {{ site.url }}/sitemap.xml
-=======
-Sitemap: /sitemap.xml
->>>>>>> 6be16d5ac5eef6bcb85ea51c4798c411e9bd819a
->>>>>>> gh-pages
