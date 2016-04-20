@@ -1,0 +1,591 @@
+---
+layout: default
+slides:
+  - bg: ../images/photo/fieldwork.jpg
+    title: Wilson Lab
+    tagline: Measuring change in a changing world
+    buttons:
+#    - text: Publications
+#      class: small
+#      url: https://scholar.google.com/citations?user=zgVlijsAAAAJ&hl=en
+#    - text: purchase now
+#      class: small boxed
+#      url: http://themeforest.net/user/honryou/portfolio?ref=honryou
+works:
+  - image: ../images/@stock/one-page-work-1.jpg
+    title: Cloud Atlas
+    link_to: Cloud.html
+    class: graphic-design
+    desc: Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions <br> PLoS Biology
+  - image: ../images/@stock/one-page-work-2.jpg
+    title: Look at me
+    link_to: portfolio-item.html
+    class: web-design print
+    desc: Design &amp; Development
+  - image: ../images/@stock/one-page-work-3.jpg
+    title: Am I cute
+    link_to: portfolio-item.html
+    class: brand
+    desc: Design &amp; Development
+  - image: ../images/@stock/one-page-work-4.jpg
+    title: Umbrella
+    link_to: portfolio-item.html
+    class: development
+    desc: Design &amp; Development
+  - image: ../images/@stock/one-page-work-5.jpg
+    title: Canned Bros
+    link_to: portfolio-item.html
+    class: print brand
+    desc: Design &amp; Development
+  - image: ../images/@stock/one-page-work-6.jpg
+    title: Hale
+    link_to: portfolio-item.html
+    class: web-design
+    desc: Design &amp; Development
+  - image: ../images/@stock/one-page-work-7.jpg
+    title: A beautiful day
+    link_to: portfolio-item.html
+    class: web-design
+    desc: Design &amp; Development
+  - image: ../images/@stock/one-page-work-8.jpg
+    title: Flower Book
+    link_to: portfolio-item.html
+    class: graphic-design
+    desc: Design &amp; Development
+
+testimonials:
+  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
+    author: "- David White, Designer at Huglab"
+  - quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+    author: "- David White, Designer at Huglab"
+  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
+    author: "- David White, Designer at Huglab"
+
+members:
+  - avatar: ../images/photo/Wilson.jpg
+    name: Adam M. Wilson
+    position: Assistant Professor
+    socials:
+      - link: http://twitter.com/AdamWilsonLab
+        icon: twitter
+      - link: http://github.com/adammwilson
+        icon: github
+    desc:    Assistant Professor of Global Environmental Change in the Geography Department at the University at Buffalo.
+  - avatar: images/@stock/member-2.jpg
+    name: Kate Holms
+    position: Creative Director
+    socials:
+      - link: http://twitter.com
+        icon: twitter
+      - link: http://facebook.com
+        icon: facebook
+      - link: http://dribbble.com
+        icon: dribbble
+    desc:
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+clients:
+  - ../images/@stock/client-1.png
+  - ../images/@stock/client-2.png
+  - ../images/@stock/client-3.png
+  - ../images/@stock/client-4.png
+  - ../images/@stock/client-5.png
+  - ../images/@stock/client-6.png
+
+socials:
+  - title: Facebook
+    text: Connect us with facebook
+    icon_class: fa fa-facebook
+    link_to: http://facebook.com
+  - title: Facebook
+    text: Connect us with facebook
+    icon_class: fa fa-facebook
+    link_to: http://facebook.com
+  - title: Facebook
+    text: Connect us with facebook
+    icon_class: fa fa-facebook
+    link_to: http://facebook.com
+---
+<div class='mod modFullscreenSlider'>
+  <div class='fullscreen_slideshow' data-autostop='off'>
+    <a class='sequence-prev' href='javascript:void(0);'>
+      <span></span>
+    </a>
+    <a class='sequence-next' href='javascript:void(0);'>
+      <span></span>
+    </a>
+    <ul class='sequence-pagination'>
+      {% for slide in page.slides %}
+        {% if forloop.first %}
+          {% assign class = 'current' %}
+        {% else %}
+          {% assign class = '' %}
+        {% endif %}
+        <li class="{{class}}"></li>
+      {% endfor %}
+    </ul>
+    <ul class="sequence-canvas">
+      {% for slide in page.slides %}
+        {% if forloop.first %}
+          {% assign style = 'static' %}
+        {% else %}
+          {% assign style = '' %}
+        {% endif %}
+
+        <li class='frame centered-text {{style}}'>
+          <h1>{{slide.title}}</h1>
+          <p>{{slide.tagline}}</p>
+          <div class='two spacing'></div>
+          <div class='buttons-wrapper'>
+            {% for button in slide.buttons %}
+              <a class='button {{button.class}}' href='{{button.url}}'>{{button.text}}</a>
+            {% endfor %}
+          </div>
+          {% if slide.videos %}
+            <div class='video_image_touch' style='background-image: url({{slide.bg}});'></div>
+            <div class='video_wrap'>
+              <div class='overlay' style='background: #000000;opacity: 0.6;'></div>
+              <video autoplay=' ' class='bg_video' loop=' ' muted=' ' preload='auto'>
+                {% for video in slide.videos %}
+                  <source src='{{video.url}}' type='video/{{video.type}}'>
+                {% endfor %}
+              </video>
+            </div>
+          {% else %}
+            <div class='bg' style='background-image: url({{slide.bg}});'></div>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+<a id='about'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-10 columns large-centered'>
+      <div class='spacing'></div>
+      {% include section-header.html class="alt" title="What we do" %}
+      <div class='spacing'></div>
+      <p class='centered-text' style='font-size: 1.6rem'>
+        Work in the lab focuses on patterns and processes of the spatial distribution of biodiversity and ecosystem function.  We use tools of remote sensing combined with field work and both mechanistic and statistical modelling to understand how ecosystems change through space and time.
+      </p>
+      <div class='two spacing'></div>
+      <p class='centered-text'>
+        <img alt="" src="../images/@stock/circle-logo.png" />
+      </p>
+    </div>
+  </div>
+</div>
+<div class='three spacing'></div>
+<div class='full parallax' style='background-image: url(../images/@stock/milestone-bg-2.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="the achievements" class="alt" title_style="color: #fff;" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='medium-3 large-3 columns'>
+      {% include milestone.html title="Projects Completed" from="0" to="69" icon_class="fa fa-folder-open" %}
+    </div>
+    <div class='medium-3 large-3 columns'>
+      {% include milestone.html title="Cups of coffee offered" from="0" to="726" icon_class="fa fa-coffee" %}
+    </div>
+    <div class='medium-3 large-3 columns'>
+      {% include milestone.html title="Happy clients" from="0" to="59" icon_class="fa fa-thumbs-up" %}
+    </div>
+    <div class='medium-3 large-3 columns'>
+      {% include milestone.html title="Articles Published" from="0" to="21" icon_class="fa fa-file-text" %}
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
+<a id='services'></a>
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Our services" class="alt" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedTextSlider'>
+        <div class='boxes'>
+          {% include box.html class="fa fa-trophy" title="Design" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
+          {% include box.html class="fa fa-compass" title="Art direction" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
+          {% include box.html class="fa fa-star-half-empty" title="Branding" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
+          {% include box.html class="fa fa-image" title="Photography" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
+          {% include box.html class="fa fa-dot-circle-o" title="Marketing" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+<div class='full parallax' style='background-image: url(../images/@stock/milestone-bg.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title_style="color: #fff;" title="What we are good at" %}
+      <div class='spacing'></div>
+      <p style='color: #ccc;'>
+        Dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+      </p>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-5 columns'>
+      <div class='mod modBarGraph'>
+        <ul class='bars'>
+          <li>
+            {% include bar-graph.html style="color: #fff;" title="Web Design" percents="84" %}
+          </li>
+          <li>
+            {% include bar-graph.html style="color: #fff;" title="Web Development" percents="99" %}
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class='large-6 columns'>
+      <div class='mod modBarGraph'>
+        <ul class='bars'>
+          <li>
+            {% include bar-graph.html style="color: #fff;" title="Branding" percents="90" %}
+          </li>
+          <li>
+            {% include bar-graph.html style="color: #fff;" title="Marketing" percents="66" %}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+<a id='work'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Selected Works" class="alt" %}
+      <div class='spacing'></div>
+      <p>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+      </p>
+      <div class='two spacing'></div>
+      <div class='mod modGallery'>
+        <div class='gallery-nav'>
+          <ul>
+            <li class='current'>
+              <a data-cat='all' href='#'>All</a>
+            </li>
+            <li>
+              <a data-cat='graphic-design' href='#'>Graphic Design</a>
+            </li>
+            <li>
+              <a data-cat='web-design' href='#'>Web Design</a>
+            </li>
+            <li>
+              <a data-cat='brand' href='#'>Brand</a>
+            </li>
+            <li>
+              <a data-cat='development' href='#'>Development</a>
+            </li>
+            <li>
+              <a data-cat='print' href='#'>Print</a>
+            </li>
+          </ul>
+        </div>
+        <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
+          {% for work in page.works %}
+            <li class='{{work.class}}'>
+              <a href='{{work.link_to}}'>
+                <img width="600" height="500" alt="" src="{{work.image}}" />
+                <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
+                  <div class='thumb-info'>
+                    <h3>{{work.title}}</h3>
+                    <p>{{work.desc}}</p>
+                  </div>
+                </div>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <a class='button' href='#'>View more works</a>
+      </p>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+<div class='full parallax' style='background-image: url(../images/@stock/testimonials-bg.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <i class='fa fa-quote-left' style='color: #F9CE06; font-size: 36px;'></i>
+      </p>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="What our clients say" title_style="color: #fff;" class="alt" %}
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modTestimonials'>
+        <div class='row'>
+          <div class='small-12 columns'>
+            <div class='items centered-text'>
+              {% for testimonial in page.testimonials %}
+                <div class='item'>
+                  <p class='quote'>{{testimonial.quote}}</p>
+                  <p class='author'>{{testimonial.author}}</p>
+                  <div class='two spacing'></div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          <div class='spacing'></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='full no-padding' style='background: #F9CE06; color: #fff'>
+  <div class='two spacing'></div>
+  <div class='mod modCallToAction'>
+    <div class='row'>
+      <div class='medium-9 large-9 columns'>
+        <p>Like what you see here? Checkout this theme and start to build your site immediately.</p>
+      </div>
+      <div class='medium-3 large-3 columns'>
+        <a class='boxed button' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Learn more</a>
+      </div>
+    </div>
+  </div>
+  <div class='spacing'></div>
+</div>
+<a id='lab'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title="Lab members" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% for member in page.members %}
+      <div class='small-6 medium-3 large-3 columns'>
+        <div class='mod modTeamMember style-2'>
+          <div class='member'>
+            <img class="avatar" width="250" height="250" alt="" src="{{member.avatar}}" />
+            <div class='overlay'>
+              <ul class='socials'>
+                {% for social in member.socials %}
+                  <li>
+                    <a href='{{social.url}}'>
+                      <i class='fa fa-{{social.icon}}'></i>
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <h3>{{member.name}}</h3>
+          <p class='position'>{{member.position}}</p>
+          <p>{{member.desc}}</p>
+          <div class='two spacing'></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class='three spacing'></div>
+</div>
+<div class='full parallax' style='background-image: url(../images/@stock/customers-bg.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title_style="color: #fff;" title="Our customers" %}
+      <div class='spacing'></div>
+      <p>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+      </p>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modClients' data-slides_to_show='4'>
+        <div class='clients'>
+          {% for client in page.clients %}
+            <div><img width="272" height="180" alt="" src="{{client}}" /></div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
+<a id='pricing'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title="Pricing table" %}
+      <div class='spacing'></div>
+      <p>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+      </p>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='spacing'></div>
+  <div class='row'>
+    {% for box in page.price_boxes %}
+      <div class='medium-6 large-3 columns'>
+        <div class='mod modPriceBox {{box.class}}'>
+          <div class='info'>
+            <p class='level'>{{box.type}}</p>
+            <p class='desc'>{{box.desc}}</p>
+            <p class='price'>
+              <span class='dollar'>$</span>
+              <span class='number'>{{box.cost}}</span>
+            </p>
+          </div>
+          <div class='features'>
+            <ul>
+              {% for line in box.lines %}
+                <li class="{% cycle '', 'even' %}">{{line}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <p class='start'>
+            <a class='button small' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Start Trial</a>
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class='four spacing'></div>
+</div>
+<div class='full parallax' style='background-image: url(../images/@stock/blog-posts-bg.jpg);'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Our recent posts" class="alt" title_style="color: #fff;" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% for post in site.posts %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
+      <div class='large-4 medium-4 columns'>
+        <div class='mod modBlogPost'>
+          <a href="{{post.url}}"><img alt="" src="{{site.url}}/{{post.image}}" /></a>
+          <div class='content'>
+            <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+            <h4><a href="#">{{post.title}}</a></h4>
+            <p>{{post.excerpt}}</p>
+            <div class='tags'>
+              {% for tag in post.tags %}
+                <a href="#">{{tag | capitalize}}</a>
+                {% unless forloop.last %},{% endunless %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <a class='button boxed' href='{{site.url}}/blog.html'>See more posts</a>
+      </p>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
+<a id='contact'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Contact us" class="alt" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='medium-8 columns'>
+      <div class='form'>
+        <div class='row'>
+          <form id='contact_form' method='POST'>
+            <div class='large-12 columns'>
+              <p id='thanks' style='display: none;'>
+                Thanks for contacting us, we'll be in touch soon!
+              </p>
+            </div>
+            <div class='medium-12 columns'>
+              <input class='required' name='name' placeholder='NAME' type='text'>
+              <input class='required email' name='email' placeholder='EMAIL' type='text'>
+              <input class='required' name='subject' placeholder='SUBJECT' type='text'>
+              <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
+              <input class='button white' type='submit'>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class='two spacing'></div>
+    </div>
+    <div class='medium-4 columns'>
+      <div class='contact-details'>
+        <h4>Our location:</h4>
+        <p>41 Dean Street, London, UK</p>
+        <h4>Our Phone:</h4>
+        <p>+86 (03) 9810 4612</p>
+        <h4>Fax:</h4>
+        <p>+6102 236338 5456</p>
+        <h4>Our Email:</h4>
+        <p>info@osum-team.com</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='two spacing'></div>
+<div class='full parallax' style='background-image: url(../images/@stock/big-socials-bg.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title="Find us elsewhere" title_style="color: #fff;" %}
+      <div class='two spacing'></div>
+    </div>
+    {% for social in page.socials %}
+      <div class='medium-3 columns'>
+        <div class='big-social'>
+          <a href='{{social.link_to}}'>
+            <i class='{{social.icon_class}}'></i>
+          </a>
+          <h4 style='color: #fff'>{{social.title}}</h4>
+          <p>{{social.text}}</p>
+        </div>
+        <div class='two spacing'></div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class='four spacing'></div>
+  <div class='two spacing'></div>
+</div>
+<div class='full no-padding' style='background: #111'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p>©2014 {{site.title}}. All rights reserved.</p>
+    </div>
+  </div>
+  <div class='spacing'></div>
+</div>

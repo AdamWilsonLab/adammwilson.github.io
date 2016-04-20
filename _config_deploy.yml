@@ -1,9 +1,0 @@
-#
-# This config-file is only needed for deployment with jgd. Instead of changing the url
-# everytime you work locally on the project, you start both config-files, overwriting
-# the first one with the development variables needed.
-#
-# Start development with › $ jekyll serve --config _config.yml,_config_deploy.yml
-
-url: "https://adammwilson.github.io"
-urlimg: "https://adammwilson.github.io/images"

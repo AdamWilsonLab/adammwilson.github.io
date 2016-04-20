@@ -1,0 +1,27 @@
+- name: Home
+  path: "#top"
+  section_id: home
+- name: Research
+  path: "#Research"
+  section_id: services
+- name: Publications
+  path: "#publications"
+  section_id: publications
+- name: Teaching
+  path: "#teaching"
+  section_id: teaching
+- name: Members
+  path: "#lab"
+  section_id: lab
+- name: Contact
+  path: "#contact"
+  section_id: contact
+#- name: Blog
+#  path: blog/
+#  section_id: blog
+#  children:
+#    - name: Blog Default
+#      path: blog/
+#    - name: Blog Fullwidth
+#      path: blog-fullwidth/
+#    - name: Blog Masonry

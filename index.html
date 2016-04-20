@@ -1,0 +1,277 @@
+---
+layout: default
+slides:
+  - bg: images/photo/fieldwork.jpg
+    title: Wilson Lab
+    tagline: Global Environmental Change <br> Department of Geography <br> University at Buffalo, Buffalo NY
+    buttons:
+#    - text: Publications
+#      class: small
+#      url: https://scholar.google.com/citations?user=zgVlijsAAAAJ&hl=en
+#    - text: purchase now
+#      class: small boxed
+#      url: http://themeforest.net/user/honryou/portfolio?ref=honryou
+
+members:
+  - avatar: images/photo/Wilson.jpg
+    name: Adam M. Wilson
+    position: Assistant Professor
+    socials:
+      - link: http://twitter.com/AdamWilsonLab
+        icon: twitter
+      - link: http://github.com/adammwilson
+        icon: github
+    desc:    Assistant Professor of Global Environmental Change in the Geography Department at the University at Buffalo.
+  - avatar: images/@stock/member-2.jpg
+    name: Chenyang Wei
+    position: Geography PhD Student
+    socials:
+    desc:
+  - avatar: images/@stock/member-2.jpg
+    name: Larry Kaminski
+    position: Evolution, Ecology, and Behavior MSc. Student
+    socials:
+    desc:
+socials:
+  - title: Twitter
+    text: Connect with us on twitter
+    icon_class: fa fa-twitter
+    link_to: http://twitter.com/adamwilsonlab
+  - title: Github
+    text: Connect with us on github
+    icon_class: fa fa-github
+    link_to: http://github.com/adammwilson
+  - title: Facebook
+    text: Connect with us on facebook
+    icon_class: fa fa-facebook
+    link_to: http://facebook.com/AdamWilsonLab
+---
+
+<div class='full parallax' style='background-image: url(images/photo/fieldwork.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='two spacing'></div>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title_style="font-size: 60px; color: white" title="Wilson Lab" %}
+      <div class='spacing'></div>
+      <p style='color: #ccc;'>
+      </p>
+    </div>
+  </div>
+</div>
+<div class='four spacing'></div>
+<p class='centered-text' style='font-size: 1.6rem'>
+  Department of Geography <br> University at Buffalo, Buffalo NY
+</p>
+<a id='Research'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-10 columns large-centered'>
+      <div class='spacing'></div>
+      {% include section-header.html class="alt" title="Research" %}
+      <div class='spacing'></div>
+      <p class='centered-text' style='font-size: 1.6rem'>
+        Research in the lab focuses on the spatial patterns and processes of biodiversity and ecosystem function.  We use remote sensing and field observations together with mechanistic and statistical modelling to understand how ecosystems change through space and time.
+      </p>
+      <div class='two spacing'></div>
+      <p class='centered-text'>
+        <a class="twitter-timeline" href="https://twitter.com/search?q=%40adamwilsonlab%20OR%20%40planetflux" data-widget-id="722113265694871552">Tweets about @adamwilsonlab OR @planetflux</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </p>
+    </div>
+  </div>
+</div>
+<div class='full parallax' style='background-image: url(images/photo/WilsonAdam_20100826_5215_v20.jpg); color: #fff;'>
+</div>
+<div class='four spacing'></div>
+
+<a id='publications'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Publications" class="alt" %}
+      <div class='spacing'></div>
+      <ol reversed>
+        {% assign productlist = site.data.pubs.products | sort: 'year' | reverse %}
+        {% for products in productlist %}
+        <li>
+          <b>{{ products.title }}</b> ({{ products.year}}) {{ products.authors}}, <i> {{ products.journal}} </i>
+          <a title="Digital Object Identifier" href="https://doi.org/{{products.doi}}">{{products.doi}}</a>
+          {% if products.citations > 0 %}
+              <a title="Citations from Google Scholar" href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites={{products.citationlink}}" target="_blank"><font color="black">({{products.citations}} citations)</font></a>
+          {% endif %}
+          {% if products.altmetric_score > 0.0 %}
+              <a title="Altmetric Score" href="https://www.altmetric.com/details/{{products.altmetric_id}}" target="_blank"><img alt="Altmetric" src="images/altm.png" width="20px"><font color="darkred">{{products.altmetric_score | round: 1}}</font></a>;
+            {% if products.num_posts > 0 %}
+              Media Links:
+              {% for p in products.posts  %}
+                {% if p.source == "news" %}
+                  <a href="{{p.url}}" target="_blank"><font color="lightblue">{{p.attribution}}</font></a>,
+                {% endif %}
+              {% endfor %}
+
+            {% endif %}
+        {% endif %}
+      </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+    <div class='three spacing'></div>
+    <div class='row'>
+      <div class='large-12 columns'>
+        <p class='centered-text'>
+          <a class='button' href='http://scholar.google.com/citations?user=zgVlijsAAAAJ&amp' target="_blank">View publications and scholarly impact with Google Scholar</a><br>
+          <a class='button' href='https://impactstory.org/u/0000-0003-3362-7806' target="_blank">View online impact with ImpactStory</a><br>
+
+          <a href="http://orcid.org/0000-0003-3362-7806" target="_blank"><img alt="OrcID" src="http://orcid.org/sites/all/themes/orcid/img/orcid-logo.png" width="200px" /></a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+
+<a id='teaching'></a>
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Teaching" class="alt" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedTextSlider'>
+        <div class='boxes'>
+          {% include box.html class="fa fa-trophy" title="Environmental Science (GEO104)" text="Environmental science is the interdisciplinary study of the physical, chemical, and biological systems that sustain life on our planet. In this course we will explore current environmental challenges such as the conservation of biodiversity, the sustainable production of energy, and the implications of human population growth. The processes of scientific inquiry and discovery will be emphasized through investigation of specific case studies and the critical evaluation of the underlying scientific evidence." %}
+          {% include box.html class="fa fa-compass" title="GIS for Environmental Modeling (GEO 479/559)" text="This is an intermediate level GIS course designed for senior undergraduate students and graduate students. Students are expected to have basic knowledge of GIS through either completing an introductory level GIS course or having entry level work experiences with GIS." %}
+          {% include box.html class="fa fa-image" title="Spatial Environmental Data Analysis (GEO 503)" text="The quantity and quality of data available for ecological and environmental research has exploded over the past few decades. These ‘big data’ now allow us to address important questions (both old and new) with unprecedented rigor and generality. Leveraging these new data streams requires new tools and increasingly sophisticated workflows. The free and open-source R programming language has become a lingua franca for ecological, epidemiological, and statistical research. The course will use a combination of lecture and hands-on exercises to provide a gentle introduction to programming in R with a focus on spatial data processing." %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+<div class='full parallax' style='background-image: url(images/photo/WilsonAdam_20100721_9750.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <i class='fa fa-quote-left' style='color: #F9CE06; font-size: 36px;'></i>
+      </p>
+      <div class='spacing'></div>
+    </div>
+  </div>
+</div>
+
+<a id='lab'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title="Lab Members" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% for member in page.members %}
+    <div class='small-6 medium-3 large-3 columns'>
+      <div class='mod modTeamMember style-2'>
+        <div class='member'>
+          <img class="avatar" width="250" height="250" alt="" src="{{member.avatar}}" />
+          <div class='overlay'>
+            <ul class='socials'>
+              {% for social in member.socials %}
+              <li>
+                <a href='{{social.url}}'>
+                  <i class='fa fa-{{social.icon}}'></i>
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        <h3>{{member.name}}</h3>
+        <p class='position'>{{member.position}}</p>
+        <p>{{member.desc}}</p>
+        <div class='two spacing'></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class='three spacing'></div>
+</div>
+<a id='contact'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Contact us" class="alt" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='medium-8 columns'>
+      <div class='form'>
+        <div class='row'>
+          <div id="wufoo-zel89gq04ykrcp">
+            Fill out my <a href="https://adammichaelwilson.wufoo.com/forms/zel89gq04ykrcp">online form</a>.
+          </div>
+          <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.</div>
+          <script type="text/javascript">var zel89gq04ykrcp;(function(d, t) {
+            var s = d.createElement(t), options = {
+              'userName':'adammichaelwilson',
+              'formHash':'zel89gq04ykrcp',
+              'autoResize':true,
+              'height':'437',
+              'async':true,
+              'host':'wufoo.com',
+              'header':'show',
+              'ssl':true};
+              s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+              s.onload = s.onreadystatechange = function() {
+                var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+                try { zel89gq04ykrcp = new WufooForm();zel89gq04ykrcp.initialize(options);zel89gq04ykrcp.display(); } catch (e) {}};
+                var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+              })(document, 'script')
+              </script>
+            </div>
+          </div>
+          <div class='two spacing'></div>
+        </div>
+        <div class='medium-4 columns'>
+          <div class='contact-details'>
+            <h4>Our location:</h4>
+            <p>120 Wilkeson Quad, Department of Geography, University at Buffalo, Buffalo, NY 14214</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='two spacing'></div>
+    <div class='full parallax' style='background-image: url(images/photo/WilsonAdam_20100729_9935_v2.jpg); color: #fff;'>
+      <div class='row'>
+        <div class='large-12 columns'>
+          {% include section-header.html class="alt" title="Find us elsewhere" title_style="color: #fff;" %}
+          <div class='two spacing'></div>
+        </div>
+        {% for social in page.socials %}
+        <div class='medium-3 columns'>
+          <div class='big-social'>
+            <a href='{{social.link_to}}'>
+              <i class='{{social.icon_class}}'></i>
+            </a>
+            <h4 style='color: #fff'>{{social.title}}</h4>
+            <p>{{social.text}}</p>
+          </div>
+          <div class='two spacing'></div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class='four spacing'></div>
+      <div class='two spacing'></div>
+    </div>
+    <div class='full no-padding' style='background: #111'>
+      <div class='two spacing'></div>
+      <div class='row'>
+        <div class='large-12 columns'>
+          <p>©2014 {{site.title}}. All rights reserved.</p>
+        </div>
+      </div>
+      <div class='spacing'></div>
+    </div>
