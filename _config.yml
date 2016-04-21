@@ -3,7 +3,7 @@ title: Adam Wilson Lab
 email: adamw@Buffalo.edu
 description: Adam M. Wilson, Department of Geography, University at Buffalo
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "adamwilson.us" #http://adamwilson.us" # the base hostname & protocol for your site
+url: "http://adamwilson.us" #http://adamwilson.us" # the base hostname & protocol for your site
 twitter_username: AdamWilsonLab
 github_username:  AdamMWilson
 
