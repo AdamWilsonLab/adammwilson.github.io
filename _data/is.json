@@ -1,11 +1,11 @@
 {
     "_full_name": "Adam Wilson", 
-    "_id": "yh3vx1lq20", 
+    "_id": "0000-0003-3362-7806", 
     "affiliation_name": "University at Buffalo - North Campus", 
     "affiliation_role_title": "Assistant Professor of Global Environmental Change", 
     "badges": [
         {
-            "context": "That's high: only 4% of researchers have their work as widely discussed.", 
+            "context": "That's high: only 5% of researchers have their work as widely discussed.", 
             "created": "2016-03-30 18:27:06.069120+00:00", 
             "description": "Your research has been discussed in 34 countries.", 
             "display_name": "Global Reach", 
@@ -14,9 +14,9 @@
             "id": "Eguhz7khnP", 
             "importance": 0.8, 
             "name": "global_reach", 
-            "percentile": 0.956173971004832, 
+            "percentile": 0.947111737292728, 
             "show_in_ui": true, 
-            "sort_score": 0.7649391768038657, 
+            "sort_score": 0.7576893898341824, 
             "support_finale": " countries.", 
             "support_intro": "Your tweeters come from", 
             "support_items": [
@@ -53,12 +53,80 @@
                 "Switzerland", 
                 "United Kingdom", 
                 "United States", 
-                "Venezuela."
+                "Venezuela"
             ], 
             "value": 34.0
         }, 
         {
-            "context": "Only 31% of researchers are this highly cited in Wikipedia.", 
+            "context": "That's high: only 8% of researchers have their work as widely discussed.", 
+            "created": "2016-05-16 07:52:34.349680+00:00", 
+            "description": "Your research has been discussed in 49 countries.", 
+            "display_name": "Global Reach", 
+            "extra_description": null, 
+            "group": "engagement", 
+            "id": "BNhPfrb7Js", 
+            "importance": 0.8, 
+            "name": "global_reach_using_mendeley", 
+            "percentile": 0.916982767963585, 
+            "show_in_ui": false, 
+            "sort_score": 0.733586214370868, 
+            "support_finale": " countries.", 
+            "support_intro": "The people who mention your research come from", 
+            "support_items": [
+                "Argentina", 
+                "Australia", 
+                "Austria", 
+                "Belgium", 
+                "Belize", 
+                "Benin", 
+                "Brazil", 
+                "Bulgaria", 
+                "Canada", 
+                "Chile", 
+                "China", 
+                "Colombia", 
+                "Costa Rica", 
+                "Czech Republic", 
+                "Denmark", 
+                "Ecuador", 
+                "Egypt", 
+                "Estonia", 
+                "Finland", 
+                "France", 
+                "Germany", 
+                "Greece", 
+                "Hungary", 
+                "India", 
+                "Indonesia", 
+                "Iran", 
+                "Ireland", 
+                "Israel", 
+                "Italy", 
+                "Japan", 
+                "Kuwait", 
+                "Latvia", 
+                "Malaysia", 
+                "Mexico", 
+                "Namibia", 
+                "Netherlands", 
+                "Norway", 
+                "Philippines", 
+                "Poland", 
+                "Portugal", 
+                "Russia", 
+                "Saint Vincent and the Grenadines", 
+                "South Africa", 
+                "South Korea", 
+                "Spain", 
+                "Switzerland", 
+                "United Kingdom", 
+                "United States", 
+                "Venezuela"
+            ], 
+            "value": 49.0
+        }, 
+        {
+            "context": "Only 34% of researchers are this highly cited in Wikipedia.", 
             "created": "2016-04-06 13:34:38.844982+00:00", 
             "description": "Your research is mentioned in 1 Wikipedia articles!", 
             "display_name": "Wikitastic", 
@@ -67,33 +135,15 @@
             "id": "2af8nX6LYD", 
             "importance": 0.9, 
             "name": "wiki_hit", 
-            "percentile": 0.688343609398434, 
+            "percentile": 0.658429970015534, 
             "show_in_ui": true, 
-            "sort_score": 0.6195092484585906, 
+            "sort_score": 0.5925869730139807, 
             "support_finale": null, 
             "support_intro": "Your Wikipedia titles include", 
             "support_items": [
                 "<a href='http://en.wikipedia.org/?curid=3112801'>Celastrus orbiculatus</a>."
             ], 
             "value": 1.0
-        }, 
-        {
-            "context": "That's an attention streak matched by only 3% of scholars.", 
-            "created": "2016-04-11 14:56:57.759490+00:00", 
-            "description": "People keep talking about your research. Someone has mentioned your research online every month for the last 12 months.", 
-            "display_name": "Hot Streak", 
-            "extra_description": null, 
-            "group": "buzz", 
-            "id": "oQQHoczSWY", 
-            "importance": 0.5, 
-            "name": "hot_streak", 
-            "percentile": 0.965547408765206, 
-            "show_in_ui": true, 
-            "sort_score": 0.482773704382603, 
-            "support_finale": null, 
-            "support_intro": null, 
-            "support_items": null, 
-            "value": 12.0
         }, 
         {
             "context": "Only 4% of researchers get this much attention on a publication.", 
@@ -105,15 +155,33 @@
             "id": "dLccZvQ9UV", 
             "importance": 0.5, 
             "name": "big_hit", 
-            "percentile": 0.959881686385602, 
+            "percentile": 0.951808099418374, 
             "show_in_ui": true, 
-            "sort_score": 0.479940843192801, 
+            "sort_score": 0.475904049709187, 
             "support_finale": null, 
             "support_intro": "Your greatest hit online is <a href='/u/0000-0003-3362-7806/p/LSuxTJhWi9'>Content Volatility of Scientific Topics in Wikipedia", 
             "support_items": [
                 "A Cautionary Tale</a>."
             ], 
             "value": 235.0
+        }, 
+        {
+            "context": "That's an attention streak matched by only 10% of scholars.", 
+            "created": "2016-04-11 14:56:57.759490+00:00", 
+            "description": "People keep talking about your research. Someone has mentioned your research online every month for the last 4 months.", 
+            "display_name": "Hot Streak", 
+            "extra_description": null, 
+            "group": "buzz", 
+            "id": "oQQHoczSWY", 
+            "importance": 0.5, 
+            "name": "hot_streak", 
+            "percentile": 0.898269571186012, 
+            "show_in_ui": true, 
+            "sort_score": 0.449134785593006, 
+            "support_finale": null, 
+            "support_intro": null, 
+            "support_items": null, 
+            "value": 4.0
         }, 
         {
             "context": "  This puts you in the top 14% of researchers.", 
@@ -125,9 +193,9 @@
             "id": "YncgdtJHbW", 
             "importance": 0.5, 
             "name": "global_south", 
-            "percentile": 0.858856857190468, 
+            "percentile": 0.853690256854882, 
             "show_in_ui": true, 
-            "sort_score": 0.429428428595234, 
+            "sort_score": 0.426845128427441, 
             "support_finale": null, 
             "support_intro": "Countries include", 
             "support_items": [
@@ -138,7 +206,6 @@
                 "Ecuador", 
                 "India", 
                 "Indonesia", 
-                "Indonesia.", 
                 "Kuwait", 
                 "Mexico", 
                 "Namibia", 
@@ -146,43 +213,139 @@
                 "South Africa", 
                 "Venezuela"
             ], 
-            "value": 15.7407407407407
+            "value": 15.5251141552511
         }, 
         {
-            "context": "Only 9% of scholars have been tweeted by someone with this many followers.", 
+            "context": "  This puts you in the top 28% of researchers.", 
+            "created": "2016-05-16 07:52:34.355940+00:00", 
+            "description": "More than 19% of people who mention your research are in the Global South.", 
+            "display_name": "Global South", 
+            "extra_description": null, 
+            "group": "engagement", 
+            "id": "dtQyQCGMBs", 
+            "importance": 0.5, 
+            "name": "global_south_using_mendeley", 
+            "percentile": 0.713558036198114, 
+            "show_in_ui": false, 
+            "sort_score": 0.356779018099057, 
+            "support_finale": null, 
+            "support_intro": "Countries include", 
+            "support_items": [
+                "Argentina", 
+                "Belize", 
+                "Benin", 
+                "Brazil", 
+                "Chile", 
+                "China", 
+                "Colombia", 
+                "Costa Rica", 
+                "Ecuador", 
+                "Egypt", 
+                "India", 
+                "Indonesia", 
+                "Iran", 
+                "Kuwait", 
+                "Malaysia", 
+                "Mexico", 
+                "Namibia", 
+                "Philippines", 
+                "Saint Vincent and the Grenadines", 
+                "South Africa", 
+                "Venezuela"
+            ], 
+            "value": 19.5454545454545
+        }, 
+        {
+            "context": "That's great &mdash; it helps lay people and practitioners use your research.  It also puts you in the top 68% in readability.", 
+            "created": "2016-05-16 07:52:34.361346+00:00", 
+            "description": "Your writing has a reading level that is easily understood at grade 15 and above, based on its abstracts and titles.", 
+            "display_name": "All Readers Welcome", 
+            "extra_description": null, 
+            "group": "openness", 
+            "id": "askcL4wywu", 
+            "importance": 0.5, 
+            "name": "reading_level_using_mendeley", 
+            "percentile": 0.680751351147058, 
+            "show_in_ui": false, 
+            "sort_score": 0.340375675573529, 
+            "support_finale": null, 
+            "support_intro": null, 
+            "support_items": null, 
+            "value": 15.541935483871
+        }, 
+        {
+            "context": "This level of student interest puts you in the top 49% of researchers.", 
+            "created": "2016-05-18 14:46:10.653457+00:00", 
+            "description": "Your research helps newbies get started: 59% of your bookmarks come from undergrad and graduate students.", 
+            "display_name": "Teaching Goodness", 
+            "extra_description": null, 
+            "group": "engagement", 
+            "id": "8aUYFuCJ3s", 
+            "importance": 0.4, 
+            "name": "teaching_phd", 
+            "percentile": 0.5025468733066, 
+            "show_in_ui": false, 
+            "sort_score": 0.20101874932264, 
+            "support_finale": null, 
+            "support_intro": null, 
+            "support_items": null, 
+            "value": 59.0
+        }, 
+        {
+            "context": "Only 10% of scholars have been tweeted by someone with this many followers.", 
             "created": "2016-03-29 18:19:15.320527+00:00", 
-            "description": "Someone with 128.5 thousand followers has tweeted your research.", 
+            "description": "Someone with 132. thousand followers has tweeted your research.", 
             "display_name": "Follower Frenzy", 
             "extra_description": null, 
             "group": "engagement", 
             "id": "nrn53pdeY2", 
             "importance": 0.2, 
             "name": "megafan", 
-            "percentile": 0.907765372437927, 
+            "percentile": 0.894295726310466, 
             "show_in_ui": true, 
-            "sort_score": 0.1815530744875854, 
+            "sort_score": 0.17885914526209323, 
             "support_finale": null, 
             "support_intro": "Thanks, <a href='http://twitter.com/GdnHigherEd'>@GdnHigherEd</a>.", 
             "support_items": null, 
-            "value": 128542.0
+            "value": 132898.0
         }, 
         {
-            "context": "Only 14% of researchers get this achievement.", 
-            "created": "2016-04-11 14:56:58.017321+00:00", 
-            "description": "You have been tweeted by a person named Richard!\n                  A recent study found this is correlated with a 19% boost in citations <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>[source]</a>.", 
-            "display_name": "Rickroll", 
+            "context": "Only 16% of researchers get this much attention on a publication.", 
+            "created": "2016-05-17 19:45:19.271262+00:00", 
+            "description": "Your most active publication has been shared and saved 253 times.", 
+            "display_name": "Greatest Hit", 
             "extra_description": null, 
-            "group": "fun", 
-            "id": "w38GBXXDUm", 
-            "importance": 0.35, 
-            "name": "rick_roll", 
-            "percentile": 0.857940343276121, 
-            "show_in_ui": true, 
-            "sort_score": 0.05027912014664232, 
+            "group": "buzz", 
+            "id": "URkUeqKP8A", 
+            "importance": 0.2, 
+            "name": "big_hit_using_mendeley", 
+            "percentile": 0.830569704851703, 
+            "show_in_ui": false, 
+            "sort_score": 0.1661139409703406, 
+            "support_finale": null, 
+            "support_intro": "Your greatest hit online is <a href='/u/0000-0003-3362-7806/p/LSuxTJhWi9'>Content Volatility of Scientific Topics in Wikipedia", 
+            "support_items": [
+                "A Cautionary Tale</a>."
+            ], 
+            "value": 253.0
+        }, 
+        {
+            "context": null, 
+            "created": "2016-05-18 14:46:10.652443+00:00", 
+            "description": "You are a faculty favorite: 18% of your bookmarks come from faculty.", 
+            "display_name": "Faculty Fav", 
+            "extra_description": null, 
+            "group": "engagement", 
+            "id": "XvmT39A4cc", 
+            "importance": 0.3, 
+            "name": "faculty", 
+            "percentile": 0.397095480654601, 
+            "show_in_ui": false, 
+            "sort_score": 0.11912864419638029, 
             "support_finale": null, 
             "support_intro": null, 
             "support_items": null, 
-            "value": 1.0
+            "value": 18.0
         }, 
         {
             "context": "The average scholar in our database receives about 30% of their attention from other scientists.", 
@@ -194,16 +357,34 @@
             "id": "biDvd7mve6", 
             "importance": 0.1, 
             "name": "ivory_tower", 
-            "percentile": 0.454644958270625, 
+            "percentile": 0.470015553891353, 
             "show_in_ui": true, 
-            "sort_score": 0.0454644958270625, 
+            "sort_score": 0.04700155538913531, 
             "support_finale": null, 
             "support_intro": null, 
             "support_items": null, 
-            "value": 22.4043715846995
+            "value": 22.6415094339623
         }, 
         {
-            "context": "Only 24% of scholars share this <a href='https://www.youtube.com/watch?v=tl6u2NASUzU'>claim to fame</a>.", 
+            "context": "Only 15% of researchers get this achievement.", 
+            "created": "2016-04-11 14:56:58.017321+00:00", 
+            "description": "You have been tweeted by a person named Richard!\n                  A recent study found this is correlated with a 19% boost in citations <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>[source]</a>.", 
+            "display_name": "Rickroll", 
+            "extra_description": null, 
+            "group": "fun", 
+            "id": "w38GBXXDUm", 
+            "importance": 0.35, 
+            "name": "rick_roll", 
+            "percentile": 0.842635742928362, 
+            "show_in_ui": true, 
+            "sort_score": 0.04492251002492664, 
+            "support_finale": null, 
+            "support_intro": null, 
+            "support_items": null, 
+            "value": 1.0
+        }, 
+        {
+            "context": "Only 27% of scholars share this <a href='https://www.youtube.com/watch?v=tl6u2NASUzU'>claim to fame</a>.", 
             "created": "2016-04-18 15:17:36.865897+00:00", 
             "description": "Your work was mentioned by someone in Japan!", 
             "display_name": "Big in Japan", 
@@ -212,9 +393,27 @@
             "id": "oR3F7RwYsK", 
             "importance": 0.3, 
             "name": "big_in_japan", 
-            "percentile": 0.753582736210632, 
+            "percentile": 0.727538744987537, 
             "show_in_ui": true, 
-            "sort_score": -0.023925179136810415, 
+            "sort_score": -0.031738376503738897, 
+            "support_finale": null, 
+            "support_intro": null, 
+            "support_items": null, 
+            "value": 1.0
+        }, 
+        {
+            "context": null, 
+            "created": "2016-05-16 07:52:34.358921+00:00", 
+            "description": "Your work was mentioned by someone in Japan!", 
+            "display_name": "Big in Japan", 
+            "extra_description": null, 
+            "group": "fun", 
+            "id": "ajA5ciRMCL", 
+            "importance": 0.3, 
+            "name": "big_in_japan_using_mendeley", 
+            "percentile": 0.407319099743506, 
+            "show_in_ui": false, 
+            "sort_score": -0.12780427007694822, 
             "support_finale": null, 
             "support_intro": null, 
             "support_items": null, 
@@ -225,13 +424,11 @@
     "claimed_at": "2016-04-11 14:59:29.656361+00:00", 
     "coauthors": [
         {
-            "buzz_perc": 0.800616563906016, 
-            "engagement_perc": 0.888045075943165, 
-            "id": "bi5v0osf2o", 
+            "id": "0000-0003-4312-3804", 
             "name": "Kent Holsinger", 
-            "openness_perc": 0.459632516703786, 
+            "num_posts": 60, 
             "orcid_id": "0000-0003-4312-3804", 
-            "sort_score": 2.148294156552967
+            "sort_score": 60
         }
     ], 
     "created": "2016-03-01 21:22:18.408549+00:00", 
@@ -240,14 +437,89 @@
     "family_name": "Wilson", 
     "first_name": "Adam", 
     "given_names": "Adam", 
-    "id": "yh3vx1lq20", 
-    "num_orcid_products": 32, 
-    "num_posts": 532, 
+    "id": "0000-0003-3362-7806", 
+    "mendeley": {
+        "country_percent": {
+            "Argentina": 0.01, 
+            "Australia": 0.01, 
+            "Belgium": 0.01, 
+            "Belize": 0.0, 
+            "Benin": 0.0, 
+            "Brazil": 0.09, 
+            "Canada": 0.05, 
+            "Chile": 0.01, 
+            "China": 0.02, 
+            "Colombia": 0.01, 
+            "Czech Republic": 0.02, 
+            "Denmark": 0.01, 
+            "Egypt": 0.01, 
+            "Estonia": 0.0, 
+            "Finland": 0.03, 
+            "France": 0.04, 
+            "Germany": 0.05, 
+            "Greece": 0.0, 
+            "Hungary": 0.01, 
+            "India": 0.01, 
+            "Iran": 0.01, 
+            "Ireland": 0.01, 
+            "Israel": 0.0, 
+            "Italy": 0.02, 
+            "Japan": 0.0, 
+            "Korea (South)": 0.0, 
+            "Malaysia": 0.01, 
+            "Mexico": 0.01, 
+            "Netherlands": 0.0, 
+            "Norway": 0.01, 
+            "Philippines": 0.0, 
+            "Portugal": 0.02, 
+            "Russia": 0.0, 
+            "South Africa": 0.03, 
+            "Spain": 0.09, 
+            "Switzerland": 0.06, 
+            "United Kingdom": 0.08, 
+            "United States": 0.22
+        }, 
+        "job_title_percent": {
+            "Faculty": 0.18, 
+            "Librarian": 0.01, 
+            "Masters Student": 0.17, 
+            "Other": 0.03, 
+            "PhD Student": 0.39, 
+            "Postdoc": 0.14, 
+            "Researcher (non-academic)": 0.05, 
+            "Undergrad Student": 0.03
+        }, 
+        "mendeley_url": null, 
+        "percent_of_products": 0.696969696969697, 
+        "readers": 1047, 
+        "subdiscipline_percent": {
+            "Arts and Literature": 0.0, 
+            "Astronomy / Astrophysics / Space Science": 0.0, 
+            "Biological Sciences": 0.44, 
+            "Computer and Information Science": 0.02, 
+            "Earth Sciences": 0.13, 
+            "Economics": 0.0, 
+            "Education": 0.0, 
+            "Electrical and Electronic Engineering": 0.0, 
+            "Engineering": 0.06, 
+            "Environmental Sciences": 0.29, 
+            "Humanities": 0.0, 
+            "Management Science / Operations Research": 0.0, 
+            "Mathematics": 0.02, 
+            "Medicine": 0.01, 
+            "Physics": 0.0, 
+            "Psychology": 0.0, 
+            "Social Sciences": 0.01
+        }
+    }, 
+    "num_mentions": 1590, 
+    "num_orcid_products": 33, 
+    "num_posts": 543, 
     "num_twitter_followers": 131, 
     "orcid_id": "0000-0003-3362-7806", 
     "overview_badges": [
         {
-            "context": "That's high: only 4% of researchers have their work as widely discussed.", 
+            "context": "That's high: only 5% of researchers have their work as widely discussed.", 
             "created": "2016-03-30 18:27:06.069120+00:00", 
             "description": "Your research has been discussed in 34 countries.", 
             "display_name": "Global Reach", 
@@ -256,9 +528,9 @@
             "id": "Eguhz7khnP", 
             "importance": 0.8, 
             "name": "global_reach", 
-            "percentile": 0.956173971004832, 
+            "percentile": 0.947111737292728, 
             "show_in_ui": true, 
-            "sort_score": 0.7649391768038657, 
+            "sort_score": 0.7576893898341824, 
             "support_finale": " countries.", 
             "support_intro": "Your tweeters come from", 
             "support_items": [
@@ -295,30 +567,32 @@
                 "Switzerland", 
                 "United Kingdom", 
                 "United States", 
-                "Venezuela."
+                "Venezuela"
             ], 
             "value": 34.0
         }, 
         {
-            "context": "That's an attention streak matched by only 3% of scholars.", 
-            "created": "2016-04-11 14:56:57.759490+00:00", 
-            "description": "People keep talking about your research. Someone has mentioned your research online every month for the last 12 months.", 
-            "display_name": "Hot Streak", 
+            "context": "Only 4% of researchers get this much attention on a publication.", 
+            "created": "2016-03-28 01:37:37.485441+00:00", 
+            "description": "Your most discussed publication has been mentioned online 235 times.", 
+            "display_name": "Greatest Hit", 
             "extra_description": null, 
             "group": "buzz", 
-            "id": "oQQHoczSWY", 
+            "id": "dLccZvQ9UV", 
             "importance": 0.5, 
-            "name": "hot_streak", 
-            "percentile": 0.965547408765206, 
+            "name": "big_hit", 
+            "percentile": 0.951808099418374, 
             "show_in_ui": true, 
-            "sort_score": 0.482773704382603, 
+            "sort_score": 0.475904049709187, 
             "support_finale": null, 
-            "support_intro": null, 
-            "support_items": null, 
-            "value": 12.0
+            "support_intro": "Your greatest hit online is <a href='/u/0000-0003-3362-7806/p/LSuxTJhWi9'>Content Volatility of Scientific Topics in Wikipedia", 
+            "support_items": [
+                "A Cautionary Tale</a>."
+            ], 
+            "value": 235.0
         }, 
         {
-            "context": "Only 31% of researchers are this highly cited in Wikipedia.", 
+            "context": "Only 34% of researchers are this highly cited in Wikipedia.", 
             "created": "2016-04-06 13:34:38.844982+00:00", 
             "description": "Your research is mentioned in 1 Wikipedia articles!", 
             "display_name": "Wikitastic", 
@@ -327,9 +601,9 @@
             "id": "2af8nX6LYD", 
             "importance": 0.9, 
             "name": "wiki_hit", 
-            "percentile": 0.688343609398434, 
+            "percentile": 0.658429970015534, 
             "show_in_ui": true, 
-            "sort_score": 0.6195092484585906, 
+            "sort_score": 0.5925869730139807, 
             "support_finale": null, 
             "support_intro": "Your Wikipedia titles include", 
             "support_items": [
@@ -338,15 +612,16 @@
             "value": 1.0
         }
     ], 
+    "percent_oa": 0.20689655172413793, 
     "picture": "https://pbs.twimg.com/profile_images/378800000789335660/a4d54b2ca59a61aeec9407c77321fce9.jpeg", 
     "products": [
         {
             "_title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions", 
             "altmetric_id": "6410740", 
-            "altmetric_score": 335.378, 
+            "altmetric_score": 348.678, 
             "authors": "Adam M. Wilson, Walter Jetz, Michel Loreau", 
             "doi": "10.1371/journal.pbio.1002415", 
-            "events_last_week_count": 16, 
+            "events_last_week_count": 5, 
             "genre": "article", 
             "id": "w8j6n5MrmV", 
             "is_oa_journal": true, 
@@ -354,11 +629,23 @@
             "is_open": true, 
             "is_open_new": true, 
             "journal": "PLoS Biol", 
-            "num_posts": 202, 
-            "open_url": "http://doi.org/10.1371/journal.pbio.1002415", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {
+                    "Researcher (non-academic)": 1.0
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/remotely-sensed-highresolution-global-cloud-dynamics-effectively-predict-ecosystem-biodiversity-dist", 
+                "readers": 4, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 1.0
+                }
+            }, 
+            "num_mentions": 217, 
+            "num_posts": 213, 
+            "open_url": "http://doi.org/None", 
             "open_urls": {
                 "urls": [
-                    "http://doi.org/10.1371/journal.pbio.1002415"
+                    "http://doi.org/None"
                 ]
             }, 
             "orcid_id": "0000-0003-3362-7806", 
@@ -439,6 +726,27 @@
                     "source": "googleplus", 
                     "title": "Here's an interesting paper that narrows the gap between remote sensing data from satellites and \u2026", 
                     "url": "https://plus.google.com/101754283615220348300/posts/CtVmKWjXHMj"
+                }, 
+                {
+                    "attribution": "Washington Post", 
+                    "posted_on": "2016-05-16T11:17:28+00:00", 
+                    "source": "news", 
+                    "title": "What you can tell about the world just by looking at clouds", 
+                    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/05/16/what-you-can-tell-about-the-world-just-by-looking-at-clouds/"
+                }, 
+                {
+                    "attribution": "Washington Post", 
+                    "posted_on": "2016-05-16T11:10:13+00:00", 
+                    "source": "news", 
+                    "title": "What you can tell about the world just by looking at clouds", 
+                    "url": "http://ct.moreover.com/?a=26546796458&p=1pl&v=1&x=uO8ua1AZRBo2CObiJYEHWA"
+                }, 
+                {
+                    "attribution": "Washington Post", 
+                    "posted_on": "2016-05-16T10:30:11+00:00", 
+                    "source": "news", 
+                    "title": "What you can tell about the world just by looking at clouds", 
+                    "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2016/05/16/what-you-can-tell-about-the-world-just-by-looking-at-clouds/"
                 }, 
                 {
                     "attribution": "Grist", 
@@ -706,6 +1014,78 @@
                     "url": "http://www.reddit.com/r/ecology/comments/4e3rge/remotely_sensed_highresolution_global_cloud/"
                 }, 
                 {
+                    "attribution": "Geo Inquiets", 
+                    "followers": 2877, 
+                    "posted_on": "2016-05-17T04:32:24+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "geoinquiets", 
+                    "url": "http://twitter.com/geoinquiets/statuses/732428531175727104"
+                }, 
+                {
+                    "attribution": "Maria Hawkins", 
+                    "followers": 919, 
+                    "posted_on": "2016-05-16T14:28:32+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "princesscsi78", 
+                    "url": "http://twitter.com/princesscsi78/statuses/732216163837435904"
+                }, 
+                {
+                    "attribution": "Kayla S.", 
+                    "followers": 4, 
+                    "posted_on": "2016-05-06T15:33:52+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "FilmsnFungiOhMy", 
+                    "url": "http://twitter.com/FilmsnFungiOhMy/statuses/728608728602136576"
+                }, 
+                {
+                    "attribution": "Janko Skok", 
+                    "followers": 44, 
+                    "posted_on": "2016-05-06T06:58:06+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "jankoskok", 
+                    "url": "http://twitter.com/jankoskok/statuses/728478930089422848"
+                }, 
+                {
+                    "attribution": "PLOS Biology", 
+                    "followers": 34602, 
+                    "posted_on": "2016-05-06T06:57:18+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "PLOSBiology", 
+                    "url": "http://twitter.com/PLOSBiology/statuses/728478728460718080"
+                }, 
+                {
+                    "attribution": "Rachel Friedman", 
+                    "followers": 345, 
+                    "posted_on": "2016-05-06T06:43:49+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "YumMusings", 
+                    "url": "http://twitter.com/YumMusings/statuses/728475335864373248"
+                }, 
+                {
+                    "attribution": "Matt", 
+                    "followers": 12252, 
+                    "posted_on": "2016-05-06T06:37:42+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "VisualPersist", 
+                    "url": "http://twitter.com/VisualPersist/statuses/728473798027055104"
+                }, 
+                {
+                    "attribution": "BioNept", 
+                    "followers": 677, 
+                    "posted_on": "2016-05-06T06:05:56+00:00", 
+                    "source": "twitter", 
+                    "title": "", 
+                    "twitter_handle": "BioNept", 
+                    "url": "http://twitter.com/BioNept/statuses/728465805369737216"
+                }, 
+                {
                     "attribution": "Kenny Wallen", 
                     "followers": 73, 
                     "posted_on": "2016-05-04T23:53:59+00:00", 
@@ -716,7 +1096,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-05-04T22:06:22+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -734,7 +1114,7 @@
                 }, 
                 {
                     "attribution": "Jessica Budke", 
-                    "followers": 687, 
+                    "followers": 691, 
                     "posted_on": "2016-05-04T00:49:24+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -752,7 +1132,7 @@
                 }, 
                 {
                     "attribution": "Dani M.", 
-                    "followers": 342, 
+                    "followers": 347, 
                     "posted_on": "2016-05-03T07:29:36+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -761,7 +1141,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-05-03T07:26:32+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -788,7 +1168,7 @@
                 }, 
                 {
                     "attribution": "Ghislain Vieilledent", 
-                    "followers": 104, 
+                    "followers": 110, 
                     "posted_on": "2016-04-27T18:10:50+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -797,7 +1177,7 @@
                 }, 
                 {
                     "attribution": "Werner", 
-                    "followers": 117, 
+                    "followers": 128, 
                     "posted_on": "2016-04-27T15:15:35+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -806,7 +1186,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-27T15:02:56+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -824,7 +1204,7 @@
                 }, 
                 {
                     "attribution": "Upbm-asso", 
-                    "followers": 661, 
+                    "followers": 671, 
                     "posted_on": "2016-04-26T14:03:48+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -833,7 +1213,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-26T11:09:18+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -842,7 +1222,7 @@
                 }, 
                 {
                     "attribution": "DocumentationAten", 
-                    "followers": 980, 
+                    "followers": 1005, 
                     "posted_on": "2016-04-26T11:04:10+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -851,7 +1231,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-26T07:23:11+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -869,7 +1249,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-21T15:28:42+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -878,7 +1258,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-21T15:28:26+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -914,7 +1294,7 @@
                 }, 
                 {
                     "attribution": "Jes\u00fas Pinto-Ledezma", 
-                    "followers": 145, 
+                    "followers": 148, 
                     "posted_on": "2016-04-19T11:21:55+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -923,7 +1303,7 @@
                 }, 
                 {
                     "attribution": "Joe Tobias", 
-                    "followers": 778, 
+                    "followers": 774, 
                     "posted_on": "2016-04-19T07:05:26+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -931,8 +1311,8 @@
                     "url": "http://twitter.com/ja_tobias/statuses/722320183025606656"
                 }, 
                 {
-                    "attribution": "Geetha P.N", 
-                    "followers": 194, 
+                    "attribution": "Geetha P.N   ", 
+                    "followers": 258, 
                     "posted_on": "2016-04-19T04:59:55+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -941,7 +1321,7 @@
                 }, 
                 {
                     "attribution": "Santiago Claramunt", 
-                    "followers": 213, 
+                    "followers": 214, 
                     "posted_on": "2016-04-19T04:51:12+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -950,7 +1330,7 @@
                 }, 
                 {
                     "attribution": "Dennis Castillo", 
-                    "followers": 68, 
+                    "followers": 64, 
                     "posted_on": "2016-04-18T15:39:19+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -959,7 +1339,7 @@
                 }, 
                 {
                     "attribution": "Juan Mt", 
-                    "followers": 138, 
+                    "followers": 136, 
                     "posted_on": "2016-04-18T15:36:43+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -977,7 +1357,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-18T15:23:13+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -986,7 +1366,7 @@
                 }, 
                 {
                     "attribution": "Fernando Campos", 
-                    "followers": 15, 
+                    "followers": 14, 
                     "posted_on": "2016-04-18T14:59:29+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1022,7 +1402,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-18T14:09:30+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1031,7 +1411,7 @@
                 }, 
                 {
                     "attribution": "BioNept", 
-                    "followers": 623, 
+                    "followers": 677, 
                     "posted_on": "2016-04-18T13:50:11+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1076,7 +1456,7 @@
                 }, 
                 {
                     "attribution": "Grassland Society SA", 
-                    "followers": 632, 
+                    "followers": 631, 
                     "posted_on": "2016-04-18T07:13:59+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1094,7 +1474,7 @@
                 }, 
                 {
                     "attribution": "Laura Nunes", 
-                    "followers": 263, 
+                    "followers": 267, 
                     "posted_on": "2016-04-11T09:45:41+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1103,7 +1483,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-11T09:34:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1112,7 +1492,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-11T09:34:32+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1121,7 +1501,7 @@
                 }, 
                 {
                     "attribution": "Philip Y.", 
-                    "followers": 265, 
+                    "followers": 269, 
                     "posted_on": "2016-04-10T02:10:36+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1130,7 +1510,7 @@
                 }, 
                 {
                     "attribution": "Pat Murtagh", 
-                    "followers": 757, 
+                    "followers": 756, 
                     "posted_on": "2016-04-10T00:37:39+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1139,7 +1519,7 @@
                 }, 
                 {
                     "attribution": "DR Alex", 
-                    "followers": 269, 
+                    "followers": 274, 
                     "posted_on": "2016-04-10T00:35:24+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1148,7 +1528,7 @@
                 }, 
                 {
                     "attribution": "Saskiya L Richards", 
-                    "followers": 84, 
+                    "followers": 86, 
                     "posted_on": "2016-04-09T09:25:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1157,7 +1537,7 @@
                 }, 
                 {
                     "attribution": "Jos\u00e9 Medeiros Macedo", 
-                    "followers": 634, 
+                    "followers": 635, 
                     "posted_on": "2016-04-08T21:49:54+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1175,7 +1555,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-08T14:48:24+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1193,7 +1573,7 @@
                 }, 
                 {
                     "attribution": "Gaur", 
-                    "followers": 139, 
+                    "followers": 145, 
                     "posted_on": "2016-04-08T08:40:40+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1202,7 +1582,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-08T08:37:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1211,7 +1591,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-08T08:37:29+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1238,7 +1618,7 @@
                 }, 
                 {
                     "attribution": "Shawnda Cammack", 
-                    "followers": 978, 
+                    "followers": 928, 
                     "posted_on": "2016-04-07T13:56:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1265,7 +1645,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-07T12:29:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1283,7 +1663,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-07T09:13:59+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1301,7 +1681,7 @@
                 }, 
                 {
                     "attribution": "Greg McInerny", 
-                    "followers": 556, 
+                    "followers": 560, 
                     "posted_on": "2016-04-07T07:49:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1310,7 +1690,7 @@
                 }, 
                 {
                     "attribution": "Greg McInerny", 
-                    "followers": 556, 
+                    "followers": 560, 
                     "posted_on": "2016-04-06T16:51:17+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1319,7 +1699,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-06T09:09:06+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1328,7 +1708,7 @@
                 }, 
                 {
                     "attribution": "DiegoCisnerosHeredia", 
-                    "followers": 963, 
+                    "followers": 966, 
                     "posted_on": "2016-04-06T09:06:29+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1337,7 +1717,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-06T09:06:08+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1346,7 +1726,7 @@
                 }, 
                 {
                     "attribution": "bob muscarella", 
-                    "followers": 87, 
+                    "followers": 91, 
                     "posted_on": "2016-04-06T09:00:55+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1355,7 +1735,7 @@
                 }, 
                 {
                     "attribution": "Ghislain Vieilledent", 
-                    "followers": 104, 
+                    "followers": 110, 
                     "posted_on": "2016-04-06T07:35:35+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1373,7 +1753,7 @@
                 }, 
                 {
                     "attribution": "Lindo Lab", 
-                    "followers": 325, 
+                    "followers": 331, 
                     "posted_on": "2016-04-06T00:27:21+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1382,7 +1762,7 @@
                 }, 
                 {
                     "attribution": "Vinicius J. Giglio", 
-                    "followers": 68, 
+                    "followers": 69, 
                     "posted_on": "2016-04-06T00:18:42+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1391,7 +1771,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-05T22:59:10+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1418,7 +1798,7 @@
                 }, 
                 {
                     "attribution": "Juan Faundez", 
-                    "followers": 73, 
+                    "followers": 74, 
                     "posted_on": "2016-04-05T17:09:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1436,7 +1816,7 @@
                 }, 
                 {
                     "attribution": "DiegoCisnerosHeredia", 
-                    "followers": 963, 
+                    "followers": 966, 
                     "posted_on": "2016-04-05T15:49:59+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1445,7 +1825,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-05T15:16:01+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1481,7 +1861,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-05T14:15:14+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1499,7 +1879,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-05T09:43:55+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1508,7 +1888,7 @@
                 }, 
                 {
                     "attribution": "Birgitte Vennervald", 
-                    "followers": 121, 
+                    "followers": 124, 
                     "posted_on": "2016-04-05T06:23:15+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1526,7 +1906,7 @@
                 }, 
                 {
                     "attribution": "blwtts", 
-                    "followers": 20, 
+                    "followers": 24, 
                     "posted_on": "2016-04-05T02:59:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1535,7 +1915,7 @@
                 }, 
                 {
                     "attribution": "TeamHuman.org", 
-                    "followers": 315, 
+                    "followers": 334, 
                     "posted_on": "2016-04-05T02:05:35+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1544,7 +1924,7 @@
                 }, 
                 {
                     "attribution": "Shahd Aljandal", 
-                    "followers": 130, 
+                    "followers": 131, 
                     "posted_on": "2016-04-05T00:19:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1553,7 +1933,7 @@
                 }, 
                 {
                     "attribution": "Kendi Davies", 
-                    "followers": 448, 
+                    "followers": 449, 
                     "posted_on": "2016-04-04T23:02:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1571,7 +1951,7 @@
                 }, 
                 {
                     "attribution": "Fraulein Fresh", 
-                    "followers": 330, 
+                    "followers": 338, 
                     "posted_on": "2016-04-04T22:37:15+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1589,7 +1969,7 @@
                 }, 
                 {
                     "attribution": "daniel cadena", 
-                    "followers": 912, 
+                    "followers": 914, 
                     "posted_on": "2016-04-04T22:13:20+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1598,7 +1978,7 @@
                 }, 
                 {
                     "attribution": "Sean Leonard", 
-                    "followers": 582, 
+                    "followers": 590, 
                     "posted_on": "2016-04-04T22:12:58+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1607,7 +1987,7 @@
                 }, 
                 {
                     "attribution": "Jordan Tzvetkov", 
-                    "followers": 103, 
+                    "followers": 106, 
                     "posted_on": "2016-04-04T19:38:31+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1616,7 +1996,7 @@
                 }, 
                 {
                     "attribution": "Biblio CCySalud UAH", 
-                    "followers": 564, 
+                    "followers": 570, 
                     "posted_on": "2016-04-04T18:55:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1643,7 +2023,7 @@
                 }, 
                 {
                     "attribution": "Sun Bee", 
-                    "followers": 1056, 
+                    "followers": 1058, 
                     "posted_on": "2016-04-04T17:57:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1652,7 +2032,7 @@
                 }, 
                 {
                     "attribution": "PLOS", 
-                    "followers": 94878, 
+                    "followers": 95345, 
                     "posted_on": "2016-04-04T17:47:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1670,7 +2050,7 @@
                 }, 
                 {
                     "attribution": "TheSteve0", 
-                    "followers": 3109, 
+                    "followers": 3177, 
                     "posted_on": "2016-04-04T15:08:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1679,7 +2059,7 @@
                 }, 
                 {
                     "attribution": "Matthew G Nowak", 
-                    "followers": 430, 
+                    "followers": 432, 
                     "posted_on": "2016-04-04T14:17:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1688,7 +2068,7 @@
                 }, 
                 {
                     "attribution": "Cory Silas Sheffield", 
-                    "followers": 497, 
+                    "followers": 503, 
                     "posted_on": "2016-04-04T12:48:30+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1697,7 +2077,7 @@
                 }, 
                 {
                     "attribution": "Audrey Mayer", 
-                    "followers": 296, 
+                    "followers": 307, 
                     "posted_on": "2016-04-04T12:30:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1715,7 +2095,7 @@
                 }, 
                 {
                     "attribution": "Leonardo Saravia", 
-                    "followers": 439, 
+                    "followers": 441, 
                     "posted_on": "2016-04-04T03:13:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1724,7 +2104,7 @@
                 }, 
                 {
                     "attribution": "Clayton Penniman", 
-                    "followers": 59, 
+                    "followers": 62, 
                     "posted_on": "2016-04-03T23:06:22+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1751,7 +2131,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-03T21:55:08+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1760,7 +2140,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-03T21:54:00+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1796,7 +2176,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-02T16:28:54+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1805,7 +2185,7 @@
                 }, 
                 {
                     "attribution": "BehavEcolPapers", 
-                    "followers": 519, 
+                    "followers": 532, 
                     "posted_on": "2016-04-02T14:16:11+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1814,7 +2194,7 @@
                 }, 
                 {
                     "attribution": "ZAHYLIS ZAMBRANO", 
-                    "followers": 386, 
+                    "followers": 390, 
                     "posted_on": "2016-04-02T08:09:13+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1823,7 +2203,7 @@
                 }, 
                 {
                     "attribution": "Ed Darrell", 
-                    "followers": 3477, 
+                    "followers": 3557, 
                     "posted_on": "2016-04-02T08:03:28+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1832,7 +2212,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-02T07:58:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1841,7 +2221,7 @@
                 }, 
                 {
                     "attribution": "ENERGY INNOVATION", 
-                    "followers": 1226, 
+                    "followers": 1329, 
                     "posted_on": "2016-04-02T02:30:57+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1850,7 +2230,7 @@
                 }, 
                 {
                     "attribution": "LLRX", 
-                    "followers": 1079, 
+                    "followers": 1078, 
                     "posted_on": "2016-04-02T02:14:53+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1868,7 +2248,7 @@
                 }, 
                 {
                     "attribution": "Matt", 
-                    "followers": 12008, 
+                    "followers": 12252, 
                     "posted_on": "2016-04-01T20:15:58+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1886,7 +2266,7 @@
                 }, 
                 {
                     "attribution": "Guillermo Fandos", 
-                    "followers": 197, 
+                    "followers": 198, 
                     "posted_on": "2016-04-01T20:09:50+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1895,7 +2275,7 @@
                 }, 
                 {
                     "attribution": "Eco-land lab", 
-                    "followers": 1479, 
+                    "followers": 1487, 
                     "posted_on": "2016-04-01T20:08:28+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1904,7 +2284,7 @@
                 }, 
                 {
                     "attribution": "Fernando T. Maestre", 
-                    "followers": 849, 
+                    "followers": 866, 
                     "posted_on": "2016-04-01T20:06:33+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1913,7 +2293,7 @@
                 }, 
                 {
                     "attribution": "Danica SchafferSmith", 
-                    "followers": 125, 
+                    "followers": 127, 
                     "posted_on": "2016-04-01T19:19:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1922,7 +2302,7 @@
                 }, 
                 {
                     "attribution": "Carnegie Science", 
-                    "followers": 4104, 
+                    "followers": 4213, 
                     "posted_on": "2016-04-01T18:15:48+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1940,7 +2320,7 @@
                 }, 
                 {
                     "attribution": "Matt", 
-                    "followers": 12008, 
+                    "followers": 12252, 
                     "posted_on": "2016-04-01T17:15:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1949,7 +2329,7 @@
                 }, 
                 {
                     "attribution": "Carnegie Ecology", 
-                    "followers": 295, 
+                    "followers": 346, 
                     "posted_on": "2016-04-01T17:07:48+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1967,7 +2347,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-04-01T12:31:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1976,7 +2356,7 @@
                 }, 
                 {
                     "attribution": "Xi Yang", 
-                    "followers": 177, 
+                    "followers": 181, 
                     "posted_on": "2016-04-01T12:24:33+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -1994,7 +2374,7 @@
                 }, 
                 {
                     "attribution": "Martin Jung", 
-                    "followers": 294, 
+                    "followers": 291, 
                     "posted_on": "2016-04-01T11:40:38+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2003,7 +2383,7 @@
                 }, 
                 {
                     "attribution": "Connie", 
-                    "followers": 81, 
+                    "followers": 85, 
                     "posted_on": "2016-04-01T10:37:06+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2012,7 +2392,7 @@
                 }, 
                 {
                     "attribution": "Pedro J. Leit\u00e3o", 
-                    "followers": 186, 
+                    "followers": 200, 
                     "posted_on": "2016-04-01T07:09:04+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2021,7 +2401,7 @@
                 }, 
                 {
                     "attribution": "Jerome OLLIER", 
-                    "followers": 343, 
+                    "followers": 342, 
                     "posted_on": "2016-04-01T05:49:40+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2039,7 +2419,7 @@
                 }, 
                 {
                     "attribution": "Stuart Phinn", 
-                    "followers": 478, 
+                    "followers": 488, 
                     "posted_on": "2016-03-31T23:36:12+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2048,7 +2428,7 @@
                 }, 
                 {
                     "attribution": "Remotely Sensed", 
-                    "followers": 733, 
+                    "followers": 756, 
                     "posted_on": "2016-03-31T23:14:36+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2066,7 +2446,7 @@
                 }, 
                 {
                     "attribution": "PLOS Biology", 
-                    "followers": 34308, 
+                    "followers": 34602, 
                     "posted_on": "2016-03-31T20:22:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2075,7 +2455,7 @@
                 }, 
                 {
                     "attribution": "New England BioGroup", 
-                    "followers": 90, 
+                    "followers": 89, 
                     "posted_on": "2016-03-31T19:40:33+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2085,16 +2465,28 @@
             ], 
             "sources": [
                 {
+                    "display_name": "News mentions", 
+                    "events_last_week_count": 3, 
+                    "posts_count": 37, 
+                    "source_name": "news"
+                }, 
+                {
                     "display_name": "Blog posts", 
-                    "events_last_week_count": 2, 
+                    "events_last_week_count": 0, 
                     "posts_count": 5, 
                     "source_name": "blogs"
                 }, 
                 {
                     "display_name": "Tweets", 
-                    "events_last_week_count": 9, 
-                    "posts_count": 153, 
+                    "events_last_week_count": 2, 
+                    "posts_count": 161, 
                     "source_name": "twitter"
+                }, 
+                {
+                    "display_name": "Facebook pages", 
+                    "events_last_week_count": 0, 
+                    "posts_count": 2, 
+                    "source_name": "facebook"
                 }, 
                 {
                     "display_name": "Reddit posts", 
@@ -2107,18 +2499,6 @@
                     "events_last_week_count": 0, 
                     "posts_count": 4, 
                     "source_name": "googleplus"
-                }, 
-                {
-                    "display_name": "News mentions", 
-                    "events_last_week_count": 5, 
-                    "posts_count": 34, 
-                    "source_name": "news"
-                }, 
-                {
-                    "display_name": "Facebook pages", 
-                    "events_last_week_count": 0, 
-                    "posts_count": 2, 
-                    "source_name": "facebook"
                 }
             ], 
             "title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions", 
@@ -2128,7 +2508,7 @@
         {
             "_title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale", 
             "altmetric_id": "4398603", 
-            "altmetric_score": 317.136, 
+            "altmetric_score": 316.436, 
             "authors": "Adam M. Wilson, Gene E. Likens, Hussein Suleman", 
             "doi": "10.1371/journal.pone.0134454", 
             "events_last_week_count": 0, 
@@ -2139,11 +2519,40 @@
             "is_open": true, 
             "is_open_new": true, 
             "journal": "PLoS ONE", 
+            "mendeley": {
+                "country_percent": {
+                    "Brazil": 0.11, 
+                    "Ireland": 0.11, 
+                    "Spain": 0.11, 
+                    "United Kingdom": 0.11, 
+                    "United States": 0.56
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.19, 
+                    "Librarian": 0.19, 
+                    "Masters Student": 0.13, 
+                    "PhD Student": 0.38, 
+                    "Postdoc": 0.06, 
+                    "Undergrad Student": 0.06
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/content-volatility-scientific-topics-wikipedia-cautionary-tale", 
+                "readers": 18, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.31, 
+                    "Computer and Information Science": 0.13, 
+                    "Engineering": 0.06, 
+                    "Humanities": 0.06, 
+                    "Management Science / Operations Research": 0.06, 
+                    "Psychology": 0.13, 
+                    "Social Sciences": 0.25
+                }
+            }, 
+            "num_mentions": 253, 
             "num_posts": 235, 
-            "open_url": "http://doi.org/10.1371/journal.pone.0134454", 
+            "open_url": "http://doi.org/None", 
             "open_urls": {
                 "urls": [
-                    "http://doi.org/10.1371/journal.pone.0134454"
+                    "http://doi.org/None"
                 ]
             }, 
             "orcid_id": "0000-0003-3362-7806", 
@@ -2391,7 +2800,7 @@
                 }, 
                 {
                     "attribution": "David Wm. Fischer", 
-                    "followers": 43, 
+                    "followers": 47, 
                     "posted_on": "2016-01-14T19:24:38+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2400,7 +2809,7 @@
                 }, 
                 {
                     "attribution": "umasslinguistics", 
-                    "followers": 633, 
+                    "followers": 649, 
                     "posted_on": "2015-11-28T15:55:31+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2409,7 +2818,7 @@
                 }, 
                 {
                     "attribution": "Canopy In The Clouds", 
-                    "followers": 460, 
+                    "followers": 467, 
                     "posted_on": "2015-10-14T18:16:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2418,7 +2827,7 @@
                 }, 
                 {
                     "attribution": "Dan Graur", 
-                    "followers": 2898, 
+                    "followers": 2917, 
                     "posted_on": "2015-10-08T03:27:50+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2436,7 +2845,7 @@
                 }, 
                 {
                     "attribution": "Jules Bristow", 
-                    "followers": 1981, 
+                    "followers": 1994, 
                     "posted_on": "2015-09-18T08:37:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2445,7 +2854,7 @@
                 }, 
                 {
                     "attribution": "Todd David Johnson", 
-                    "followers": 219, 
+                    "followers": 224, 
                     "posted_on": "2015-09-18T07:20:32+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2454,7 +2863,7 @@
                 }, 
                 {
                     "attribution": "CCS-UPF", 
-                    "followers": 5352, 
+                    "followers": 5373, 
                     "posted_on": "2015-09-14T10:00:23+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2490,7 +2899,7 @@
                 }, 
                 {
                     "attribution": "barry goldman", 
-                    "followers": 121, 
+                    "followers": 128, 
                     "posted_on": "2015-09-09T15:00:56+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2499,7 +2908,7 @@
                 }, 
                 {
                     "attribution": "Adriana Briscoe", 
-                    "followers": 185, 
+                    "followers": 190, 
                     "posted_on": "2015-09-09T14:25:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2517,7 +2926,7 @@
                 }, 
                 {
                     "attribution": "Alex Smith", 
-                    "followers": 1228, 
+                    "followers": 1233, 
                     "posted_on": "2015-09-09T14:05:34+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2526,7 +2935,7 @@
                 }, 
                 {
                     "attribution": "Ellen L. Simms", 
-                    "followers": 563, 
+                    "followers": 568, 
                     "posted_on": "2015-09-09T13:50:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2544,7 +2953,7 @@
                 }, 
                 {
                     "attribution": "Susan J. Tweit", 
-                    "followers": 797, 
+                    "followers": 804, 
                     "posted_on": "2015-09-09T13:47:42+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2553,7 +2962,7 @@
                 }, 
                 {
                     "attribution": "Alex Smith", 
-                    "followers": 1228, 
+                    "followers": 1233, 
                     "posted_on": "2015-09-09T13:41:32+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2562,7 +2971,7 @@
                 }, 
                 {
                     "attribution": "Alex Smith", 
-                    "followers": 1228, 
+                    "followers": 1233, 
                     "posted_on": "2015-09-09T13:41:21+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2571,7 +2980,7 @@
                 }, 
                 {
                     "attribution": "May Berenbaum", 
-                    "followers": 2199, 
+                    "followers": 2228, 
                     "posted_on": "2015-09-09T13:40:43+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2580,7 +2989,7 @@
                 }, 
                 {
                     "attribution": "May Berenbaum", 
-                    "followers": 2199, 
+                    "followers": 2228, 
                     "posted_on": "2015-09-09T13:38:54+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2598,7 +3007,7 @@
                 }, 
                 {
                     "attribution": "The Good Word", 
-                    "followers": 114, 
+                    "followers": 125, 
                     "posted_on": "2015-09-01T13:06:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2616,7 +3025,7 @@
                 }, 
                 {
                     "attribution": "S&TPolicyFellowships", 
-                    "followers": 2965, 
+                    "followers": 2998, 
                     "posted_on": "2015-08-26T12:57:15+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2625,7 +3034,7 @@
                 }, 
                 {
                     "attribution": "ASA Science Policy", 
-                    "followers": 1483, 
+                    "followers": 1491, 
                     "posted_on": "2015-08-26T12:50:38+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2643,7 +3052,7 @@
                 }, 
                 {
                     "attribution": "Jari Lyytim\u00e4ki", 
-                    "followers": 354, 
+                    "followers": 355, 
                     "posted_on": "2015-08-25T03:50:20+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2652,7 +3061,7 @@
                 }, 
                 {
                     "attribution": "Alberto Jos\u00e9 Hurtado", 
-                    "followers": 1102, 
+                    "followers": 1105, 
                     "posted_on": "2015-08-25T01:58:57+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2661,7 +3070,7 @@
                 }, 
                 {
                     "attribution": "Rebecca Burnett", 
-                    "followers": 578, 
+                    "followers": 579, 
                     "posted_on": "2015-08-24T09:45:31+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2670,7 +3079,7 @@
                 }, 
                 {
                     "attribution": "CharlotteS.", 
-                    "followers": 5488, 
+                    "followers": 5663, 
                     "posted_on": "2015-08-24T06:55:29+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2688,7 +3097,7 @@
                 }, 
                 {
                     "attribution": "Berghahn Books", 
-                    "followers": 2620, 
+                    "followers": 2628, 
                     "posted_on": "2015-08-23T13:05:28+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2697,7 +3106,7 @@
                 }, 
                 {
                     "attribution": "D\u24d0niel Mietchen", 
-                    "followers": 3274, 
+                    "followers": 3293, 
                     "posted_on": "2015-08-23T04:12:56+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2706,7 +3115,7 @@
                 }, 
                 {
                     "attribution": "Joy", 
-                    "followers": 1162, 
+                    "followers": 1171, 
                     "posted_on": "2015-08-23T03:45:39+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2715,7 +3124,7 @@
                 }, 
                 {
                     "attribution": "Gry Tina Tinde", 
-                    "followers": 28876, 
+                    "followers": 29036, 
                     "posted_on": "2015-08-23T02:55:17+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2724,7 +3133,7 @@
                 }, 
                 {
                     "attribution": "Guyard", 
-                    "followers": 471, 
+                    "followers": 470, 
                     "posted_on": "2015-08-22T20:05:41+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2733,7 +3142,7 @@
                 }, 
                 {
                     "attribution": "Marco Ferreira", 
-                    "followers": 212, 
+                    "followers": 211, 
                     "posted_on": "2015-08-22T19:02:11+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2742,7 +3151,7 @@
                 }, 
                 {
                     "attribution": "Xavier Mol\u00e9nat", 
-                    "followers": 5703, 
+                    "followers": 5761, 
                     "posted_on": "2015-08-22T19:01:19+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2787,7 +3196,7 @@
                 }, 
                 {
                     "attribution": "RaviVisvesvaraPrasad", 
-                    "followers": 3615, 
+                    "followers": 3639, 
                     "posted_on": "2015-08-21T22:02:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2805,7 +3214,7 @@
                 }, 
                 {
                     "attribution": "Liberationtech", 
-                    "followers": 40675, 
+                    "followers": 40770, 
                     "posted_on": "2015-08-21T19:30:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2841,7 +3250,7 @@
                 }, 
                 {
                     "attribution": "Mauro", 
-                    "followers": 986, 
+                    "followers": 982, 
                     "posted_on": "2015-08-21T15:22:16+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2886,7 +3295,7 @@
                 }, 
                 {
                     "attribution": "Jose Ramos Vivas", 
-                    "followers": 170, 
+                    "followers": 172, 
                     "posted_on": "2015-08-21T12:57:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2922,7 +3331,7 @@
                 }, 
                 {
                     "attribution": "Anna Carbone", 
-                    "followers": 252, 
+                    "followers": 258, 
                     "posted_on": "2015-08-21T12:16:37+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2931,7 +3340,7 @@
                 }, 
                 {
                     "attribution": "Sarah Beck", 
-                    "followers": 575, 
+                    "followers": 577, 
                     "posted_on": "2015-08-21T12:07:57+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2940,7 +3349,7 @@
                 }, 
                 {
                     "attribution": "Jose Santeliz", 
-                    "followers": 220, 
+                    "followers": 226, 
                     "posted_on": "2015-08-21T11:49:40+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -2949,7 +3358,7 @@
                 }, 
                 {
                     "attribution": "Jose Santeliz", 
-                    "followers": 220, 
+                    "followers": 226, 
                     "posted_on": "2015-08-21T11:47:28+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3021,7 +3430,7 @@
                 }, 
                 {
                     "attribution": "gisela kozak rovero", 
-                    "followers": 10892, 
+                    "followers": 11134, 
                     "posted_on": "2015-08-21T11:37:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3075,7 +3484,7 @@
                 }, 
                 {
                     "attribution": "karen may", 
-                    "followers": 391, 
+                    "followers": 407, 
                     "posted_on": "2015-08-21T11:27:59+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3111,7 +3520,7 @@
                 }, 
                 {
                     "attribution": "Neil Hotchin", 
-                    "followers": 225, 
+                    "followers": 237, 
                     "posted_on": "2015-08-21T11:20:10+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3129,7 +3538,7 @@
                 }, 
                 {
                     "attribution": "Sean Leaver", 
-                    "followers": 241, 
+                    "followers": 245, 
                     "posted_on": "2015-08-21T11:18:45+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3165,7 +3574,7 @@
                 }, 
                 {
                     "attribution": "Paula Goodale", 
-                    "followers": 615, 
+                    "followers": 616, 
                     "posted_on": "2015-08-21T11:13:40+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3174,7 +3583,7 @@
                 }, 
                 {
                     "attribution": "Dominique Vanp\u00e9e", 
-                    "followers": 1460, 
+                    "followers": 1450, 
                     "posted_on": "2015-08-21T11:13:13+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3183,7 +3592,7 @@
                 }, 
                 {
                     "attribution": "Nikos", 
-                    "followers": 1299, 
+                    "followers": 1308, 
                     "posted_on": "2015-08-21T11:12:39+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3192,7 +3601,7 @@
                 }, 
                 {
                     "attribution": "Higher Education", 
-                    "followers": 128542, 
+                    "followers": 132898, 
                     "posted_on": "2015-08-21T11:12:04+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3201,7 +3610,7 @@
                 }, 
                 {
                     "attribution": "Vordio", 
-                    "followers": 778, 
+                    "followers": 772, 
                     "posted_on": "2015-08-21T10:52:52+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3210,7 +3619,7 @@
                 }, 
                 {
                     "attribution": "markusmind", 
-                    "followers": 1630, 
+                    "followers": 1639, 
                     "posted_on": "2015-08-21T08:09:22+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3219,7 +3628,7 @@
                 }, 
                 {
                     "attribution": "Mark Hartl", 
-                    "followers": 1063, 
+                    "followers": 1089, 
                     "posted_on": "2015-08-20T20:30:14+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3228,7 +3637,7 @@
                 }, 
                 {
                     "attribution": "fredtrotter", 
-                    "followers": 6783, 
+                    "followers": 6901, 
                     "posted_on": "2015-08-20T18:35:18+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3237,7 +3646,7 @@
                 }, 
                 {
                     "attribution": "Bernice Tighe", 
-                    "followers": 359, 
+                    "followers": 358, 
                     "posted_on": "2015-08-20T15:48:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3264,7 +3673,7 @@
                 }, 
                 {
                     "attribution": "David Golumbia", 
-                    "followers": 2578, 
+                    "followers": 2602, 
                     "posted_on": "2015-08-20T14:19:43+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3291,7 +3700,7 @@
                 }, 
                 {
                     "attribution": "wahyuwei", 
-                    "followers": 223, 
+                    "followers": 224, 
                     "posted_on": "2015-08-19T19:24:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3300,7 +3709,7 @@
                 }, 
                 {
                     "attribution": "Erwin Dreyer", 
-                    "followers": 403, 
+                    "followers": 413, 
                     "posted_on": "2015-08-19T18:32:55+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3309,7 +3718,7 @@
                 }, 
                 {
                     "attribution": "Boris Vauzeilles", 
-                    "followers": 103, 
+                    "followers": 105, 
                     "posted_on": "2015-08-19T18:02:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3318,7 +3727,7 @@
                 }, 
                 {
                     "attribution": "Alan", 
-                    "followers": 3829, 
+                    "followers": 3853, 
                     "posted_on": "2015-08-19T16:59:34+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3327,7 +3736,7 @@
                 }, 
                 {
                     "attribution": "Huet Sylvestre", 
-                    "followers": 3846, 
+                    "followers": 4022, 
                     "posted_on": "2015-08-19T15:03:18+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3336,7 +3745,7 @@
                 }, 
                 {
                     "attribution": "Fr\u00e9d\u00e9ric Dardel", 
-                    "followers": 567, 
+                    "followers": 583, 
                     "posted_on": "2015-08-19T14:57:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3363,7 +3772,7 @@
                 }, 
                 {
                     "attribution": "Kajsaaman", 
-                    "followers": 101, 
+                    "followers": 104, 
                     "posted_on": "2015-08-19T05:48:30+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3381,7 +3790,7 @@
                 }, 
                 {
                     "attribution": "Steven R Clark", 
-                    "followers": 1306, 
+                    "followers": 1349, 
                     "posted_on": "2015-08-18T22:24:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3390,7 +3799,7 @@
                 }, 
                 {
                     "attribution": "Ben Harris-Roxas", 
-                    "followers": 13622, 
+                    "followers": 13648, 
                     "posted_on": "2015-08-18T22:20:05+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3408,7 +3817,7 @@
                 }, 
                 {
                     "attribution": "Mel_Storni", 
-                    "followers": 463, 
+                    "followers": 474, 
                     "posted_on": "2015-08-18T21:21:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3417,7 +3826,7 @@
                 }, 
                 {
                     "attribution": "BioGPS", 
-                    "followers": 693, 
+                    "followers": 694, 
                     "posted_on": "2015-08-18T20:30:17+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3434,8 +3843,8 @@
                     "url": "http://twitter.com/DJDelleon/statuses/633727026965299200"
                 }, 
                 {
-                    "attribution": "level 9", 
-                    "followers": 33, 
+                    "attribution": "LD4pg", 
+                    "followers": 42, 
                     "posted_on": "2015-08-18T19:21:55+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3453,7 +3862,7 @@
                 }, 
                 {
                     "attribution": "Fenella Saunders", 
-                    "followers": 1354, 
+                    "followers": 1364, 
                     "posted_on": "2015-08-18T19:12:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3471,7 +3880,7 @@
                 }, 
                 {
                     "attribution": "Kirk Englehardt", 
-                    "followers": 4670, 
+                    "followers": 4685, 
                     "posted_on": "2015-08-18T19:10:44+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3516,7 +3925,7 @@
                 }, 
                 {
                     "attribution": "World History 101", 
-                    "followers": 42308, 
+                    "followers": 42527, 
                     "posted_on": "2015-08-18T17:51:31+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3525,7 +3934,7 @@
                 }, 
                 {
                     "attribution": "Rooster", 
-                    "followers": 228, 
+                    "followers": 247, 
                     "posted_on": "2015-08-18T17:42:18+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3543,7 +3952,7 @@
                 }, 
                 {
                     "attribution": "Stephen Chrisomalis", 
-                    "followers": 869, 
+                    "followers": 882, 
                     "posted_on": "2015-08-18T17:11:38+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3561,7 +3970,7 @@
                 }, 
                 {
                     "attribution": "Michael Scally", 
-                    "followers": 696, 
+                    "followers": 698, 
                     "posted_on": "2015-08-18T15:54:30+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3579,7 +3988,7 @@
                 }, 
                 {
                     "attribution": "Erich Friesen", 
-                    "followers": 1050, 
+                    "followers": 1078, 
                     "posted_on": "2015-08-18T12:46:45+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3588,7 +3997,7 @@
                 }, 
                 {
                     "attribution": "Filipe Saraiva", 
-                    "followers": 1939, 
+                    "followers": 1944, 
                     "posted_on": "2015-08-18T12:41:37+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3597,7 +4006,7 @@
                 }, 
                 {
                     "attribution": "Open Science", 
-                    "followers": 44900, 
+                    "followers": 45102, 
                     "posted_on": "2015-08-18T12:41:05+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3606,7 +4015,7 @@
                 }, 
                 {
                     "attribution": "Mary Beth Adams", 
-                    "followers": 67, 
+                    "followers": 69, 
                     "posted_on": "2015-08-18T11:38:44+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3633,7 +4042,7 @@
                 }, 
                 {
                     "attribution": "Marjorie Schulz", 
-                    "followers": 101, 
+                    "followers": 105, 
                     "posted_on": "2015-08-18T10:17:41+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3660,7 +4069,7 @@
                 }, 
                 {
                     "attribution": "Tim Hogenbirk", 
-                    "followers": 743, 
+                    "followers": 749, 
                     "posted_on": "2015-08-18T09:15:10+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3678,7 +4087,7 @@
                 }, 
                 {
                     "attribution": "Tech Stories", 
-                    "followers": 914, 
+                    "followers": 926, 
                     "posted_on": "2015-08-18T09:05:05+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3687,7 +4096,7 @@
                 }, 
                 {
                     "attribution": "David Camacho", 
-                    "followers": 218, 
+                    "followers": 216, 
                     "posted_on": "2015-08-18T09:01:47+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3705,7 +4114,7 @@
                 }, 
                 {
                     "attribution": "Social Media Baba", 
-                    "followers": 95102, 
+                    "followers": 95041, 
                     "posted_on": "2015-08-18T08:58:38+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3714,7 +4123,7 @@
                 }, 
                 {
                     "attribution": "Cordell Bornman", 
-                    "followers": 2483, 
+                    "followers": 2473, 
                     "posted_on": "2015-08-18T08:57:41+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3732,7 +4141,7 @@
                 }, 
                 {
                     "attribution": "TrackChat", 
-                    "followers": 95, 
+                    "followers": 96, 
                     "posted_on": "2015-08-18T08:56:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3741,7 +4150,7 @@
                 }, 
                 {
                     "attribution": "Thomas Buck", 
-                    "followers": 1243, 
+                    "followers": 1239, 
                     "posted_on": "2015-08-18T08:56:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3750,7 +4159,7 @@
                 }, 
                 {
                     "attribution": "Peta Eaton", 
-                    "followers": 94, 
+                    "followers": 98, 
                     "posted_on": "2015-08-18T08:56:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3777,7 +4186,7 @@
                 }, 
                 {
                     "attribution": "Un1v3rs0 Z3r0", 
-                    "followers": 468, 
+                    "followers": 460, 
                     "posted_on": "2015-08-18T08:53:21+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3795,7 +4204,7 @@
                 }, 
                 {
                     "attribution": "Hacker News", 
-                    "followers": 248, 
+                    "followers": 246, 
                     "posted_on": "2015-08-18T08:52:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3813,7 +4222,7 @@
                 }, 
                 {
                     "attribution": "Web Startup Group", 
-                    "followers": 8833, 
+                    "followers": 8820, 
                     "posted_on": "2015-08-18T08:51:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3822,7 +4231,7 @@
                 }, 
                 {
                     "attribution": "Nino Milenovic", 
-                    "followers": 2938, 
+                    "followers": 2943, 
                     "posted_on": "2015-08-18T08:51:37+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3849,7 +4258,7 @@
                 }, 
                 {
                     "attribution": "Hacker News", 
-                    "followers": 11316, 
+                    "followers": 11468, 
                     "posted_on": "2015-08-18T08:50:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3858,7 +4267,7 @@
                 }, 
                 {
                     "attribution": "Hacker News YC", 
-                    "followers": 19289, 
+                    "followers": 19372, 
                     "posted_on": "2015-08-18T08:49:44+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3867,7 +4276,7 @@
                 }, 
                 {
                     "attribution": "Alex GTC Feeder", 
-                    "followers": 1860, 
+                    "followers": 1856, 
                     "posted_on": "2015-08-18T08:49:37+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3885,7 +4294,7 @@
                 }, 
                 {
                     "attribution": "SWNews", 
-                    "followers": 2667, 
+                    "followers": 2710, 
                     "posted_on": "2015-08-18T08:47:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3903,7 +4312,7 @@
                 }, 
                 {
                     "attribution": "RetweetNews.org", 
-                    "followers": 110, 
+                    "followers": 109, 
                     "posted_on": "2015-08-18T08:47:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3930,7 +4339,7 @@
                 }, 
                 {
                     "attribution": "Montse volc\u00e0nica", 
-                    "followers": 247, 
+                    "followers": 248, 
                     "posted_on": "2015-08-18T07:06:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3966,7 +4375,7 @@
                 }, 
                 {
                     "attribution": "Jase S Goldy", 
-                    "followers": 642, 
+                    "followers": 657, 
                     "posted_on": "2015-08-18T05:17:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3984,7 +4393,7 @@
                 }, 
                 {
                     "attribution": "Jessica Budke", 
-                    "followers": 687, 
+                    "followers": 691, 
                     "posted_on": "2015-08-17T21:54:43+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -3993,7 +4402,7 @@
                 }, 
                 {
                     "attribution": "Rebecca Sear", 
-                    "followers": 1457, 
+                    "followers": 1484, 
                     "posted_on": "2015-08-17T19:58:57+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4002,7 +4411,7 @@
                 }, 
                 {
                     "attribution": "Jes\u00fas Tramullas", 
-                    "followers": 2090, 
+                    "followers": 2096, 
                     "posted_on": "2015-08-17T18:50:15+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4011,7 +4420,7 @@
                 }, 
                 {
                     "attribution": "WikiResearch", 
-                    "followers": 3497, 
+                    "followers": 3556, 
                     "posted_on": "2015-08-17T18:48:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4038,7 +4447,7 @@
                 }, 
                 {
                     "attribution": "Dr24hours", 
-                    "followers": 2212, 
+                    "followers": 2217, 
                     "posted_on": "2015-08-17T18:03:59+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4047,7 +4456,7 @@
                 }, 
                 {
                     "attribution": "Morgan Tingley", 
-                    "followers": 968, 
+                    "followers": 988, 
                     "posted_on": "2015-08-17T14:11:18+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4074,7 +4483,7 @@
                 }, 
                 {
                     "attribution": "@erfocentrum", 
-                    "followers": 968, 
+                    "followers": 970, 
                     "posted_on": "2015-08-17T12:16:17+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4092,7 +4501,7 @@
                 }, 
                 {
                     "attribution": "Marie E McVeigh", 
-                    "followers": 127, 
+                    "followers": 130, 
                     "posted_on": "2015-08-17T12:00:56+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4110,7 +4519,7 @@
                 }, 
                 {
                     "attribution": "Ivan Wolffers", 
-                    "followers": 8388, 
+                    "followers": 8396, 
                     "posted_on": "2015-08-17T11:26:25+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4119,7 +4528,7 @@
                 }, 
                 {
                     "attribution": "Richard Poynder", 
-                    "followers": 3040, 
+                    "followers": 3062, 
                     "posted_on": "2015-08-17T11:16:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4128,7 +4537,7 @@
                 }, 
                 {
                     "attribution": "SCPHRP", 
-                    "followers": 6572, 
+                    "followers": 6579, 
                     "posted_on": "2015-08-17T06:53:20+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4137,7 +4546,7 @@
                 }, 
                 {
                     "attribution": "Pasco Phronesis", 
-                    "followers": 457, 
+                    "followers": 451, 
                     "posted_on": "2015-08-17T06:21:45+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4155,7 +4564,7 @@
                 }, 
                 {
                     "attribution": "Chris Parsons", 
-                    "followers": 1334, 
+                    "followers": 1333, 
                     "posted_on": "2015-08-16T23:10:45+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4164,7 +4573,7 @@
                 }, 
                 {
                     "attribution": "OA Tracking Project", 
-                    "followers": 4086, 
+                    "followers": 4102, 
                     "posted_on": "2015-08-16T12:19:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4182,7 +4591,7 @@
                 }, 
                 {
                     "attribution": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc\uff12\u4e16", 
-                    "followers": 2448, 
+                    "followers": 2494, 
                     "posted_on": "2015-08-15T00:19:51+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4191,6 +4600,12 @@
                 }
             ], 
             "sources": [
+                {
+                    "display_name": "News mentions", 
+                    "events_last_week_count": 0, 
+                    "posts_count": 15, 
+                    "source_name": "news"
+                }, 
                 {
                     "display_name": "Blog posts", 
                     "events_last_week_count": 0, 
@@ -4204,6 +4619,12 @@
                     "source_name": "twitter"
                 }, 
                 {
+                    "display_name": "Facebook pages", 
+                    "events_last_week_count": 0, 
+                    "posts_count": 6, 
+                    "source_name": "facebook"
+                }, 
+                {
                     "display_name": "Reddit posts", 
                     "events_last_week_count": 0, 
                     "posts_count": 1, 
@@ -4214,18 +4635,6 @@
                     "events_last_week_count": 0, 
                     "posts_count": 3, 
                     "source_name": "googleplus"
-                }, 
-                {
-                    "display_name": "News mentions", 
-                    "events_last_week_count": 0, 
-                    "posts_count": 15, 
-                    "source_name": "news"
-                }, 
-                {
-                    "display_name": "Facebook pages", 
-                    "events_last_week_count": 0, 
-                    "posts_count": 6, 
-                    "source_name": "facebook"
                 }
             ], 
             "title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale", 
@@ -4244,14 +4653,35 @@
             "is_oa_journal": false, 
             "is_oa_repository": false, 
             "is_open": false, 
-            "is_open_new": true, 
+            "is_open_new": false, 
             "journal": "Proceedings of the National Academy of Sciences", 
+            "mendeley": {
+                "country_percent": {
+                    "Estonia": 0.25, 
+                    "South Africa": 0.25, 
+                    "United Kingdom": 0.25, 
+                    "United States": 0.25
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.18, 
+                    "Masters Student": 0.18, 
+                    "PhD Student": 0.55, 
+                    "Postdoc": 0.09
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/climatic-controls-ecosystem-resilience-implications-changing-climate-postfire-regeneration-cape-flor", 
+                "readers": 23, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.55, 
+                    "Earth Sciences": 0.18, 
+                    "Environmental Sciences": 0.18, 
+                    "Social Sciences": 0.09
+                }
+            }, 
+            "num_mentions": 45, 
             "num_posts": 22, 
-            "open_url": "http://dx.doi.org/10.1073/pnas.1416710112", 
+            "open_url": null, 
             "open_urls": {
-                "urls": [
-                    "http://dx.doi.org/10.1073/pnas.1416710112"
-                ]
+                "urls": []
             }, 
             "orcid_id": "0000-0003-3362-7806", 
             "posts": [
@@ -4312,7 +4742,7 @@
                 }, 
                 {
                     "attribution": "BEFresearch", 
-                    "followers": 42, 
+                    "followers": 41, 
                     "posted_on": "2015-10-16T15:26:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4330,7 +4760,7 @@
                 }, 
                 {
                     "attribution": "Juan Rocha", 
-                    "followers": 962, 
+                    "followers": 965, 
                     "posted_on": "2015-08-10T13:53:17+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4366,7 +4796,7 @@
                 }, 
                 {
                     "attribution": "Arie Staal", 
-                    "followers": 253, 
+                    "followers": 259, 
                     "posted_on": "2015-07-23T19:40:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4393,7 +4823,7 @@
                 }, 
                 {
                     "attribution": "Karen Alofs", 
-                    "followers": 172, 
+                    "followers": 179, 
                     "posted_on": "2015-07-22T01:15:52+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4420,7 +4850,7 @@
                 }, 
                 {
                     "attribution": "Steve Carpenter", 
-                    "followers": 2055, 
+                    "followers": 2068, 
                     "posted_on": "2015-07-21T20:26:58+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4429,7 +4859,7 @@
                 }, 
                 {
                     "attribution": "BEFresearch", 
-                    "followers": 42, 
+                    "followers": 41, 
                     "posted_on": "2015-07-08T12:19:33+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4438,6 +4868,12 @@
                 }
             ], 
             "sources": [
+                {
+                    "display_name": "News mentions", 
+                    "events_last_week_count": 0, 
+                    "posts_count": 3, 
+                    "source_name": "news"
+                }, 
                 {
                     "display_name": "Blog posts", 
                     "events_last_week_count": 0, 
@@ -4451,22 +4887,16 @@
                     "source_name": "twitter"
                 }, 
                 {
-                    "display_name": "Google+ posts", 
-                    "events_last_week_count": 0, 
-                    "posts_count": 1, 
-                    "source_name": "googleplus"
-                }, 
-                {
-                    "display_name": "News mentions", 
-                    "events_last_week_count": 0, 
-                    "posts_count": 3, 
-                    "source_name": "news"
-                }, 
-                {
                     "display_name": "Facebook pages", 
                     "events_last_week_count": 0, 
                     "posts_count": 3, 
                     "source_name": "facebook"
+                }, 
+                {
+                    "display_name": "Google+ posts", 
+                    "events_last_week_count": 0, 
+                    "posts_count": 1, 
+                    "source_name": "googleplus"
                 }
             ], 
             "title": "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa", 
@@ -4477,7 +4907,7 @@
             "_title": "Wikipedia Content Volatility", 
             "altmetric_id": "4359561", 
             "altmetric_score": 23.1, 
-            "authors": null, 
+            "authors": "Wilson;", 
             "doi": "10.6084/m9.figshare.1397533", 
             "events_last_week_count": 0, 
             "genre": "other", 
@@ -4487,11 +4917,19 @@
             "is_open": true, 
             "is_open_new": true, 
             "journal": null, 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 9, 
             "num_posts": 9, 
-            "open_url": "http://doi.org/10.6084/m9.figshare.1397533", 
+            "open_url": "http://doi.org/None", 
             "open_urls": {
                 "urls": [
-                    "http://doi.org/10.6084/m9.figshare.1397533"
+                    "http://doi.org/None"
                 ]
             }, 
             "orcid_id": "0000-0003-3362-7806", 
@@ -4524,7 +4962,7 @@
                 }, 
                 {
                     "attribution": "MyScienceWork", 
-                    "followers": 6569, 
+                    "followers": 6576, 
                     "posted_on": "2015-08-04T11:01:26+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4542,7 +4980,7 @@
                 }, 
                 {
                     "attribution": "Dominique Vanp\u00e9e", 
-                    "followers": 1460, 
+                    "followers": 1450, 
                     "posted_on": "2015-08-04T09:45:22+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4551,7 +4989,7 @@
                 }, 
                 {
                     "attribution": "Elena Glassman", 
-                    "followers": 2417, 
+                    "followers": 2419, 
                     "posted_on": "2015-08-04T09:34:12+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4560,7 +4998,7 @@
                 }, 
                 {
                     "attribution": "figshare", 
-                    "followers": 27532, 
+                    "followers": 27686, 
                     "posted_on": "2015-08-04T09:29:57+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4569,6 +5007,12 @@
                 }
             ], 
             "sources": [
+                {
+                    "display_name": "News mentions", 
+                    "events_last_week_count": 0, 
+                    "posts_count": 1, 
+                    "source_name": "news"
+                }, 
                 {
                     "display_name": "Blog posts", 
                     "events_last_week_count": 0, 
@@ -4586,12 +5030,6 @@
                     "events_last_week_count": 0, 
                     "posts_count": 2, 
                     "source_name": "googleplus"
-                }, 
-                {
-                    "display_name": "News mentions", 
-                    "events_last_week_count": 0, 
-                    "posts_count": 1, 
-                    "source_name": "news"
                 }
             ], 
             "title": "Wikipedia Content Volatility", 
@@ -4612,6 +5050,36 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Glob Change Biol", 
+            "mendeley": {
+                "country_percent": {
+                    "France": 0.17, 
+                    "Hungary": 0.17, 
+                    "Netherlands": 0.17, 
+                    "Spain": 0.33, 
+                    "United States": 0.17
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.17, 
+                    "Masters Student": 0.07, 
+                    "Other": 0.05, 
+                    "PhD Student": 0.4, 
+                    "Postdoc": 0.23, 
+                    "Researcher (non-academic)": 0.05, 
+                    "Undergrad Student": 0.03
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/modeling-daily-flowering-probabilities-expected-impact-climate-change-japanese-cherry-phenology", 
+                "readers": 47, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.6, 
+                    "Earth Sciences": 0.05, 
+                    "Electrical and Electronic Engineering": 0.03, 
+                    "Environmental Sciences": 0.23, 
+                    "Mathematics": 0.05, 
+                    "Medicine": 0.03, 
+                    "Physics": 0.03
+                }
+            }, 
+            "num_mentions": 55, 
             "num_posts": 8, 
             "open_url": null, 
             "open_urls": {
@@ -4635,7 +5103,7 @@
                 }, 
                 {
                     "attribution": "\u6ce8\u76ee\u8ad6\u6587\u30c4\u30a4\u30fc\u30c8", 
-                    "followers": 5608, 
+                    "followers": 5762, 
                     "posted_on": "2014-03-30T23:00:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4644,7 +5112,7 @@
                 }, 
                 {
                     "attribution": "Theresa Crimmins", 
-                    "followers": 861, 
+                    "followers": 868, 
                     "posted_on": "2014-02-11T19:21:34+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4653,7 +5121,7 @@
                 }, 
                 {
                     "attribution": "Climate Change", 
-                    "followers": 644, 
+                    "followers": 659, 
                     "posted_on": "2014-02-11T06:18:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4662,7 +5130,7 @@
                 }, 
                 {
                     "attribution": "Ed Darrell", 
-                    "followers": 3411, 
+                    "followers": 3492, 
                     "posted_on": "2013-08-23T05:12:02+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4671,7 +5139,7 @@
                 }, 
                 {
                     "attribution": "Ari Jokim\u00e4ki", 
-                    "followers": 695, 
+                    "followers": 699, 
                     "posted_on": "2013-08-23T05:05:07+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4680,7 +5148,7 @@
                 }, 
                 {
                     "attribution": "Climate Change", 
-                    "followers": 644, 
+                    "followers": 659, 
                     "posted_on": "2013-08-22T07:33:39+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4715,7 +5183,7 @@
         {
             "_title": "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data", 
             "altmetric_id": "2531801", 
-            "altmetric_score": 7.1, 
+            "altmetric_score": 7.35, 
             "authors": "Cory Merow, Andrew M. Latimer, Adam M. Wilson, Sean M. McMahon, Anthony G. Rebelo, John A. Silander", 
             "doi": "10.1111/ecog.00839", 
             "events_last_week_count": 0, 
@@ -4724,14 +5192,47 @@
             "is_oa_journal": false, 
             "is_oa_repository": false, 
             "is_open": false, 
-            "is_open_new": true, 
+            "is_open_new": false, 
             "journal": "Ecography", 
+            "mendeley": {
+                "country_percent": {
+                    "Argentina": 0.04, 
+                    "Australia": 0.04, 
+                    "Benin": 0.04, 
+                    "Brazil": 0.04, 
+                    "Canada": 0.04, 
+                    "China": 0.04, 
+                    "Finland": 0.04, 
+                    "France": 0.04, 
+                    "Germany": 0.13, 
+                    "Portugal": 0.04, 
+                    "South Africa": 0.09, 
+                    "Spain": 0.04, 
+                    "Switzerland": 0.13, 
+                    "United States": 0.22
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.18, 
+                    "Masters Student": 0.23, 
+                    "PhD Student": 0.34, 
+                    "Postdoc": 0.15, 
+                    "Researcher (non-academic)": 0.06, 
+                    "Undergrad Student": 0.04
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/using-integral-projection-models-generate-demographically-driven-predictions-species-distributions-d", 
+                "readers": 103, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.7, 
+                    "Earth Sciences": 0.02, 
+                    "Environmental Sciences": 0.26, 
+                    "Mathematics": 0.02
+                }
+            }, 
+            "num_mentions": 121, 
             "num_posts": 18, 
-            "open_url": "http://hdl.handle.net/10088/25134", 
+            "open_url": null, 
             "open_urls": {
-                "urls": [
-                    "http://hdl.handle.net/10088/25134"
-                ]
+                "urls": []
             }, 
             "orcid_id": "0000-0003-3362-7806", 
             "posts": [
@@ -4753,7 +5254,7 @@
                 }, 
                 {
                     "attribution": "Ecography", 
-                    "followers": 2447, 
+                    "followers": 2491, 
                     "posted_on": "2014-12-04T20:13:23+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4762,7 +5263,7 @@
                 }, 
                 {
                     "attribution": "Seema Sheth", 
-                    "followers": 983, 
+                    "followers": 991, 
                     "posted_on": "2014-12-03T14:49:24+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4771,7 +5272,7 @@
                 }, 
                 {
                     "attribution": "Yvonne Buckley", 
-                    "followers": 1339, 
+                    "followers": 1378, 
                     "posted_on": "2014-08-16T05:23:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4780,7 +5281,7 @@
                 }, 
                 {
                     "attribution": "Greg McInerny", 
-                    "followers": 556, 
+                    "followers": 560, 
                     "posted_on": "2014-08-06T14:31:58+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4789,7 +5290,7 @@
                 }, 
                 {
                     "attribution": "Angela R.", 
-                    "followers": 170, 
+                    "followers": 174, 
                     "posted_on": "2014-08-06T14:05:54+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4798,7 +5299,7 @@
                 }, 
                 {
                     "attribution": "Clara B. Jones", 
-                    "followers": 372, 
+                    "followers": 375, 
                     "posted_on": "2014-08-06T14:02:46+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4807,7 +5308,7 @@
                 }, 
                 {
                     "attribution": "Yvonne Buckley", 
-                    "followers": 1339, 
+                    "followers": 1378, 
                     "posted_on": "2014-08-06T13:54:16+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4816,7 +5317,7 @@
                 }, 
                 {
                     "attribution": "CB Jones", 
-                    "followers": 426, 
+                    "followers": 431, 
                     "posted_on": "2014-08-06T13:52:29+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4825,7 +5326,7 @@
                 }, 
                 {
                     "attribution": "Frank O. Aylward", 
-                    "followers": 867, 
+                    "followers": 872, 
                     "posted_on": "2014-08-06T07:03:16+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4843,7 +5344,7 @@
                 }, 
                 {
                     "attribution": "AniMove", 
-                    "followers": 552, 
+                    "followers": 570, 
                     "posted_on": "2014-07-24T11:23:03+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4861,7 +5362,7 @@
                 }, 
                 {
                     "attribution": "Eco-land lab", 
-                    "followers": 1472, 
+                    "followers": 1486, 
                     "posted_on": "2014-07-23T16:28:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4870,7 +5371,7 @@
                 }, 
                 {
                     "attribution": "Andy Gonzalez", 
-                    "followers": 1561, 
+                    "followers": 1576, 
                     "posted_on": "2014-07-23T11:17:40+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4879,7 +5380,7 @@
                 }, 
                 {
                     "attribution": "Matt Hill", 
-                    "followers": 1496, 
+                    "followers": 1506, 
                     "posted_on": "2014-07-23T09:53:44+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4888,7 +5389,7 @@
                 }, 
                 {
                     "attribution": "Ecography", 
-                    "followers": 2447, 
+                    "followers": 2491, 
                     "posted_on": "2014-07-23T09:45:00+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4917,7 +5418,7 @@
         {
             "_title": "Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species", 
             "altmetric_id": "4861733", 
-            "altmetric_score": 4.8, 
+            "altmetric_score": 5.05, 
             "authors": "Sami Domisch, Adam M. Wilson, Walter Jetz", 
             "doi": "10.1111/ecog.01925", 
             "events_last_week_count": 0, 
@@ -4928,6 +5429,19 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Ecography", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {
+                    "Masters Student": 0.5, 
+                    "Postdoc": 0.5
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/modelbased-integration-observed-expertbased-information-assessing-geographic-environmental-distribut", 
+                "readers": 9, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 1.0
+                }
+            }, 
+            "num_mentions": 19, 
             "num_posts": 10, 
             "open_url": null, 
             "open_urls": {
@@ -4953,7 +5467,7 @@
                 }, 
                 {
                     "attribution": "Ecography", 
-                    "followers": 2469, 
+                    "followers": 2491, 
                     "posted_on": "2016-02-17T07:35:48+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4971,7 +5485,7 @@
                 }, 
                 {
                     "attribution": "Giovanni Rapacciuolo", 
-                    "followers": 153, 
+                    "followers": 157, 
                     "posted_on": "2015-12-11T17:52:40+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4980,7 +5494,7 @@
                 }, 
                 {
                     "attribution": "Eco-land lab", 
-                    "followers": 1479, 
+                    "followers": 1487, 
                     "posted_on": "2015-12-11T11:06:27+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -4989,7 +5503,7 @@
                 }, 
                 {
                     "attribution": "Ecography", 
-                    "followers": 2469, 
+                    "followers": 2491, 
                     "posted_on": "2015-12-10T14:52:33+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5007,7 +5521,7 @@
                 }, 
                 {
                     "attribution": "Pablo Garcia-Diaz", 
-                    "followers": 153, 
+                    "followers": 161, 
                     "posted_on": "2015-12-10T12:06:00+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5016,7 +5530,7 @@
                 }, 
                 {
                     "attribution": "Kevin Wood", 
-                    "followers": 3209, 
+                    "followers": 3273, 
                     "posted_on": "2015-12-10T12:03:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5056,6 +5570,20 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Ardea", 
+            "mendeley": {
+                "country_percent": {
+                    "South Africa": 1.0
+                }, 
+                "job_title_percent": {
+                    "Faculty": 1.0
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/climatic-influences-survival-migratory-african-reed-warblers-iacrocephalus-baeticatusi-south-africa", 
+                "readers": 8, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 1.0
+                }
+            }, 
+            "num_mentions": 18, 
             "num_posts": 10, 
             "open_url": null, 
             "open_urls": {
@@ -5184,6 +5712,46 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Diversity Distrib.", 
+            "mendeley": {
+                "country_percent": {
+                    "Australia": 0.03, 
+                    "Brazil": 0.11, 
+                    "Chile": 0.03, 
+                    "China": 0.03, 
+                    "Czech Republic": 0.03, 
+                    "Egypt": 0.03, 
+                    "Finland": 0.08, 
+                    "France": 0.05, 
+                    "Germany": 0.03, 
+                    "Israel": 0.03, 
+                    "Italy": 0.03, 
+                    "Korea (South)": 0.03, 
+                    "Mexico": 0.05, 
+                    "Portugal": 0.03, 
+                    "Spain": 0.11, 
+                    "Switzerland": 0.05, 
+                    "United Kingdom": 0.05, 
+                    "United States": 0.22
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.21, 
+                    "Masters Student": 0.18, 
+                    "Other": 0.01, 
+                    "PhD Student": 0.35, 
+                    "Postdoc": 0.16, 
+                    "Researcher (non-academic)": 0.05, 
+                    "Undergrad Student": 0.03
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/uncertainty-priors-autocorrelation-disparate-data-downscaling-species-distributions", 
+                "readers": 135, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.58, 
+                    "Computer and Information Science": 0.02, 
+                    "Earth Sciences": 0.03, 
+                    "Environmental Sciences": 0.37
+                }
+            }, 
+            "num_mentions": 143, 
             "num_posts": 8, 
             "open_url": null, 
             "open_urls": {
@@ -5211,7 +5779,7 @@
                 }, 
                 {
                     "attribution": "Nick Golding", 
-                    "followers": 1086, 
+                    "followers": 1099, 
                     "posted_on": "2014-03-30T22:21:13+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5220,7 +5788,7 @@
                 }, 
                 {
                     "attribution": "Blas Benito", 
-                    "followers": 596, 
+                    "followers": 599, 
                     "posted_on": "2014-03-30T22:16:16+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5229,7 +5797,7 @@
                 }, 
                 {
                     "attribution": "Maxwell Joseph", 
-                    "followers": 418, 
+                    "followers": 420, 
                     "posted_on": "2014-03-30T22:09:13+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5238,7 +5806,7 @@
                 }, 
                 {
                     "attribution": "F Rodriguez-Sanchez", 
-                    "followers": 719, 
+                    "followers": 727, 
                     "posted_on": "2014-03-30T21:58:09+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5247,7 +5815,7 @@
                 }, 
                 {
                     "attribution": "Daniel Moya", 
-                    "followers": 157, 
+                    "followers": 182, 
                     "posted_on": "2014-03-30T17:07:42+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5256,7 +5824,7 @@
                 }, 
                 {
                     "attribution": "Eco-land lab", 
-                    "followers": 1473, 
+                    "followers": 1486, 
                     "posted_on": "2014-03-30T12:11:49+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5280,7 +5848,7 @@
             "_title": "Multivariate forecasts of potential distributions of invasive plant species", 
             "altmetric_id": "3342407", 
             "altmetric_score": 3.0, 
-            "authors": null, 
+            "authors": "Ib\u00e1\u00f1ez, Silander Jr., Wilson, Lafleur, Tanaka, Tsuyama", 
             "doi": "10.1890/07-2095.1", 
             "events_last_week_count": 0, 
             "genre": "article", 
@@ -5290,6 +5858,43 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Ecological Applications", 
+            "mendeley": {
+                "country_percent": {
+                    "Canada": 0.06, 
+                    "Chile": 0.03, 
+                    "Czech Republic": 0.03, 
+                    "Denmark": 0.03, 
+                    "Finland": 0.03, 
+                    "France": 0.03, 
+                    "Germany": 0.09, 
+                    "India": 0.03, 
+                    "Japan": 0.03, 
+                    "South Africa": 0.03, 
+                    "Spain": 0.15, 
+                    "Switzerland": 0.12, 
+                    "United Kingdom": 0.03, 
+                    "United States": 0.3
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.23, 
+                    "Masters Student": 0.06, 
+                    "Other": 0.01, 
+                    "PhD Student": 0.4, 
+                    "Postdoc": 0.2, 
+                    "Researcher (non-academic)": 0.06, 
+                    "Undergrad Student": 0.04
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/multivariate-forecasts-potential-distributions-invasive-plant-species", 
+                "readers": 115, 
+                "subdiscipline_percent": {
+                    "Arts and Literature": 0.01, 
+                    "Biological Sciences": 0.58, 
+                    "Earth Sciences": 0.05, 
+                    "Environmental Sciences": 0.35, 
+                    "Mathematics": 0.01
+                }
+            }, 
+            "num_mentions": 116, 
             "num_posts": 1, 
             "open_url": null, 
             "open_urls": {
@@ -5322,7 +5927,7 @@
             "_title": "Downscaling of species distribution models: A hierarchical approach", 
             "altmetric_id": "1096043", 
             "altmetric_score": 2.5, 
-            "authors": null, 
+            "authors": "Keil, Belmaker, Wilson, Unitt, Jetz", 
             "doi": "10.1111/j.2041-210x.2012.00264.x", 
             "events_last_week_count": 0, 
             "genre": "article", 
@@ -5332,6 +5937,51 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Methods in Ecology and Evolution", 
+            "mendeley": {
+                "country_percent": {
+                    "Argentina": 0.02, 
+                    "Belize": 0.02, 
+                    "Brazil": 0.15, 
+                    "China": 0.04, 
+                    "Colombia": 0.02, 
+                    "Czech Republic": 0.05, 
+                    "Denmark": 0.02, 
+                    "Egypt": 0.02, 
+                    "Finland": 0.04, 
+                    "France": 0.04, 
+                    "Greece": 0.02, 
+                    "Hungary": 0.02, 
+                    "India": 0.02, 
+                    "Italy": 0.04, 
+                    "Mexico": 0.02, 
+                    "Norway": 0.02, 
+                    "Portugal": 0.05, 
+                    "Russia": 0.02, 
+                    "Spain": 0.07, 
+                    "Switzerland": 0.09, 
+                    "United Kingdom": 0.15, 
+                    "United States": 0.09
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.17, 
+                    "Masters Student": 0.19, 
+                    "Other": 0.01, 
+                    "PhD Student": 0.38, 
+                    "Postdoc": 0.19, 
+                    "Researcher (non-academic)": 0.02, 
+                    "Undergrad Student": 0.03
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/downscaling-species-distribution-models-hierarchical-approach-6", 
+                "readers": 195, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.65, 
+                    "Earth Sciences": 0.01, 
+                    "Economics": 0.01, 
+                    "Environmental Sciences": 0.32, 
+                    "Mathematics": 0.01
+                }
+            }, 
+            "num_mentions": 201, 
             "num_posts": 6, 
             "open_url": null, 
             "open_urls": {
@@ -5348,7 +5998,7 @@
                 }, 
                 {
                     "attribution": "Eco-land lab", 
-                    "followers": 1477, 
+                    "followers": 1481, 
                     "posted_on": "2013-11-27T15:19:08+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5357,7 +6007,7 @@
                 }, 
                 {
                     "attribution": "Adrian Regos", 
-                    "followers": 264, 
+                    "followers": 262, 
                     "posted_on": "2013-11-27T15:06:06+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5375,7 +6025,7 @@
                 }, 
                 {
                     "attribution": "Greg McInerny", 
-                    "followers": 556, 
+                    "followers": 559, 
                     "posted_on": "2013-01-31T11:05:48+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5384,7 +6034,7 @@
                 }, 
                 {
                     "attribution": "MethodsEcolEvol", 
-                    "followers": 9190, 
+                    "followers": 9226, 
                     "posted_on": "2012-11-29T11:50:36+00:00", 
                     "source": "twitter", 
                     "title": "", 
@@ -5414,22 +6064,28 @@
             "_title": "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation", 
             "altmetric_id": "1474143", 
             "altmetric_score": 1.0, 
-            "authors": null, 
+            "authors": "Wilson, Latimer, Silander Jr., Gelfand, Klerk", 
             "doi": "10.1016/j.ecolmodel.2009.09.016", 
             "events_last_week_count": 0, 
             "genre": "article", 
-            "id": "tqnjlet5hi", 
+            "id": "EEYQwCCKjd", 
             "is_oa_journal": false, 
             "is_oa_repository": false, 
             "is_open": false, 
-            "is_open_new": true, 
+            "is_open_new": false, 
             "journal": "Ecological Modelling", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 1, 
             "num_posts": 1, 
-            "open_url": "http://hdl.handle.net/10019.1/14994", 
+            "open_url": null, 
             "open_urls": {
-                "urls": [
-                    "http://hdl.handle.net/10019.1/14994"
-                ]
+                "urls": []
             }, 
             "orcid_id": "0000-0003-3362-7806", 
             "posts": [
@@ -5456,7 +6112,7 @@
             "_title": "Air pollution, weather, and respiratory emergency room visits in two northern New England cities: An ecological time-series study", 
             "altmetric_id": "828555", 
             "altmetric_score": 0.25, 
-            "authors": null, 
+            "authors": "Wilson, Wake, Kelly, Salloway", 
             "doi": "10.1016/j.envres.2004.07.010", 
             "events_last_week_count": 0, 
             "genre": "article", 
@@ -5466,6 +6122,38 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Environmental Research", 
+            "mendeley": {
+                "country_percent": {
+                    "Canada": 0.25, 
+                    "India": 0.25, 
+                    "Ireland": 0.25, 
+                    "Spain": 0.25
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.3, 
+                    "Librarian": 0.03, 
+                    "Masters Student": 0.13, 
+                    "Other": 0.1, 
+                    "PhD Student": 0.23, 
+                    "Postdoc": 0.1, 
+                    "Researcher (non-academic)": 0.1
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/air-pollution-weather-respiratory-emergency-room-visits-two-northern-new-england-cities-ecological-t", 
+                "readers": 31, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.1, 
+                    "Computer and Information Science": 0.03, 
+                    "Earth Sciences": 0.07, 
+                    "Economics": 0.03, 
+                    "Engineering": 0.03, 
+                    "Environmental Sciences": 0.4, 
+                    "Humanities": 0.03, 
+                    "Mathematics": 0.1, 
+                    "Medicine": 0.17, 
+                    "Social Sciences": 0.03
+                }
+            }, 
+            "num_mentions": 32, 
             "num_posts": 1, 
             "open_url": null, 
             "open_urls": {
@@ -5507,6 +6195,21 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "International Journal of Climatology", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {
+                    "Faculty": 0.33, 
+                    "Other": 0.33, 
+                    "Researcher (non-academic)": 0.33
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/using-multitimescale-methods-satellitederived-land-surface-temperature-interpolation-daily-maximum-a", 
+                "readers": 5, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.67, 
+                    "Earth Sciences": 0.33
+                }
+            }, 
+            "num_mentions": 6, 
             "num_posts": 1, 
             "open_url": null, 
             "open_urls": {
@@ -5537,48 +6240,27 @@
             "year": "2015"
         }, 
         {
-            "_title": "Modeling large scale species abundance with latent spatial processes", 
-            "altmetric_id": "5777116", 
-            "altmetric_score": 0.0, 
-            "authors": null, 
-            "doi": "10.1214/10-aoas335", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "0p9u2a80s8", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": true, 
-            "journal": "Annals of Applied Statistics", 
-            "num_posts": 0, 
-            "open_url": "http://arxiv.org/abs/1011.3327", 
-            "open_urls": {
-                "urls": [
-                    "http://arxiv.org/abs/1011.3327", 
-                    "http://projecteuclid.org/euclid.aoas/1287409379"
-                ]
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "Modeling large scale species abundance with latent spatial processes", 
-            "url": "http://doi.org/10.1214/10-aoas335", 
-            "year": "2010"
-        }, 
-        {
-            "_title": "Spatial and interspecific variability in phenological responses to warming temperatures", 
+            "_title": "Point pattern modelling for degraded presence-only data over large regions", 
             "altmetric_id": null, 
             "altmetric_score": 0.0, 
-            "authors": null, 
-            "doi": "10.1016/j.biocon.2009.06.003", 
+            "authors": "Chakraborty, Gelfand, Wilson, Latimer, Silander", 
+            "doi": "10.1111/j.1467-9876.2011.01023.x", 
             "events_last_week_count": 0, 
             "genre": "article", 
-            "id": "3hr3coo3uo", 
+            "id": "K5hHbYDsa9", 
             "is_oa_journal": false, 
             "is_oa_repository": false, 
             "is_open": false, 
             "is_open_new": false, 
-            "journal": "Biological Conservation", 
+            "journal": "Journal of the Royal Statistical Society. Series C: Applied Statistics", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5587,9 +6269,9 @@
             "orcid_id": "0000-0003-3362-7806", 
             "posts": [], 
             "sources": [], 
-            "title": "Spatial and interspecific variability in phenological responses to warming temperatures", 
-            "url": "http://doi.org/10.1016/j.biocon.2009.06.003", 
-            "year": "2009"
+            "title": "Point pattern modelling for degraded presence-only data over large regions", 
+            "url": "http://doi.org/10.1111/j.1467-9876.2011.01023.x", 
+            "year": "2011"
         }, 
         {
             "_title": "Scaling up: linking field data and remote sensing with a hierarchical model", 
@@ -5599,12 +6281,20 @@
             "doi": "10.1080/13658816.2010.522779", 
             "events_last_week_count": 0, 
             "genre": "article", 
-            "id": "3spvrtx6gr", 
+            "id": "jZJzJR4R4Q", 
             "is_oa_journal": false, 
             "is_oa_repository": false, 
             "is_open": false, 
             "is_open_new": false, 
-            "journal": null, 
+            "journal": "International Journal of Geographical Information Science", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5618,32 +6308,204 @@
             "year": "2011"
         }, 
         {
-            "_title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum\u00a0Air Temperature", 
+            "_title": "Developing dynamic mechanistic species distribution models: Predicting bird-mediated spread of invasive plants across northeastern North America", 
             "altmetric_id": null, 
             "altmetric_score": 0.0, 
-            "authors": "Benoit Parmentier, Brian McGill, Adam Wilson, James Regetz, Walter Jetz, Robert Guralnick, Mao-Ning Tuanmu, Natalie Robinson, Mark Schildhauer", 
-            "doi": "10.3390/rs6098639", 
+            "authors": "Merow, Lafleur, Silander Jr., Wilson, Rubega", 
+            "doi": "10.1086/660295", 
             "events_last_week_count": 0, 
             "genre": "article", 
-            "id": "UF3rpDCXH3", 
-            "is_oa_journal": true, 
+            "id": "zs2P8FjajB", 
+            "is_oa_journal": false, 
             "is_oa_repository": false, 
-            "is_open": true, 
-            "is_open_new": true, 
-            "journal": "Remote Sensing", 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "American Naturalist", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
             "num_posts": 0, 
-            "open_url": "http://doi.org/10.3390/rs6098639", 
+            "open_url": null, 
             "open_urls": {
-                "urls": [
-                    "http://doi.org/10.3390/rs6098639"
-                ]
+                "urls": []
             }, 
             "orcid_id": "0000-0003-3362-7806", 
             "posts": [], 
             "sources": [], 
-            "title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum\u00a0Air Temperature", 
-            "url": "http://doi.org/10.3390/rs6098639", 
-            "year": "2014"
+            "title": "Developing dynamic mechanistic species distribution models: Predicting bird-mediated spread of invasive plants across northeastern North America", 
+            "url": "http://doi.org/10.1086/660295", 
+            "year": "2011"
+        }, 
+        {
+            "_title": "Modeling large scale species abundance with latent spatial processes", 
+            "altmetric_id": "5777116", 
+            "altmetric_score": 0.0, 
+            "authors": "Chakraborty, Gelfand, Wilson, Latimer, Silander Jr.", 
+            "doi": "10.1214/10-aoas335", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "MyQ42aHva8", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "Annals of Applied Statistics", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Modeling large scale species abundance with latent spatial processes", 
+            "url": "http://doi.org/10.1214/10-aoas335", 
+            "year": "2010"
+        }, 
+        {
+            "_title": "Spatial and interspecific variability in phenological responses to warming temperatures", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "Primack, Ib\u00e1\u00f1ez, Higuchi, Lee, Miller-Rushing, Wilson, Silander Jr.", 
+            "doi": "10.1016/j.biocon.2009.06.003", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "4L33GcjVKA", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "Biological Conservation", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Spatial and interspecific variability in phenological responses to warming temperatures", 
+            "url": "http://doi.org/10.1016/j.biocon.2009.06.003", 
+            "year": "2009"
+        }, 
+        {
+            "_title": "Identifying hotspots for plant invasions and forecasting focal points of further spread", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "Ib\u00e1\u00f1ez, Silander Jr., Allen, Treanor, Wilson", 
+            "doi": "10.1111/j.1365-2664.2009.01736.x", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "CXfoZuBpfU", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "Journal of Applied Ecology", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread", 
+            "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x", 
+            "year": "2009"
+        }, 
+        {
+            "_title": "Statistical downscaling and bias correction of climate model outputs for climate change impact assessment in the U.S. northeast", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "Ahmed, Wang, Silander, Wilson, Allen, Horton, Anyah", 
+            "doi": "10.1016/j.gloplacha.2012.11.003", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "F6AvD5VxiV", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "Global and Planetary Change", 
+            "mendeley": {
+                "country_percent": {
+                    "Belgium": 0.07, 
+                    "Brazil": 0.13, 
+                    "Canada": 0.13, 
+                    "Colombia": 0.07, 
+                    "France": 0.07, 
+                    "Iran": 0.07, 
+                    "Italy": 0.07, 
+                    "Malaysia": 0.07, 
+                    "Norway": 0.07, 
+                    "United Kingdom": 0.07, 
+                    "United States": 0.2
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.08, 
+                    "Librarian": 0.01, 
+                    "Masters Student": 0.19, 
+                    "Other": 0.03, 
+                    "PhD Student": 0.51, 
+                    "Postdoc": 0.1, 
+                    "Researcher (non-academic)": 0.06, 
+                    "Undergrad Student": 0.01
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north-2", 
+                "readers": 95, 
+                "subdiscipline_percent": {
+                    "Astronomy / Astrophysics / Space Science": 0.01, 
+                    "Biological Sciences": 0.06, 
+                    "Computer and Information Science": 0.03, 
+                    "Earth Sciences": 0.38, 
+                    "Economics": 0.01, 
+                    "Engineering": 0.26, 
+                    "Environmental Sciences": 0.21, 
+                    "Mathematics": 0.04
+                }
+            }, 
+            "num_mentions": 95, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Statistical downscaling and bias correction of climate model outputs for climate change impact assessment in the U.S. northeast", 
+            "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003", 
+            "year": "2013"
         }, 
         {
             "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast", 
@@ -5659,6 +6521,44 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Global and Planetary Change", 
+            "mendeley": {
+                "country_percent": {
+                    "Belgium": 0.07, 
+                    "Brazil": 0.13, 
+                    "Canada": 0.13, 
+                    "Colombia": 0.07, 
+                    "France": 0.07, 
+                    "Iran": 0.07, 
+                    "Italy": 0.07, 
+                    "Malaysia": 0.07, 
+                    "Norway": 0.07, 
+                    "United Kingdom": 0.07, 
+                    "United States": 0.2
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.08, 
+                    "Librarian": 0.01, 
+                    "Masters Student": 0.19, 
+                    "Other": 0.03, 
+                    "PhD Student": 0.51, 
+                    "Postdoc": 0.1, 
+                    "Researcher (non-academic)": 0.06, 
+                    "Undergrad Student": 0.01
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north-2", 
+                "readers": 95, 
+                "subdiscipline_percent": {
+                    "Astronomy / Astrophysics / Space Science": 0.01, 
+                    "Biological Sciences": 0.06, 
+                    "Computer and Information Science": 0.03, 
+                    "Earth Sciences": 0.38, 
+                    "Economics": 0.01, 
+                    "Engineering": 0.26, 
+                    "Environmental Sciences": 0.21, 
+                    "Mathematics": 0.04
+                }
+            }, 
+            "num_mentions": 95, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5672,47 +6572,36 @@
             "year": "2013"
         }, 
         {
-            "_title": "Identifying hotspots for plant invasions and forecasting focal points of further spread", 
+            "_title": "A new class of flexible link functions with application to species co-occurrence in cape floristic region", 
             "altmetric_id": null, 
             "altmetric_score": 0.0, 
-            "authors": null, 
-            "doi": "10.1111/j.1365-2664.2009.01736.x", 
+            "authors": "Xun Jiang, Dipak K. Dey, Rachel Prunier, Adam M. Wilson, Kent E. Holsinger", 
+            "doi": "10.1214/13-aoas663", 
             "events_last_week_count": 0, 
             "genre": "article", 
-            "id": "caer2xm67o", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": true, 
-            "journal": "Journal of Applied Ecology", 
-            "num_posts": 0, 
-            "open_url": "http://hdl.handle.net/2027.42/78698", 
-            "open_urls": {
-                "urls": [
-                    "http://hdl.handle.net/2027.42/78698"
-                ]
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread", 
-            "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x", 
-            "year": "2009"
-        }, 
-        {
-            "_title": "Developing dynamic mechanistic species distribution models: Predicting bird-mediated spread of invasive plants across northeastern North America", 
-            "altmetric_id": null, 
-            "altmetric_score": 0.0, 
-            "authors": null, 
-            "doi": "10.1086/660295", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "d3fwjceo3p", 
+            "id": "myHEztuDVa", 
             "is_oa_journal": false, 
             "is_oa_repository": false, 
             "is_open": false, 
             "is_open_new": false, 
-            "journal": "American Naturalist", 
+            "journal": "Ann. Appl. Stat.", 
+            "mendeley": {
+                "country_percent": {
+                    "United States": 1.0
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.14, 
+                    "Masters Student": 0.14, 
+                    "PhD Student": 0.71
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/new-class-flexible-link-functions-application-species-cooccurrence-cape-floristic-region", 
+                "readers": 8, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.86, 
+                    "Social Sciences": 0.14
+                }
+            }, 
+            "num_mentions": 8, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5721,9 +6610,212 @@
             "orcid_id": "0000-0003-3362-7806", 
             "posts": [], 
             "sources": [], 
-            "title": "Developing dynamic mechanistic species distribution models: Predicting bird-mediated spread of invasive plants across northeastern North America", 
-            "url": "http://doi.org/10.1086/660295", 
-            "year": "2011"
+            "title": "A new class of flexible link functions with application to species co-occurrence in cape floristic region", 
+            "url": "http://doi.org/10.1214/13-aoas663", 
+            "year": "2013"
+        }, 
+        {
+            "_title": "Are there spurious temperature trends in the United States Climate Division database?", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "Barry D. Keim, Adam M. Wilson, Cameron P. Wake, Thomas G. Huntington", 
+            "doi": "10.1029/2002gl016295", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "rjK4EUEGZ6", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "Geophys. Res. Lett.", 
+            "mendeley": {
+                "country_percent": {
+                    "Philippines": 0.25, 
+                    "United Kingdom": 0.25, 
+                    "United States": 0.5
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.15, 
+                    "Masters Student": 0.15, 
+                    "Other": 0.11, 
+                    "PhD Student": 0.37, 
+                    "Postdoc": 0.07, 
+                    "Researcher (non-academic)": 0.11, 
+                    "Undergrad Student": 0.04
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/spurious-temperature-trends-united-states-climate-division-database", 
+                "readers": 27, 
+                "subdiscipline_percent": {
+                    "Arts and Literature": 0.04, 
+                    "Biological Sciences": 0.22, 
+                    "Computer and Information Science": 0.04, 
+                    "Earth Sciences": 0.26, 
+                    "Education": 0.04, 
+                    "Environmental Sciences": 0.33, 
+                    "Management Science / Operations Research": 0.04, 
+                    "Medicine": 0.04
+                }
+            }, 
+            "num_mentions": 27, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Are there spurious temperature trends in the United States Climate Division database?", 
+            "url": "http://doi.org/10.1029/2002gl016295", 
+            "year": "2003"
+        }, 
+        {
+            "_title": "Air pollution and the demand for hospital services: A review", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "WILSON, AM", 
+            "doi": "10.1016/j.envint.2004.01.004", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "uxbhudoodc", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "ENVIRONMENT INTERNATIONAL", 
+            "mendeley": {
+                "country_percent": {
+                    "Canada": 1.0
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.14, 
+                    "Masters Student": 0.24, 
+                    "Other": 0.1, 
+                    "PhD Student": 0.38, 
+                    "Postdoc": 0.05, 
+                    "Undergrad Student": 0.1
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/air-pollution-demand-hospital-services-review-2", 
+                "readers": 23, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.05, 
+                    "Computer and Information Science": 0.05, 
+                    "Earth Sciences": 0.19, 
+                    "Education": 0.05, 
+                    "Engineering": 0.05, 
+                    "Environmental Sciences": 0.38, 
+                    "Mathematics": 0.05, 
+                    "Medicine": 0.19
+                }
+            }, 
+            "num_mentions": 23, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Air pollution and the demand for hospital services: A review", 
+            "url": "http://doi.org/10.1016/j.envint.2004.01.004", 
+            "year": "2004"
+        }, 
+        {
+            "_title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "De Klerk, Wilson, Steenkamp", 
+            "doi": "10.1071/wf11002", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "w96eeh585x", 
+            "is_oa_journal": false, 
+            "is_oa_repository": false, 
+            "is_open": false, 
+            "is_open_new": false, 
+            "journal": "International Journal of Wildland Fire", 
+            "mendeley": {
+                "country_percent": {
+                    "South Africa": 1.0
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.42, 
+                    "Masters Student": 0.17, 
+                    "PhD Student": 0.33, 
+                    "Postdoc": 0.08
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/evaluation-satellitederived-burned-area-products-fynbos-mediterranean-shrubland", 
+                "readers": 13, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.42, 
+                    "Computer and Information Science": 0.08, 
+                    "Earth Sciences": 0.08, 
+                    "Engineering": 0.08, 
+                    "Environmental Sciences": 0.33
+                }
+            }, 
+            "num_mentions": 13, 
+            "num_posts": 0, 
+            "open_url": null, 
+            "open_urls": {
+                "urls": []
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland", 
+            "url": "http://doi.org/10.1071/wf11002", 
+            "year": "2012"
+        }, 
+        {
+            "_title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum\u00a0Air Temperature", 
+            "altmetric_id": null, 
+            "altmetric_score": 0.0, 
+            "authors": "Benoit Parmentier, Brian McGill, Adam Wilson, James Regetz, Walter Jetz, Robert Guralnick, Mao-Ning Tuanmu, Natalie Robinson, Mark Schildhauer", 
+            "doi": "10.3390/rs6098639", 
+            "events_last_week_count": 0, 
+            "genre": "article", 
+            "id": "UF3rpDCXH3", 
+            "is_oa_journal": true, 
+            "is_oa_repository": false, 
+            "is_open": true, 
+            "is_open_new": true, 
+            "journal": "Remote Sensing", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {
+                    "Faculty": 0.38, 
+                    "Masters Student": 0.08, 
+                    "PhD Student": 0.38, 
+                    "Postdoc": 0.08, 
+                    "Undergrad Student": 0.08
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/assessment-methods-remotesensing-derived-covariates-regional-predictions-1-km-daily-maximum-air-temp", 
+                "readers": 15, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.31, 
+                    "Earth Sciences": 0.08, 
+                    "Engineering": 0.31, 
+                    "Environmental Sciences": 0.08, 
+                    "Physics": 0.08, 
+                    "Social Sciences": 0.15
+                }
+            }, 
+            "num_mentions": 15, 
+            "num_posts": 0, 
+            "open_url": "http://doi.org/None", 
+            "open_urls": {
+                "urls": [
+                    "http://doi.org/None"
+                ]
+            }, 
+            "orcid_id": "0000-0003-3362-7806", 
+            "posts": [], 
+            "sources": [], 
+            "title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum\u00a0Air Temperature", 
+            "url": "http://doi.org/10.3390/rs6098639", 
+            "year": "2014"
         }, 
         {
             "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products \u2014 A global overview", 
@@ -5739,6 +6831,30 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Remote Sensing of Environment", 
+            "mendeley": {
+                "country_percent": {
+                    "Germany": 0.75, 
+                    "United States": 0.25
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.17, 
+                    "Masters Student": 0.23, 
+                    "Other": 0.09, 
+                    "PhD Student": 0.4, 
+                    "Postdoc": 0.09, 
+                    "Undergrad Student": 0.03
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview", 
+                "readers": 38, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.14, 
+                    "Computer and Information Science": 0.03, 
+                    "Earth Sciences": 0.43, 
+                    "Engineering": 0.03, 
+                    "Environmental Sciences": 0.37
+                }
+            }, 
+            "num_mentions": 38, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5755,7 +6871,7 @@
             "_title": "Are there spurious precipitation trends in the United States Climate Division database?", 
             "altmetric_id": null, 
             "altmetric_score": 0.0, 
-            "authors": null, 
+            "authors": "Keim, Fischer, Wilson", 
             "doi": "10.1029/2004gl021985", 
             "events_last_week_count": 0, 
             "genre": "article", 
@@ -5765,6 +6881,23 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Geophysical Research Letters", 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {
+                    "Faculty": 0.2, 
+                    "PhD Student": 0.4, 
+                    "Postdoc": 0.2, 
+                    "Researcher (non-academic)": 0.2
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/spurious-precipitation-trends-united-states-climate-division-database", 
+                "readers": 6, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.4, 
+                    "Earth Sciences": 0.4, 
+                    "Environmental Sciences": 0.2
+                }
+            }, 
+            "num_mentions": 6, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5791,6 +6924,32 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Int. J. Climatol.", 
+            "mendeley": {
+                "country_percent": {
+                    "Brazil": 0.2, 
+                    "Spain": 0.2, 
+                    "United Kingdom": 0.2, 
+                    "United States": 0.4
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.09, 
+                    "Masters Student": 0.32, 
+                    "PhD Student": 0.45, 
+                    "Postdoc": 0.09, 
+                    "Researcher (non-academic)": 0.05
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/estimating-uncertainty-daily-weather-interpolations-bayesian-framework-developing-climate-surfaces", 
+                "readers": 28, 
+                "subdiscipline_percent": {
+                    "Astronomy / Astrophysics / Space Science": 0.05, 
+                    "Biological Sciences": 0.36, 
+                    "Computer and Information Science": 0.05, 
+                    "Earth Sciences": 0.18, 
+                    "Engineering": 0.09, 
+                    "Environmental Sciences": 0.27
+                }
+            }, 
+            "num_mentions": 28, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5801,35 +6960,6 @@
             "sources": [], 
             "title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces", 
             "url": "http://doi.org/10.1002/joc.3859", 
-            "year": "2013"
-        }, 
-        {
-            "_title": "A new class of flexible link functions with application to species co-occurrence in cape floristic region", 
-            "altmetric_id": null, 
-            "altmetric_score": 0.0, 
-            "authors": "Xun Jiang, Dipak K. Dey, Rachel Prunier, Adam M. Wilson, Kent E. Holsinger", 
-            "doi": "10.1214/13-aoas663", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "myHEztuDVa", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": true, 
-            "journal": "Ann. Appl. Stat.", 
-            "num_posts": 0, 
-            "open_url": "http://arxiv.org/abs/1401.1915", 
-            "open_urls": {
-                "urls": [
-                    "http://arxiv.org/abs/1401.1915", 
-                    "http://projecteuclid.org/euclid.aoas/1387823315"
-                ]
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "A new class of flexible link functions with application to species co-occurrence in cape floristic region", 
-            "url": "http://doi.org/10.1214/13-aoas663", 
             "year": "2013"
         }, 
         {
@@ -5846,11 +6976,19 @@
             "is_open": true, 
             "is_open_new": true, 
             "journal": null, 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
             "num_posts": 0, 
-            "open_url": "http://doi.org/10.6084/m9.figshare.951959", 
+            "open_url": "http://doi.org/None", 
             "open_urls": {
                 "urls": [
-                    "http://doi.org/10.6084/m9.figshare.951959"
+                    "http://doi.org/None"
                 ]
             }, 
             "orcid_id": "0000-0003-3362-7806", 
@@ -5874,6 +7012,24 @@
             "is_open": false, 
             "is_open_new": false, 
             "journal": "Landscape Ecol", 
+            "mendeley": {
+                "country_percent": {
+                    "United States": 1.0
+                }, 
+                "job_title_percent": {
+                    "Faculty": 0.33, 
+                    "Masters Student": 0.33, 
+                    "Postdoc": 0.17, 
+                    "Researcher (non-academic)": 0.17
+                }, 
+                "mendeley_url": "http://www.mendeley.com/research/greenup-deciduous-forest-communities-northeastern-north-america-response-climate-variation-climate-c-1", 
+                "readers": 6, 
+                "subdiscipline_percent": {
+                    "Biological Sciences": 0.67, 
+                    "Environmental Sciences": 0.33
+                }
+            }, 
+            "num_mentions": 6, 
             "num_posts": 0, 
             "open_url": null, 
             "open_urls": {
@@ -5885,61 +7041,6 @@
             "title": "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change", 
             "url": "http://doi.org/10.1007/s10980-014-0099-7", 
             "year": "2014"
-        }, 
-        {
-            "_title": "Are there spurious temperature trends in the United States Climate Division database?", 
-            "altmetric_id": null, 
-            "altmetric_score": 0.0, 
-            "authors": "Barry D. Keim, Adam M. Wilson, Cameron P. Wake, Thomas G. Huntington", 
-            "doi": "10.1029/2002gl016295", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "rjK4EUEGZ6", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": true, 
-            "journal": "Geophys. Res. Lett.", 
-            "num_posts": 0, 
-            "open_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.537.211", 
-            "open_urls": {
-                "urls": [
-                    "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.537.211", 
-                    "http://www.ccrc.sr.unh.edu/~cpw/papers/Keim_GRL2003.pdf"
-                ]
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "Are there spurious temperature trends in the United States Climate Division database?", 
-            "url": "http://doi.org/10.1029/2002gl016295", 
-            "year": "2003"
-        }, 
-        {
-            "_title": "Air pollution and the demand for hospital services: A review", 
-            "altmetric_id": null, 
-            "altmetric_score": 0.0, 
-            "authors": "WILSON, AM", 
-            "doi": "10.1016/j.envint.2004.01.004", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "uxbhudoodc", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": false, 
-            "journal": null, 
-            "num_posts": 0, 
-            "open_url": null, 
-            "open_urls": {
-                "urls": []
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "Air pollution and the demand for hospital services: A review", 
-            "url": "http://doi.org/10.1016/j.envint.2004.01.004", 
-            "year": "2004"
         }, 
         {
             "_title": "From imperfection to inference: issues of scale and uncertainty in global change biology", 
@@ -5955,11 +7056,19 @@
             "is_open": true, 
             "is_open_new": true, 
             "journal": null, 
+            "mendeley": {
+                "country_percent": {}, 
+                "job_title_percent": {}, 
+                "mendeley_url": null, 
+                "readers": 0, 
+                "subdiscipline_percent": {}
+            }, 
+            "num_mentions": 0, 
             "num_posts": 0, 
-            "open_url": "http://doi.org/10.6084/m9.figshare.947682", 
+            "open_url": "http://doi.org/None", 
             "open_urls": {
                 "urls": [
-                    "http://doi.org/10.6084/m9.figshare.947682"
+                    "http://doi.org/None"
                 ]
             }, 
             "orcid_id": "0000-0003-3362-7806", 
@@ -5968,86 +7077,44 @@
             "title": "From imperfection to inference: issues of scale and uncertainty in global change biology", 
             "url": "http://doi.org/10.6084/m9.figshare.947682", 
             "year": "2014"
-        }, 
-        {
-            "_title": "Point pattern modelling for degraded presence-only data over large regions", 
-            "altmetric_id": null, 
-            "altmetric_score": 0.0, 
-            "authors": null, 
-            "doi": "10.1111/j.1467-9876.2011.01023.x", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "msrpsvpopc", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": false, 
-            "journal": "Journal of the Royal Statistical Society. Series C: Applied Statistics", 
-            "num_posts": 0, 
-            "open_url": null, 
-            "open_urls": {
-                "urls": []
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "Point pattern modelling for degraded presence-only data over large regions", 
-            "url": "http://doi.org/10.1111/j.1467-9876.2011.01023.x", 
-            "year": "2011"
-        }, 
-        {
-            "_title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland", 
-            "altmetric_id": null, 
-            "altmetric_score": 0.0, 
-            "authors": null, 
-            "doi": "10.1071/wf11002", 
-            "events_last_week_count": 0, 
-            "genre": "article", 
-            "id": "w96eeh585x", 
-            "is_oa_journal": false, 
-            "is_oa_repository": false, 
-            "is_open": false, 
-            "is_open_new": true, 
-            "journal": "International Journal of Wildland Fire", 
-            "num_posts": 0, 
-            "open_url": "http://hdl.handle.net/10019.1/20490", 
-            "open_urls": {
-                "urls": [
-                    "http://hdl.handle.net/10019.1/20490"
-                ]
-            }, 
-            "orcid_id": "0000-0003-3362-7806", 
-            "posts": [], 
-            "sources": [], 
-            "title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland", 
-            "url": "http://doi.org/10.1071/wf11002", 
-            "year": "2012"
         }
     ], 
     "sources": [
         {
-            "display_name": "Wikipedia articles", 
-            "events_last_week_count": 0, 
-            "posts_count": 1, 
-            "source_name": "wikipedia"
-        }, 
-        {
-            "display_name": "Blog posts", 
-            "events_last_week_count": 2, 
-            "posts_count": 18, 
-            "source_name": "blogs"
-        }, 
-        {
-            "display_name": "Tweets", 
-            "events_last_week_count": 9, 
-            "posts_count": 427, 
-            "source_name": "twitter"
+            "display_name": "News mentions", 
+            "events_last_week_count": 3, 
+            "posts_count": 56, 
+            "source_name": "news"
         }, 
         {
             "display_name": "F1000 reviews", 
             "events_last_week_count": 0, 
             "posts_count": 1, 
             "source_name": "f1000"
+        }, 
+        {
+            "display_name": "Blog posts", 
+            "events_last_week_count": 0, 
+            "posts_count": 18, 
+            "source_name": "blogs"
+        }, 
+        {
+            "display_name": "Tweets", 
+            "events_last_week_count": 2, 
+            "posts_count": 435, 
+            "source_name": "twitter"
+        }, 
+        {
+            "display_name": "Facebook pages", 
+            "events_last_week_count": 0, 
+            "posts_count": 17, 
+            "source_name": "facebook"
+        }, 
+        {
+            "display_name": "Wikipedia articles", 
+            "events_last_week_count": 0, 
+            "posts_count": 1, 
+            "source_name": "wikipedia"
         }, 
         {
             "display_name": "Reddit posts", 
@@ -6060,48 +7127,26 @@
             "events_last_week_count": 0, 
             "posts_count": 10, 
             "source_name": "googleplus"
-        }, 
-        {
-            "display_name": "News mentions", 
-            "events_last_week_count": 5, 
-            "posts_count": 53, 
-            "source_name": "news"
-        }, 
-        {
-            "display_name": "Facebook pages", 
-            "events_last_week_count": 0, 
-            "posts_count": 17, 
-            "source_name": "facebook"
         }
     ], 
     "subscores": [
         {
-            "display_name": "fun", 
-            "name": "fun", 
-            "weight": 0.1
-        }, 
-        {
             "display_name": "buzz", 
-            "name": "buzz", 
-            "perc": 0.976378936843859, 
-            "score": 532.0, 
-            "weight": 1
+            "name": "buzz"
         }, 
         {
             "display_name": "engagement", 
-            "name": "engagement", 
-            "perc": 0.810142087212151, 
-            "score": 2.47455240923682, 
-            "weight": 1
+            "name": "engagement"
         }, 
         {
             "display_name": "openness", 
-            "name": "openness", 
-            "perc": 0.771854120267261, 
-            "score": 0.214285714285714, 
-            "weight": 0.1
+            "name": "openness"
+        }, 
+        {
+            "display_name": "fun", 
+            "name": "fun"
         }
     ], 
     "twitter": "AdamWilsonLab", 
-    "updated": "2016-05-06 05:26:59.539403+00:00"
+    "updated": "2016-05-17 06:56:34.414336+00:00"
 }
