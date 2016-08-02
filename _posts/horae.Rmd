@@ -1,0 +1,43 @@
+---
+title: "Horae Overview"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Summary
+`Horae` is a computer server maintained for the Wilson Lab by the [Center for Computational Research](https://www.buffalo.edu/ccr.html).
+
+# Infrastucture
+
+## Drives
+
+* `/data` 3.3 TB hard Drive
+    * Local project storage.  This will be the primary drive for shared projects.
+* `/ssd_data` 300GB SSD hard drive
+    * raster temp files
+    * Other files for fast access
+* `/projects/academic/adamw/`  
+    * 10TB Network Storage accessible from all CCR machines (RUSH computer cluster)
+
+### Backup
+  All files backed up twice per day.  
+
+## Setup
+I'm keeping a single file that loads modules (software) and sets a few relevant directories in ` /projects/academic/adamw/.setup`.  So you will want to run when you log in.  This can be automatic if you add it to your `bash_profile` by running:
+`echo "source /projects/academic/adamw/.setup" >> ~/.bash_profile`.  
+
+# R
+
+## R libraries
+ The CCR-wide R packages are in `/util/academic/R/R-3.2.0/lib64/R/library`.  The lab R library directory is `/projects/academic/adamw/R/library`.  Run `cp /user/adamw/.Renviron ~/` in a terminal  (or `system("cp /user/adamw/.Renviron ~/")` in R) to copy this file to your home directory so R will find the appropriate libraries automatically the next time you start R.  Please install new packages in that directory (which should happen automatically after you copy the `.Renviron` file).
+
+## RStudio access
+ 
+1.  Log into the Cisco Anyconnect VPN
+    * Keep in mind that when you are logged into the cisco vpn, EVERYTHING you do on the network goes through your account on the Buffalo vpn.  So your IP will appear to be on the Buffalo campus and all web traffic will go through their servers.  You'll be able to get journal articles that Buffalo subscribes to, but you should disconnect when doing anything personal.  You are obliged to follow the [Network Acceptable Use Policy](https://www.buffalo.edu/content/dam/www/ubit/it-policies/Computing%20and%20Network%20Use%20Policy.pdf).
+2. Browse to the link provided by Dr. Wilson
+
+### RStudio troubleshooting
+If you cannot connect to RStudio as described above, you may want to try removing the files associated with RStudio's suspended state.  This can be donw with `rm -rf  ~/.rstudio/suspended-session/`.  Then refesh the webpage.
