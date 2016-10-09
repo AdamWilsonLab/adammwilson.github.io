@@ -2375,6 +2375,36 @@
             ],
             "sources": [
                 {
+                    "display_name": "Reddit posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 4,
+                    "source_name": "reddit"
+                },
+                {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 4,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 83,
+                    "source_name": "mendeley"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 38,
+                    "source_name": "news"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 6,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "Tweets",
                     "events_last_week_count": 0,
                     "posts_count": 169,
@@ -2385,36 +2415,6 @@
                     "events_last_week_count": 0,
                     "posts_count": 2,
                     "source_name": "facebook"
-                },
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 83,
-                    "source_name": "mendeley"
-                },
-                {
-                    "display_name": "Google+ posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 4,
-                    "source_name": "googleplus"
-                },
-                {
-                    "display_name": "Reddit posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 4,
-                    "source_name": "reddit"
-                },
-                {
-                    "display_name": "Blog posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 6,
-                    "source_name": "blogs"
-                },
-                {
-                    "display_name": "News mentions",
-                    "events_last_week_count": 0,
-                    "posts_count": 38,
-                    "source_name": "news"
                 }
             ],
             "title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
@@ -4479,6 +4479,36 @@
             ],
             "sources": [
                 {
+                    "display_name": "Reddit posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "reddit"
+                },
+                {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 21,
+                    "source_name": "mendeley"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 15,
+                    "source_name": "news"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 11,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "Tweets",
                     "events_last_week_count": 0,
                     "posts_count": 195,
@@ -4489,36 +4519,6 @@
                     "events_last_week_count": 0,
                     "posts_count": 6,
                     "source_name": "facebook"
-                },
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 21,
-                    "source_name": "mendeley"
-                },
-                {
-                    "display_name": "Google+ posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 3,
-                    "source_name": "googleplus"
-                },
-                {
-                    "display_name": "Reddit posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "reddit"
-                },
-                {
-                    "display_name": "Blog posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 11,
-                    "source_name": "blogs"
-                },
-                {
-                    "display_name": "News mentions",
-                    "events_last_week_count": 0,
-                    "posts_count": 15,
-                    "source_name": "news"
                 }
             ],
             "title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
@@ -4742,6 +4742,30 @@
             ],
             "sources": [
                 {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 22,
+                    "source_name": "mendeley"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "news"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "Tweets",
                     "events_last_week_count": 0,
                     "posts_count": 13,
@@ -4752,30 +4776,6 @@
                     "events_last_week_count": 0,
                     "posts_count": 3,
                     "source_name": "facebook"
-                },
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 22,
-                    "source_name": "mendeley"
-                },
-                {
-                    "display_name": "Google+ posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "googleplus"
-                },
-                {
-                    "display_name": "Blog posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "blogs"
-                },
-                {
-                    "display_name": "News mentions",
-                    "events_last_week_count": 0,
-                    "posts_count": 3,
-                    "source_name": "news"
                 }
             ],
             "title": "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa",
@@ -4887,16 +4887,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 5,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Google+ posts",
                     "events_last_week_count": 0,
                     "posts_count": 2,
                     "source_name": "googleplus"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "news"
                 },
                 {
                     "display_name": "Blog posts",
@@ -4905,10 +4905,10 @@
                     "source_name": "blogs"
                 },
                 {
-                    "display_name": "News mentions",
+                    "display_name": "Tweets",
                     "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "news"
+                    "posts_count": 5,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Wikipedia Content Volatility",
@@ -5007,18 +5007,6 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 3,
-                    "source_name": "twitter"
-                },
-                {
-                    "display_name": "Facebook pages",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "facebook"
-                },
-                {
                     "display_name": "Mendeley saves",
                     "events_last_week_count": 0,
                     "posts_count": 50,
@@ -5029,6 +5017,18 @@
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "blogs"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Facebook pages",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "facebook"
                 }
             ],
             "title": "Modeling daily flowering probabilities: expected impact of climate change on Japanese cherry phenology",
@@ -5166,6 +5166,12 @@
             ],
             "sources": [
                 {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 11,
+                    "source_name": "mendeley"
+                },
+                {
                     "display_name": "Tweets",
                     "events_last_week_count": 0,
                     "posts_count": 9,
@@ -5176,12 +5182,6 @@
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "facebook"
-                },
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 11,
-                    "source_name": "mendeley"
                 }
             ],
             "title": "Climatic Influences on Survival of Migratory African Reed Warblers Acrocephalus baeticatus in South Africa",
@@ -5255,16 +5255,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 127,
-                    "source_name": "mendeley"
-                },
-                {
                     "display_name": "Wikipedia articles",
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "wikipedia"
+                },
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 127,
+                    "source_name": "mendeley"
                 }
             ],
             "title": "Multivariate forecasts of potential distributions of invasive plant species",
@@ -5384,6 +5384,12 @@
             ],
             "sources": [
                 {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 194,
+                    "source_name": "mendeley"
+                },
+                {
                     "display_name": "Tweets",
                     "events_last_week_count": 0,
                     "posts_count": 4,
@@ -5394,12 +5400,6 @@
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "facebook"
-                },
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 194,
-                    "source_name": "mendeley"
                 }
             ],
             "title": "Downscaling of species distribution models: A hierarchical approach",
@@ -5472,16 +5472,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Mendeley saves",
                     "events_last_week_count": 0,
                     "posts_count": 103,
                     "source_name": "mendeley"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "twitter"
                 }
             ],
             "title": "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data",
@@ -5624,16 +5624,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Facebook pages",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "facebook"
-                },
-                {
                     "display_name": "Mendeley saves",
                     "events_last_week_count": 0,
                     "posts_count": 33,
                     "source_name": "mendeley"
+                },
+                {
+                    "display_name": "Facebook pages",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "facebook"
                 }
             ],
             "title": "Air pollution, weather, and respiratory emergency room visits in two northern New England cities: An ecological time-series study",
@@ -5641,246 +5641,6 @@
             "year": "2005",
             "citations": 86,
             "citationlink": "11539854097788409446"
-        },
-        {
-            "_title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
-            "altmetric_score": 0,
-            "authors": "Adam M. Wilson, John A. Silander",
-            "doi": "10.1002/joc.3859",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://doi.org/10.1002/joc.3859",
-            "genre": "article",
-            "has_fulltext_url": true,
-            "id": "j6rwMJQ9cR",
-            "is_open": true,
-            "journal": "Int. J. Climatol.",
-            "license": "unknown",
-            "mendeley": {
-                "country_percent": {
-                    "Brazil": 0.2,
-                    "Spain": 0.2,
-                    "United Kingdom": 0.2,
-                    "United States": 0.4
-                },
-                "job_title_percent": {
-                    "Faculty": 0.03,
-                    "Masters Student": 0.35,
-                    "PhD Student": 0.42,
-                    "Researcher": 0.19
-                },
-                "mendeley_url": "http://www.mendeley.com/research/estimating-uncertainty-daily-weather-interpolations-bayesian-framework-developing-climate-surfaces",
-                "readers": 31,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.29,
-                    "Computer Science": 0.06,
-                    "Earth and Planetary Sciences": 0.13,
-                    "Environmental Science": 0.32,
-                    "Engineering": 0.13,
-                    "Mathematics": 0.03,
-                    "Physics and Astronomy": 0.03
-                }
-            },
-            "num_mentions": 31,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 31,
-                    "source_name": "mendeley"
-                }
-            ],
-            "title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
-            "url": "http://doi.org/10.1002/joc.3859",
-            "year": "2013",
-            "citations": 13,
-            "citationlink": "7850685944087463273"
-        },
-        {
-            "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-            "altmetric_score": 0,
-            "doi": "10.1016/j.gloplacha.2012.11.003",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
-            "genre": "article",
-            "has_fulltext_url": true,
-            "id": "bsbgeb0ycg",
-            "is_open": true,
-            "journal": "Global and Planetary Change",
-            "license": "unknown",
-            "mendeley": {
-                "country_percent": {
-                    "Belgium": 0.05,
-                    "Brazil": 0.11,
-                    "Colombia": 0.05,
-                    "France": 0.05,
-                    "Italy": 0.05,
-                    "United Kingdom": 0.05,
-                    "United States": 0.21,
-                    "Canada": 0.26,
-                    "Norway": 0.05,
-                    "Iran": 0.05,
-                    "Malaysia": 0.05
-                },
-                "job_title_percent": {
-                    "Faculty": 0.04,
-                    "Librarian": 0.01,
-                    "Masters Student": 0.17,
-                    "Other": 0.04,
-                    "PhD Student": 0.46,
-                    "Researcher": 0.27,
-                    "Undergrad Student": 0.01
-                },
-                "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north",
-                "readers": 98,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.05,
-                    "Computer Science": 0.02,
-                    "Earth and Planetary Sciences": 0.38,
-                    "Economics, Econometrics and Finance": 0.01,
-                    "Environmental Science": 0.22,
-                    "Engineering": 0.28,
-                    "Mathematics": 0.03,
-                    "Physics and Astronomy": 0.01
-                }
-            },
-            "num_mentions": 98,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 98,
-                    "source_name": "mendeley"
-                }
-            ],
-            "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-            "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
-            "year": "2013"
-        },
-        {
-            "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
-            "altmetric_score": 0,
-            "authors": "Adam M. Wilson, Benoit Parmentier, Walter Jetz",
-            "doi": "10.1016/j.rse.2013.10.025",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://doi.org/10.1016/j.rse.2013.10.025",
-            "genre": "article",
-            "has_fulltext_url": true,
-            "id": "ig9nzcxgio",
-            "is_open": true,
-            "journal": "Remote Sensing of Environment",
-            "license": "unknown",
-            "mendeley": {
-                "country_percent": {
-                    "Germany": 0.6,
-                    "United States": 0.2,
-                    "Vietnam": 0.2
-                },
-                "job_title_percent": {
-                    "Faculty": 0.07,
-                    "Masters Student": 0.2,
-                    "Other": 0.07,
-                    "PhD Student": 0.33,
-                    "Researcher": 0.3,
-                    "Undergrad Student": 0.03
-                },
-                "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview",
-                "readers": 40,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.13,
-                    "Computer Science": 0.03,
-                    "Earth and Planetary Sciences": 0.42,
-                    "Environmental Science": 0.38,
-                    "Engineering": 0.05
-                }
-            },
-            "num_mentions": 40,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 40,
-                    "source_name": "mendeley"
-                }
-            ],
-            "title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
-            "url": "http://doi.org/10.1016/j.rse.2013.10.025",
-            "year": "2014",
-            "citations": 19,
-            "citationlink": "13563037565281892751"
-        },
-        {
-            "_title": "Air pollution and the demand for hospital services: A review",
-            "altmetric_score": 0,
-            "authors": "WILSON, AM",
-            "doi": "10.1016/j.envint.2004.01.004",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://dx.doi.org/10.1016/j.envint.2004.01.004",
-            "genre": "article",
-            "has_fulltext_url": true,
-            "id": "uxbhudoodc",
-            "is_open": true,
-            "journal": "ENVIRONMENT INTERNATIONAL",
-            "license": "unknown",
-            "mendeley": {
-                "country_percent": {
-                    "Canada": 1
-                },
-                "job_title_percent": {
-                    "Faculty": 0.04,
-                    "Masters Student": 0.35,
-                    "Other": 0.08,
-                    "PhD Student": 0.27,
-                    "Researcher": 0.19,
-                    "Undergrad Student": 0.08
-                },
-                "mendeley_url": "http://www.mendeley.com/research/air-pollution-demand-hospital-services-review-1",
-                "readers": 26,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.04,
-                    "Business, Management and Accounting": 0.04,
-                    "Computer Science": 0.04,
-                    "Earth and Planetary Sciences": 0.12,
-                    "Environmental Science": 0.54,
-                    "Engineering": 0.04,
-                    "Social Sciences": 0.04,
-                    "Mathematics": 0.04,
-                    "Medicine and Dentistry": 0.12
-                }
-            },
-            "num_mentions": 26,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-                {
-                    "display_name": "Mendeley saves",
-                    "events_last_week_count": 0,
-                    "posts_count": 26,
-                    "source_name": "mendeley"
-                }
-            ],
-            "title": "Air pollution and the demand for hospital services: A review",
-            "url": "http://doi.org/10.1016/j.envint.2004.01.004",
-            "year": "2004",
-            "citations": 58,
-            "citationlink": "13627242760666690959"
         },
         {
             "_title": "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
@@ -6954,26 +6714,254 @@
             "year": "2014",
             "citations": 4,
             "citationlink": "17962076558487628612"
+        },
+        {
+            "_title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
+            "altmetric_score": 0,
+            "authors": "Adam M. Wilson, John A. Silander",
+            "doi": "10.1002/joc.3859",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://doi.org/10.1002/joc.3859",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "j6rwMJQ9cR",
+            "is_open": true,
+            "journal": "Int. J. Climatol.",
+            "license": "unknown",
+            "mendeley": {
+                "country_percent": {
+                    "Brazil": 0.2,
+                    "Spain": 0.2,
+                    "United Kingdom": 0.2,
+                    "United States": 0.4
+                },
+                "job_title_percent": {
+                    "Faculty": 0.03,
+                    "Masters Student": 0.35,
+                    "PhD Student": 0.42,
+                    "Researcher": 0.19
+                },
+                "mendeley_url": "http://www.mendeley.com/research/estimating-uncertainty-daily-weather-interpolations-bayesian-framework-developing-climate-surfaces",
+                "readers": 31,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.29,
+                    "Computer Science": 0.06,
+                    "Earth and Planetary Sciences": 0.13,
+                    "Environmental Science": 0.32,
+                    "Engineering": 0.13,
+                    "Mathematics": 0.03,
+                    "Physics and Astronomy": 0.03
+                }
+            },
+            "num_mentions": 31,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 31,
+                    "source_name": "mendeley"
+                }
+            ],
+            "title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
+            "url": "http://doi.org/10.1002/joc.3859",
+            "year": "2013",
+            "citations": 13,
+            "citationlink": "7850685944087463273"
+        },
+        {
+            "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+            "altmetric_score": 0,
+            "doi": "10.1016/j.gloplacha.2012.11.003",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "bsbgeb0ycg",
+            "is_open": true,
+            "journal": "Global and Planetary Change",
+            "license": "unknown",
+            "mendeley": {
+                "country_percent": {
+                    "Belgium": 0.05,
+                    "Brazil": 0.11,
+                    "Colombia": 0.05,
+                    "France": 0.05,
+                    "Italy": 0.05,
+                    "United Kingdom": 0.05,
+                    "United States": 0.21,
+                    "Canada": 0.26,
+                    "Norway": 0.05,
+                    "Iran": 0.05,
+                    "Malaysia": 0.05
+                },
+                "job_title_percent": {
+                    "Faculty": 0.04,
+                    "Librarian": 0.01,
+                    "Masters Student": 0.17,
+                    "Other": 0.04,
+                    "PhD Student": 0.46,
+                    "Researcher": 0.27,
+                    "Undergrad Student": 0.01
+                },
+                "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north",
+                "readers": 98,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.05,
+                    "Computer Science": 0.02,
+                    "Earth and Planetary Sciences": 0.38,
+                    "Economics, Econometrics and Finance": 0.01,
+                    "Environmental Science": 0.22,
+                    "Engineering": 0.28,
+                    "Mathematics": 0.03,
+                    "Physics and Astronomy": 0.01
+                }
+            },
+            "num_mentions": 98,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 98,
+                    "source_name": "mendeley"
+                }
+            ],
+            "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+            "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
+            "year": "2013"
+        },
+        {
+            "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
+            "altmetric_score": 0,
+            "authors": "Adam M. Wilson, Benoit Parmentier, Walter Jetz",
+            "doi": "10.1016/j.rse.2013.10.025",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://doi.org/10.1016/j.rse.2013.10.025",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "ig9nzcxgio",
+            "is_open": true,
+            "journal": "Remote Sensing of Environment",
+            "license": "unknown",
+            "mendeley": {
+                "country_percent": {
+                    "Germany": 0.6,
+                    "United States": 0.2,
+                    "Vietnam": 0.2
+                },
+                "job_title_percent": {
+                    "Faculty": 0.07,
+                    "Masters Student": 0.2,
+                    "Other": 0.07,
+                    "PhD Student": 0.33,
+                    "Researcher": 0.3,
+                    "Undergrad Student": 0.03
+                },
+                "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview",
+                "readers": 40,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.13,
+                    "Computer Science": 0.03,
+                    "Earth and Planetary Sciences": 0.42,
+                    "Environmental Science": 0.38,
+                    "Engineering": 0.05
+                }
+            },
+            "num_mentions": 40,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 40,
+                    "source_name": "mendeley"
+                }
+            ],
+            "title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
+            "url": "http://doi.org/10.1016/j.rse.2013.10.025",
+            "year": "2014",
+            "citations": 19,
+            "citationlink": "13563037565281892751"
+        },
+        {
+            "_title": "Air pollution and the demand for hospital services: A review",
+            "altmetric_score": 0,
+            "authors": "WILSON, AM",
+            "doi": "10.1016/j.envint.2004.01.004",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://dx.doi.org/10.1016/j.envint.2004.01.004",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "uxbhudoodc",
+            "is_open": true,
+            "journal": "ENVIRONMENT INTERNATIONAL",
+            "license": "unknown",
+            "mendeley": {
+                "country_percent": {
+                    "Canada": 1
+                },
+                "job_title_percent": {
+                    "Faculty": 0.04,
+                    "Masters Student": 0.35,
+                    "Other": 0.08,
+                    "PhD Student": 0.27,
+                    "Researcher": 0.19,
+                    "Undergrad Student": 0.08
+                },
+                "mendeley_url": "http://www.mendeley.com/research/air-pollution-demand-hospital-services-review-1",
+                "readers": 26,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.04,
+                    "Business, Management and Accounting": 0.04,
+                    "Computer Science": 0.04,
+                    "Earth and Planetary Sciences": 0.12,
+                    "Environmental Science": 0.54,
+                    "Engineering": 0.04,
+                    "Social Sciences": 0.04,
+                    "Mathematics": 0.04,
+                    "Medicine and Dentistry": 0.12
+                }
+            },
+            "num_mentions": 26,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+                {
+                    "display_name": "Mendeley saves",
+                    "events_last_week_count": 0,
+                    "posts_count": 26,
+                    "source_name": "mendeley"
+                }
+            ],
+            "title": "Air pollution and the demand for hospital services: A review",
+            "url": "http://doi.org/10.1016/j.envint.2004.01.004",
+            "year": "2004",
+            "citations": 58,
+            "citationlink": "13627242760666690959"
         }
     ],
     "sources": [
         {
-            "display_name": "Tweets",
+            "display_name": "Reddit posts",
             "events_last_week_count": 0,
-            "posts_count": 399,
-            "source_name": "twitter"
-        },
-        {
-            "display_name": "Facebook pages",
-            "events_last_week_count": 0,
-            "posts_count": 15,
-            "source_name": "facebook"
-        },
-        {
-            "display_name": "Mendeley saves",
-            "events_last_week_count": 0,
-            "posts_count": 1676,
-            "source_name": "mendeley"
+            "posts_count": 5,
+            "source_name": "reddit"
         },
         {
             "display_name": "Google+ posts",
@@ -6988,16 +6976,16 @@
             "source_name": "wikipedia"
         },
         {
-            "display_name": "F1000 reviews",
+            "display_name": "Mendeley saves",
             "events_last_week_count": 0,
-            "posts_count": 1,
-            "source_name": "f1000"
+            "posts_count": 1676,
+            "source_name": "mendeley"
         },
         {
-            "display_name": "Reddit posts",
+            "display_name": "News mentions",
             "events_last_week_count": 0,
-            "posts_count": 5,
-            "source_name": "reddit"
+            "posts_count": 57,
+            "source_name": "news"
         },
         {
             "display_name": "Blog posts",
@@ -7006,10 +6994,22 @@
             "source_name": "blogs"
         },
         {
-            "display_name": "News mentions",
+            "display_name": "F1000 reviews",
             "events_last_week_count": 0,
-            "posts_count": 57,
-            "source_name": "news"
+            "posts_count": 1,
+            "source_name": "f1000"
+        },
+        {
+            "display_name": "Tweets",
+            "events_last_week_count": 0,
+            "posts_count": 399,
+            "source_name": "twitter"
+        },
+        {
+            "display_name": "Facebook pages",
+            "events_last_week_count": 0,
+            "posts_count": 15,
+            "source_name": "facebook"
         }
     ],
     "subscores": [
