@@ -120,9 +120,7 @@ socials:
             {% if products.num_posts > 0 %}
               Media Links:
               {% for p in products.posts  %}
-                {% if p.source == "news" %}
                   <a href="{{p.url}}" target="_blank"><font color="lightblue">{{p.attribution}}</font></a>,
-                {% endif %}
               {% endfor %}
 
             {% endif %}
