@@ -44,3 +44,4 @@ is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
 ## write the file
 write(is_out,
     file="_data/pubs.json")
+file.remove("_data/is.json")
