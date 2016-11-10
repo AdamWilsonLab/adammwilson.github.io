@@ -118,15 +118,15 @@ socials:
           {% if products.altmetric_score > 0.0 %}
               <a title="Altmetric Score" href="https://www.altmetric.com/details/{{products.altmetric_id}}" target="_blank"><img alt="Altmetric" src="images/altm.png" width="20px"><font color="darkred">{{products.altmetric_score | round: 1}}</font></a>;
               
-          {% if products.num_posts > 0 %}
+ {% if products.num_posts > 0 %}
               Media Links:
               {% for p in products.posts  %}
                 {% if p.source == "news" %}
+                {% if p.source == "news" %}
                   <a href="{{p.url}}" target="_blank"><font color="lightblue">{{p.attribution}}</font></a>,
                 {% endif %}
-              {% endfor %}
-         {% endif %}
-
+                {% endif %}
+        {% endif %}
       </li>
         {% endfor %}
       </ol>
