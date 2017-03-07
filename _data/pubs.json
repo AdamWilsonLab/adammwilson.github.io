@@ -2452,6 +2452,18 @@
             ],
             "sources": [
                 {
+                    "display_name": "Reddit posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 4,
+                    "source_name": "reddit"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 6,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "News mentions",
                     "events_last_week_count": 0,
                     "posts_count": 38,
@@ -2464,28 +2476,16 @@
                     "source_name": "googleplus"
                 },
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 6,
-                    "posts_count": 172,
-                    "source_name": "twitter"
-                },
-                {
-                    "display_name": "Reddit posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 4,
-                    "source_name": "reddit"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 2,
                     "source_name": "facebook"
                 },
                 {
-                    "display_name": "Blog posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 6,
-                    "source_name": "blogs"
+                    "display_name": "Tweets",
+                    "events_last_week_count": 6,
+                    "posts_count": 172,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
@@ -4516,6 +4516,18 @@
             ],
             "sources": [
                 {
+                    "display_name": "Reddit posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "reddit"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 11,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "News mentions",
                     "events_last_week_count": 0,
                     "posts_count": 15,
@@ -4528,28 +4540,16 @@
                     "source_name": "googleplus"
                 },
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 191,
-                    "source_name": "twitter"
-                },
-                {
-                    "display_name": "Reddit posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "reddit"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 6,
                     "source_name": "facebook"
                 },
                 {
-                    "display_name": "Blog posts",
+                    "display_name": "Tweets",
                     "events_last_week_count": 0,
-                    "posts_count": 11,
-                    "source_name": "blogs"
+                    "posts_count": 191,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
@@ -4779,6 +4779,12 @@
             ],
             "sources": [
                 {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "News mentions",
                     "events_last_week_count": 0,
                     "posts_count": 3,
@@ -4791,22 +4797,16 @@
                     "source_name": "googleplus"
                 },
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 14,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 3,
                     "source_name": "facebook"
                 },
                 {
-                    "display_name": "Blog posts",
+                    "display_name": "Tweets",
                     "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "blogs"
+                    "posts_count": 14,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa",
@@ -4917,6 +4917,12 @@
             ],
             "sources": [
                 {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "blogs"
+                },
+                {
                     "display_name": "News mentions",
                     "events_last_week_count": 0,
                     "posts_count": 1,
@@ -4933,12 +4939,6 @@
                     "events_last_week_count": 0,
                     "posts_count": 5,
                     "source_name": "twitter"
-                },
-                {
-                    "display_name": "Blog posts",
-                    "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "blogs"
                 }
             ],
             "title": "Wikipedia Content Volatility",
@@ -5062,10 +5062,10 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
+                    "display_name": "Blog posts",
                     "events_last_week_count": 0,
-                    "posts_count": 6,
-                    "source_name": "twitter"
+                    "posts_count": 1,
+                    "source_name": "blogs"
                 },
                 {
                     "display_name": "Facebook pages",
@@ -5074,10 +5074,10 @@
                     "source_name": "facebook"
                 },
                 {
-                    "display_name": "Blog posts",
+                    "display_name": "Tweets",
                     "events_last_week_count": 0,
-                    "posts_count": 1,
-                    "source_name": "blogs"
+                    "posts_count": 6,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Modeling daily flowering probabilities: expected impact of climate change on Japanese cherry phenology",
@@ -5283,16 +5283,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 16,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 2,
                     "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 16,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species",
@@ -5515,16 +5515,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 17,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 17,
+                    "source_name": "twitter"
                 }
             ],
             "title": "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data",
@@ -5659,16 +5659,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 9,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 9,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Climatic Influences on Survival of Migratory African Reed Warblers Acrocephalus baeticatus in South Africa",
@@ -6074,16 +6074,16 @@
             ],
             "sources": [
                 {
-                    "display_name": "Tweets",
-                    "events_last_week_count": 0,
-                    "posts_count": 5,
-                    "source_name": "twitter"
-                },
-                {
                     "display_name": "Facebook pages",
                     "events_last_week_count": 0,
                     "posts_count": 1,
                     "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 5,
+                    "source_name": "twitter"
                 }
             ],
             "title": "Downscaling of species distribution models: A hierarchical approach",
@@ -6283,6 +6283,292 @@
             "year": "2015",
             "citations": 7,
             "citationlink": "15702577810729029249"
+        },
+        {
+            "_title": "Spatial and interspecific variability in phenological responses to warming temperatures",
+            "altmetric_score": 0,
+            "authors": "Primack, RB",
+            "doi": "10.1016/j.biocon.2009.06.003",
+            "events_last_week_count": 0,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "h2Y72Mhv3N",
+            "journal": "Biological Conservation",
+            "mendeley": {
+                "country_percent": {
+                    "France": 0.05,
+                    "Germany": 0.09,
+                    "India": 0.05,
+                    "Japan": 0.05,
+                    "South Africa": 0.14,
+                    "Spain": 0.05,
+                    "United Kingdom": 0.14,
+                    "United States": 0.27,
+                    "Austria": 0.05,
+                    "Canada": 0.05,
+                    "Finland": 0.05,
+                    "Portugal": 0.05
+                },
+                "job_title_percent": {
+                    "Faculty": 0.11,
+                    "Librarian": 0.01,
+                    "Masters Student": 0.15,
+                    "Other": 0.04,
+                    "PhD Student": 0.36,
+                    "Researcher": 0.27,
+                    "Undergrad Student": 0.06
+                },
+                "mendeley_url": "http://www.mendeley.com/research/spatial-interspecific-variability-phenological-responses-warming-temperatures",
+                "readers": 168,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.62,
+                    "Chemistry": 0.01,
+                    "Earth and Planetary Sciences": 0.07,
+                    "Engineering": 0.01,
+                    "Environmental Science": 0.29,
+                    "Social Sciences": 0.01,
+                    "Biochemistry, Genetics and Molecular Biology": 0.01
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+
+            ],
+            "title": "Spatial and interspecific variability in phenological responses to warming temperatures",
+            "url": "http://doi.org/10.1016/j.biocon.2009.06.003",
+            "year": "2009",
+            "citations": 137,
+            "citationlink": "62062424245765126"
+        },
+        {
+            "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+            "altmetric_score": 0,
+            "doi": "10.1016/j.gloplacha.2012.11.003",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://hdl.handle.net/2060/20140010385",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "bsbgeb0ycg",
+            "journal": "Global and Planetary Change",
+            "mendeley": {
+                "country_percent": {
+                    "Belgium": 0.05,
+                    "Brazil": 0.11,
+                    "Colombia": 0.05,
+                    "France": 0.05,
+                    "Italy": 0.05,
+                    "United Kingdom": 0.05,
+                    "United States": 0.21,
+                    "Canada": 0.26,
+                    "Norway": 0.05,
+                    "Iran": 0.05,
+                    "Malaysia": 0.05
+                },
+                "job_title_percent": {
+                    "Faculty": 0.04,
+                    "Librarian": 0.01,
+                    "Masters Student": 0.17,
+                    "Other": 0.06,
+                    "PhD Student": 0.45,
+                    "Researcher": 0.28,
+                    "Undergrad Student": 0.01
+                },
+                "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north-1",
+                "readers": 127,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.07,
+                    "Computer Science": 0.02,
+                    "Earth and Planetary Sciences": 0.37,
+                    "Economics, Econometrics and Finance": 0.01,
+                    "Engineering": 0.23,
+                    "Environmental Science": 0.28,
+                    "Mathematics": 0.02,
+                    "Physics and Astronomy": 0.01
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+
+            ],
+            "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+            "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
+            "year": "2013"
+        },
+        {
+            "_title": "An Introduction to R for Spatial Analysis and Mapping, by ChrisBrunsdon and LexComber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
+            "altmetric_score": 0,
+            "authors": "Jared Aldstadt, Adam M. Wilson",
+            "doi": "10.1111/jors.12271",
+            "events_last_week_count": 0,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "hZbw6cX6CZ",
+            "journal": "Journal of Regional Science",
+            "mendeley": {
+                "country_percent": {
+
+                },
+                "job_title_percent": {
+
+                },
+                "readers": 0,
+                "subdiscipline_percent": {
+
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+
+            ],
+            "title": "An Introduction to R for Spatial Analysis and Mapping, by ChrisBrunsdon and LexComber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
+            "url": "http://doi.org/10.1111/jors.12271",
+            "year": "2016",
+            "citations": 0
+        },
+        {
+            "_title": "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
+            "altmetric_score": 0,
+            "doi": "10.6084/m9.figshare.951959",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://doi.org/10.6084/m9.figshare.951959",
+            "genre": "dataset",
+            "has_fulltext_url": true,
+            "id": "ozdof31n7f",
+            "license": "cc-by",
+            "mendeley": {
+                "country_percent": {
+
+                },
+                "job_title_percent": {
+
+                },
+                "readers": 0,
+                "subdiscipline_percent": {
+
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+
+            ],
+            "title": "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
+            "url": "http://doi.org/10.6084/m9.figshare.951959",
+            "year": "2014",
+            "citations": 0
+        },
+        {
+            "_title": "From imperfection to inference: issues of scale and uncertainty in global change biology",
+            "altmetric_score": 0,
+            "doi": "10.6084/m9.figshare.947682",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://doi.org/10.6084/m9.figshare.947682",
+            "genre": "dataset",
+            "has_fulltext_url": true,
+            "id": "zzqjav7v39",
+            "license": "cc-by",
+            "mendeley": {
+                "country_percent": {
+
+                },
+                "job_title_percent": {
+
+                },
+                "readers": 0,
+                "subdiscipline_percent": {
+
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+
+            ],
+            "title": "From imperfection to inference: issues of scale and uncertainty in global change biology",
+            "url": "http://doi.org/10.6084/m9.figshare.947682",
+            "year": "2014"
+        },
+        {
+            "_title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
+            "altmetric_score": 0,
+            "authors": "Ibanez, I",
+            "doi": "10.1111/j.1365-2664.2009.01736.x",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01736.x/pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "JKybmNnzw3",
+            "journal": "Journal of Applied Ecology",
+            "mendeley": {
+                "country_percent": {
+                    "Brazil": 0.06,
+                    "France": 0.06,
+                    "India": 0.12,
+                    "Spain": 0.12,
+                    "United Kingdom": 0.06,
+                    "United States": 0.35,
+                    "Canada": 0.12,
+                    "Switzerland": 0.06,
+                    "New Zealand": 0.06
+                },
+                "job_title_percent": {
+                    "Faculty": 0.19,
+                    "Masters Student": 0.2,
+                    "Other": 0.02,
+                    "PhD Student": 0.32,
+                    "Researcher": 0.25,
+                    "Undergrad Student": 0.01
+                },
+                "mendeley_url": "http://www.mendeley.com/research/identifying-hotspots-plant-invasions-forecasting-focal-points-further-spread",
+                "readers": 88,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.68,
+                    "Business, Management and Accounting": 0.01,
+                    "Computer Science": 0.01,
+                    "Earth and Planetary Sciences": 0.05,
+                    "Engineering": 0.01,
+                    "Environmental Science": 0.22,
+                    "Social Sciences": 0.01,
+                    "Mathematics": 0.01
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": "0000-0003-3362-7806",
+            "posts": [
+
+            ],
+            "sources": [
+
+            ],
+            "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
+            "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
+            "year": "2009",
+            "citations": 47,
+            "citationlink": "10471541810207926754"
         },
         {
             "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
@@ -6905,298 +7191,30 @@
             "year": "2005",
             "citations": 41,
             "citationlink": "14890295198784645783"
-        },
-        {
-            "_title": "Spatial and interspecific variability in phenological responses to warming temperatures",
-            "altmetric_score": 0,
-            "authors": "Primack, RB",
-            "doi": "10.1016/j.biocon.2009.06.003",
-            "events_last_week_count": 0,
-            "genre": "article",
-            "has_fulltext_url": false,
-            "id": "h2Y72Mhv3N",
-            "journal": "Biological Conservation",
-            "mendeley": {
-                "country_percent": {
-                    "France": 0.05,
-                    "Germany": 0.09,
-                    "India": 0.05,
-                    "Japan": 0.05,
-                    "South Africa": 0.14,
-                    "Spain": 0.05,
-                    "United Kingdom": 0.14,
-                    "United States": 0.27,
-                    "Austria": 0.05,
-                    "Canada": 0.05,
-                    "Finland": 0.05,
-                    "Portugal": 0.05
-                },
-                "job_title_percent": {
-                    "Faculty": 0.11,
-                    "Librarian": 0.01,
-                    "Masters Student": 0.15,
-                    "Other": 0.04,
-                    "PhD Student": 0.36,
-                    "Researcher": 0.27,
-                    "Undergrad Student": 0.06
-                },
-                "mendeley_url": "http://www.mendeley.com/research/spatial-interspecific-variability-phenological-responses-warming-temperatures",
-                "readers": 168,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.62,
-                    "Chemistry": 0.01,
-                    "Earth and Planetary Sciences": 0.07,
-                    "Engineering": 0.01,
-                    "Environmental Science": 0.29,
-                    "Social Sciences": 0.01,
-                    "Biochemistry, Genetics and Molecular Biology": 0.01
-                }
-            },
-            "num_mentions": 0,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-
-            ],
-            "title": "Spatial and interspecific variability in phenological responses to warming temperatures",
-            "url": "http://doi.org/10.1016/j.biocon.2009.06.003",
-            "year": "2009",
-            "citations": 137,
-            "citationlink": "62062424245765126"
-        },
-        {
-            "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-            "altmetric_score": 0,
-            "doi": "10.1016/j.gloplacha.2012.11.003",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://hdl.handle.net/2060/20140010385",
-            "genre": "article",
-            "has_fulltext_url": true,
-            "id": "bsbgeb0ycg",
-            "journal": "Global and Planetary Change",
-            "mendeley": {
-                "country_percent": {
-                    "Belgium": 0.05,
-                    "Brazil": 0.11,
-                    "Colombia": 0.05,
-                    "France": 0.05,
-                    "Italy": 0.05,
-                    "United Kingdom": 0.05,
-                    "United States": 0.21,
-                    "Canada": 0.26,
-                    "Norway": 0.05,
-                    "Iran": 0.05,
-                    "Malaysia": 0.05
-                },
-                "job_title_percent": {
-                    "Faculty": 0.04,
-                    "Librarian": 0.01,
-                    "Masters Student": 0.17,
-                    "Other": 0.06,
-                    "PhD Student": 0.45,
-                    "Researcher": 0.28,
-                    "Undergrad Student": 0.01
-                },
-                "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north-1",
-                "readers": 127,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.07,
-                    "Computer Science": 0.02,
-                    "Earth and Planetary Sciences": 0.37,
-                    "Economics, Econometrics and Finance": 0.01,
-                    "Engineering": 0.23,
-                    "Environmental Science": 0.28,
-                    "Mathematics": 0.02,
-                    "Physics and Astronomy": 0.01
-                }
-            },
-            "num_mentions": 0,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-
-            ],
-            "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-            "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
-            "year": "2013"
-        },
-        {
-            "_title": "An Introduction to R for Spatial Analysis and Mapping, by ChrisBrunsdon and LexComber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
-            "altmetric_score": 0,
-            "authors": "Jared Aldstadt, Adam M. Wilson",
-            "doi": "10.1111/jors.12271",
-            "events_last_week_count": 0,
-            "genre": "article",
-            "has_fulltext_url": false,
-            "id": "hZbw6cX6CZ",
-            "journal": "Journal of Regional Science",
-            "mendeley": {
-                "country_percent": {
-
-                },
-                "job_title_percent": {
-
-                },
-                "readers": 0,
-                "subdiscipline_percent": {
-
-                }
-            },
-            "num_mentions": 0,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-
-            ],
-            "title": "An Introduction to R for Spatial Analysis and Mapping, by ChrisBrunsdon and LexComber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
-            "url": "http://doi.org/10.1111/jors.12271",
-            "year": "2016",
-            "citations": 0
-        },
-        {
-            "_title": "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
-            "altmetric_score": 0,
-            "doi": "10.6084/m9.figshare.951959",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://doi.org/10.6084/m9.figshare.951959",
-            "genre": "dataset",
-            "has_fulltext_url": true,
-            "id": "ozdof31n7f",
-            "license": "cc-by",
-            "mendeley": {
-                "country_percent": {
-
-                },
-                "job_title_percent": {
-
-                },
-                "readers": 0,
-                "subdiscipline_percent": {
-
-                }
-            },
-            "num_mentions": 0,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-
-            ],
-            "title": "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
-            "url": "http://doi.org/10.6084/m9.figshare.951959",
-            "year": "2014",
-            "citations": 0
-        },
-        {
-            "_title": "From imperfection to inference: issues of scale and uncertainty in global change biology",
-            "altmetric_score": 0,
-            "doi": "10.6084/m9.figshare.947682",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://doi.org/10.6084/m9.figshare.947682",
-            "genre": "dataset",
-            "has_fulltext_url": true,
-            "id": "zzqjav7v39",
-            "license": "cc-by",
-            "mendeley": {
-                "country_percent": {
-
-                },
-                "job_title_percent": {
-
-                },
-                "readers": 0,
-                "subdiscipline_percent": {
-
-                }
-            },
-            "num_mentions": 0,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-
-            ],
-            "title": "From imperfection to inference: issues of scale and uncertainty in global change biology",
-            "url": "http://doi.org/10.6084/m9.figshare.947682",
-            "year": "2014"
-        },
-        {
-            "_title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
-            "altmetric_score": 0,
-            "authors": "Ibanez, I",
-            "doi": "10.1111/j.1365-2664.2009.01736.x",
-            "events_last_week_count": 0,
-            "fulltext_url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01736.x/pdf",
-            "genre": "article",
-            "has_fulltext_url": true,
-            "id": "JKybmNnzw3",
-            "journal": "Journal of Applied Ecology",
-            "mendeley": {
-                "country_percent": {
-                    "Brazil": 0.06,
-                    "France": 0.06,
-                    "India": 0.12,
-                    "Spain": 0.12,
-                    "United Kingdom": 0.06,
-                    "United States": 0.35,
-                    "Canada": 0.12,
-                    "Switzerland": 0.06,
-                    "New Zealand": 0.06
-                },
-                "job_title_percent": {
-                    "Faculty": 0.19,
-                    "Masters Student": 0.2,
-                    "Other": 0.02,
-                    "PhD Student": 0.32,
-                    "Researcher": 0.25,
-                    "Undergrad Student": 0.01
-                },
-                "mendeley_url": "http://www.mendeley.com/research/identifying-hotspots-plant-invasions-forecasting-focal-points-further-spread",
-                "readers": 88,
-                "subdiscipline_percent": {
-                    "Agricultural and Biological Sciences": 0.68,
-                    "Business, Management and Accounting": 0.01,
-                    "Computer Science": 0.01,
-                    "Earth and Planetary Sciences": 0.05,
-                    "Engineering": 0.01,
-                    "Environmental Science": 0.22,
-                    "Social Sciences": 0.01,
-                    "Mathematics": 0.01
-                }
-            },
-            "num_mentions": 0,
-            "num_posts": 0,
-            "orcid_id": "0000-0003-3362-7806",
-            "posts": [
-
-            ],
-            "sources": [
-
-            ],
-            "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
-            "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
-            "year": "2009",
-            "citations": 47,
-            "citationlink": "10471541810207926754"
         }
     ],
     "promos": {
 
     },
     "sources": [
+        {
+            "display_name": "Reddit posts",
+            "events_last_week_count": 0,
+            "posts_count": 5,
+            "source_name": "reddit"
+        },
+        {
+            "display_name": "Blog posts",
+            "events_last_week_count": 0,
+            "posts_count": 20,
+            "source_name": "blogs"
+        },
+        {
+            "display_name": "F1000 reviews",
+            "events_last_week_count": 0,
+            "posts_count": 1,
+            "source_name": "f1000"
+        },
         {
             "display_name": "News mentions",
             "events_last_week_count": 0,
@@ -7210,28 +7228,10 @@
             "source_name": "googleplus"
         },
         {
-            "display_name": "F1000 reviews",
-            "events_last_week_count": 0,
-            "posts_count": 1,
-            "source_name": "f1000"
-        },
-        {
-            "display_name": "Tweets",
-            "events_last_week_count": 6,
-            "posts_count": 444,
-            "source_name": "twitter"
-        },
-        {
             "display_name": "Wikipedia articles",
             "events_last_week_count": 0,
             "posts_count": 1,
             "source_name": "wikipedia"
-        },
-        {
-            "display_name": "Reddit posts",
-            "events_last_week_count": 0,
-            "posts_count": 5,
-            "source_name": "reddit"
         },
         {
             "display_name": "Facebook pages",
@@ -7240,10 +7240,10 @@
             "source_name": "facebook"
         },
         {
-            "display_name": "Blog posts",
-            "events_last_week_count": 0,
-            "posts_count": 20,
-            "source_name": "blogs"
+            "display_name": "Tweets",
+            "events_last_week_count": 6,
+            "posts_count": 444,
+            "source_name": "twitter"
         }
     ],
     "subscores": [
