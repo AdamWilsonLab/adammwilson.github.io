@@ -10,7 +10,7 @@ pubs$title=as.character(pubs$title)
 ## Download impactstory information
 download.file("https://impactstory.org/api/person/0000-0003-3362-7806.json",
               destfile = "_data/is.json")
-is=fromJSON("_data/is.json")
+is=fromJSON("_data/is.json",flatten = T)
 
 ## Get fuzzy string matches
 dm=stringdistmatrix(is$products$title,
@@ -40,6 +40,10 @@ is$products$citationlink=as.character(pubs$cid[dm2])
 is_out=prettify(toJSON(is,auto_unbox=T))
 #is_out=enc2native(is_out)
 is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
+is_out=gsub("[\\]","",is_out)
+is_out=gsub("href=\"","href='",is_out)
+#is_out=gsub("\"\"","",is_out)
+is_out=gsub("\">","'>",is_out)
 
 ## write the file
 write(is_out,
