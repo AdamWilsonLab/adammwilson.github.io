@@ -1,6 +1,7 @@
 library(scholar)
 library(jsonlite)
 library(stringdist)
+library(stringr)
 
 ## Download google scholar citations
 id="zgVlijsAAAAJ"
@@ -36,13 +37,17 @@ for(i in 1:length(is$products$title)){
 is$products$citations=pubs$cites[dm2]
 is$products$citationlink=as.character(pubs$cid[dm2])
 
+# clean up double quotes in title fields
+#lapply(is$products$posts,function(x) 
 
-is_out=prettify(toJSON(is,auto_unbox=T))
+# clean up json
+#is_out=prettify(toJSON(is,auto_unbox=T))
+is_out=toJSON(is,auto_unbox=T)
 #is_out=enc2native(is_out)
 is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
 is_out=gsub("[\\]","",is_out)
 is_out=gsub("href=\"","href='",is_out)
-#is_out=gsub("\"\"","",is_out)
+is_out=gsub("\"\"","",is_out)
 is_out=gsub("\">","'>",is_out)
 
 ## write the file
