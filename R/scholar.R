@@ -2,6 +2,7 @@ library(scholar)
 library(jsonlite)
 library(stringdist)
 library(stringr)
+library(tidyjson)
 
 ## Download google scholar citations
 id="zgVlijsAAAAJ"
@@ -12,7 +13,8 @@ pubs$title=as.character(pubs$title)
 download.file("https://impactstory.org/api/person/0000-0003-3362-7806.json",
               destfile = "_data/is.json")
 
-is=fromJSON("_data/is.json")
+#is=fromJSON("_data/is.json")
+is=read_json("_data/is.json")
 
   ## Get fuzzy string matches
 dm=stringdistmatrix(sapply(is$products,function(x) x[["title"]]),
@@ -35,20 +37,25 @@ for(i in 1:length(is$products$title)){
 }
 }
 
-is$products$citations=pubs$cites[dm2]
-is$products$citationlink=as.character(pubs$cid[dm2])
+  for(i in 1:length(is$products)){
+    is$products[[i]]$citations=pubs$cites[dm2][i]
+    is$products[[i]]$citationlink=as.character(pubs$cid[dm2])[i]
+      }
+
+#is$products$citations=pubs$cites[dm2]
+#is$products$citationlink=as.character(pubs$cid[dm2])
 
 # clean up double quotes in title fields
 #lapply(is$products$posts,function(x) 
 
 # clean up json
 is_out=toJSON(is,auto_unbox=T,pretty=T)
-is_out=enc2native(is_out)
-is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
-is_out=gsub("[\\]","",is_out)
-is_out=gsub("href=\"","href='",is_out)
-is_out=gsub("\"\"","",is_out)
-is_out=gsub("\">","'>",is_out)
+#is_out=enc2native(is_out)
+#is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
+#is_out=gsub("[\\]","",is_out)
+#is_out=gsub("href=\"","href='",is_out)
+#is_out=gsub("\"\"","",is_out)
+#is_out=gsub("\">","'>",is_out)
 
 if(!validate(is_out)) stop("JSON is not valid")
 

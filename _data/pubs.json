@@ -300,7 +300,7 @@
 		},
 		"mendeley_url" : null,
 		"percent_of_products" : 0.83784,
-		"readers" : 2151,
+		"readers" : 2153,
 		"subdiscipline_percent" : {
 			"Agricultural and Biological Sciences" : 0.46,
 			"Arts and Humanities" : 0,
@@ -448,8 +448,8 @@
 	"percent_fulltext" : 0.486,
 	"percent_open_license" : 0.243,
 	"picture" : "https://pbs.twimg.com/profile_images/378800000789335660/a4d54b2ca59a61aeec9407c77321fce9.jpeg",
-	"products" : {
-		"" : {
+	"products" : [
+		{
 			"_title" : "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
 			"altmetric_id" : "6410740",
 			"altmetric_score" : 355.41,
@@ -2447,9 +2447,11 @@
 			],
 			"title" : "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
 			"url" : "http://doi.org/10.1371/journal.pbio.1002415",
-			"year" : "2016"
+			"year" : "2016",
+			"citations" : 23,
+			"citationlink" : "2210894244204244525"
 		},
-		"" : {
+		{
 			"_title" : "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
 			"altmetric_id" : "4398603",
 			"altmetric_score" : 312.44,
@@ -4485,9 +4487,11 @@
 			],
 			"title" : "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
 			"url" : "http://doi.org/10.1371/journal.pone.0134454",
-			"year" : "2015"
+			"year" : "2015",
+			"citations" : 4,
+			"citationlink" : "2538076968072773354"
 		},
-		"" : {
+		{
 			"_title" : "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
 			"altmetric_id" : "18922314",
 			"altmetric_score" : 55.45,
@@ -4862,9 +4866,11 @@
 			],
 			"title" : "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
 			"url" : "http://doi.org/10.1073/pnas.1619014114",
-			"year" : "2017"
+			"year" : "2017",
+			"citations" : 0,
+			"citationlink" : null
 		},
-		"" : {
+		{
 			"_title" : "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa",
 			"altmetric_id" : "4251259",
 			"altmetric_score" : 37.904,
@@ -5122,9 +5128,11 @@
 			],
 			"title" : "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa",
 			"url" : "http://doi.org/10.1073/pnas.1416710112",
-			"year" : "2015"
+			"year" : "2015",
+			"citations" : 6,
+			"citationlink" : "7262640301241929829"
 		},
-		"" : {
+		{
 			"_title" : "Wikipedia Content Volatility",
 			"altmetric_id" : "4359561",
 			"altmetric_score" : 21.85,
@@ -5239,9 +5247,11 @@
 			],
 			"title" : "Wikipedia Content Volatility",
 			"url" : "http://doi.org/10.6084/m9.figshare.1397533",
-			"year" : "2015"
+			"year" : "2015",
+			"citations" : null,
+			"citationlink" : null
 		},
-		"" : {
+		{
 			"_title" : "Modeling daily flowering probabilities: expected impact of climate change on Japanese cherry phenology",
 			"altmetric_id" : "1703993",
 			"altmetric_score" : 14.874,
@@ -5395,9 +5405,11 @@
 			],
 			"title" : "Modeling daily flowering probabilities: expected impact of climate change on Japanese cherry phenology",
 			"url" : "http://doi.org/10.1111/gcb.12364",
-			"year" : "2014"
+			"year" : "2014",
+			"citations" : 9,
+			"citationlink" : "834067950490850962"
 		},
-		"" : {
+		{
 			"_title" : "Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species",
 			"altmetric_id" : "4861733",
 			"altmetric_score" : 7.65,
@@ -5613,9 +5625,11 @@
 			],
 			"title" : "Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species",
 			"url" : "http://doi.org/10.1111/ecog.01925",
-			"year" : "2016"
+			"year" : "2016",
+			"citations" : 7,
+			"citationlink" : "14349399844322329686"
 		},
-		"" : {
+		{
 			"_title" : "Integrating occurrence data and expert maps for improved species range predictions",
 			"altmetric_id" : "13913303",
 			"altmetric_score" : 7,
@@ -5814,9 +5828,11 @@
 			],
 			"title" : "Integrating occurrence data and expert maps for improved species range predictions",
 			"url" : "http://doi.org/10.1111/geb.12539",
-			"year" : "2017"
+			"year" : "2017",
+			"citations" : 2,
+			"citationlink" : "17832906044735692584"
 		},
-		"" : {
+		{
 			"_title" : "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data",
 			"altmetric_id" : "2531801",
 			"altmetric_score" : 6.1,
@@ -6038,9 +6054,11 @@
 			],
 			"title" : "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data",
 			"url" : "http://doi.org/10.1111/ecog.00839",
-			"year" : "2014"
+			"year" : "2014",
+			"citations" : 45,
+			"citationlink" : "12652666495545664808"
 		},
-		"" : {
+		{
 			"_title" : "Climatic Influences on Survival of Migratory African Reed Warblers Acrocephalus baeticatus in South Africa",
 			"altmetric_id" : "4996502",
 			"altmetric_score" : 5.3,
@@ -6180,9 +6198,11 @@
 			],
 			"title" : "Climatic Influences on Survival of Migratory African Reed Warblers Acrocephalus baeticatus in South Africa",
 			"url" : "http://doi.org/10.5253/arde.v103i2.a5",
-			"year" : "2015"
+			"year" : "2015",
+			"citations" : 2,
+			"citationlink" : "8347424790761169174"
 		},
-		"" : {
+		{
 			"_title" : "Uncertainty, priors, autocorrelation and disparate data in downscaling of species distributions",
 			"altmetric_id" : "2223174",
 			"altmetric_score" : 4.55,
@@ -6326,9 +6346,11 @@
 			],
 			"title" : "Uncertainty, priors, autocorrelation and disparate data in downscaling of species distributions",
 			"url" : "http://doi.org/10.1111/ddi.12199",
-			"year" : "2014"
+			"year" : "2014",
+			"citations" : 12,
+			"citationlink" : "17984584479707219233"
 		},
-		"" : {
+		{
 			"_title" : "Air pollution, weather, and respiratory emergency room visits in two northern New England cities: An ecological time-series study",
 			"altmetric_id" : "828555",
 			"altmetric_score" : 3.25,
@@ -6397,9 +6419,11 @@
 			],
 			"title" : "Air pollution, weather, and respiratory emergency room visits in two northern New England cities: An ecological time-series study",
 			"url" : "http://doi.org/10.1016/j.envres.2004.07.010",
-			"year" : "2005"
+			"year" : "2005",
+			"citations" : 99,
+			"citationlink" : "11539854097788409446"
 		},
-		"" : {
+		{
 			"_title" : "Air pollution and the demand for hospital services: A review",
 			"altmetric_id" : "15037952",
 			"altmetric_score" : 3,
@@ -6447,9 +6471,11 @@
 			"sources" : [],
 			"title" : "Air pollution and the demand for hospital services: A review",
 			"url" : "http://doi.org/10.1016/j.envint.2004.01.004",
-			"year" : "2004"
+			"year" : "2004",
+			"citations" : 69,
+			"citationlink" : "13627242760666690959"
 		},
-		"" : {
+		{
 			"_title" : "Multivariate forecasts of potential distributions of invasive plant species",
 			"altmetric_id" : "3342407",
 			"altmetric_score" : 3,
@@ -6521,9 +6547,11 @@
 			],
 			"title" : "Multivariate forecasts of potential distributions of invasive plant species",
 			"url" : "http://doi.org/10.1890/07-2095.1",
-			"year" : "2009"
+			"year" : "2009",
+			"citations" : 84,
+			"citationlink" : "10722199125945852415"
 		},
-		"" : {
+		{
 			"_title" : "Downscaling of species distribution models: A hierarchical approach",
 			"altmetric_id" : "1096043",
 			"altmetric_score" : 2.75,
@@ -6659,9 +6687,87 @@
 			],
 			"title" : "Downscaling of species distribution models: A hierarchical approach",
 			"url" : "http://doi.org/10.1111/j.2041-210x.2012.00264.x",
-			"year" : "2013"
+			"year" : "2013",
+			"citations" : 37,
+			"citationlink" : "5979909871313787952"
 		},
-		"" : {
+		{
+			"_title" : "Spatial and interspecific variability in phenological responses to warming temperatures",
+			"altmetric_id" : "17236835",
+			"altmetric_score" : 1,
+			"authors" : "Primack, RB",
+			"doi" : "10.1016/j.biocon.2009.06.003",
+			"events_last_week_count" : 0,
+			"fulltext_url" : null,
+			"genre" : "article",
+			"has_fulltext_url" : false,
+			"id" : "h2Y72Mhv3N",
+			"journal" : "Biological Conservation",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Austria" : 0.05,
+					"Canada" : 0.05,
+					"Finland" : 0.05,
+					"France" : 0.05,
+					"Germany" : 0.05,
+					"India" : 0.05,
+					"Japan" : 0.05,
+					"Portugal" : 0.05,
+					"South Africa" : 0.14,
+					"Spain" : 0.05,
+					"United Kingdom" : 0.14,
+					"United States" : 0.29
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.11,
+					"Librarian" : 0.01,
+					"Masters Student" : 0.17,
+					"Other" : 0.04,
+					"PhD Student" : 0.34,
+					"Researcher" : 0.27,
+					"Undergrad Student" : 0.06
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/spatial-interspecific-variability-phenological-responses-warming-temperatures",
+				"readers" : 180,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.62,
+					"Biochemistry, Genetics and Molecular Biology" : 0.01,
+					"Chemistry" : 0.01,
+					"Earth and Planetary Sciences" : 0.06,
+					"Engineering" : 0.01,
+					"Environmental Science" : 0.26,
+					"Social Sciences" : 0.01,
+					"Unspecified" : 0.03
+				}
+			},
+			"num_mentions" : 1,
+			"num_posts" : 1,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [
+				{
+					"attribution" : "Amthal Mohammed Abbas",
+					"posted_on" : "2017-03-10T00:00:00+00:00",
+					"source" : "peer_reviews",
+					"title" : "A gestural form of human communication exists for the deaf in the form of sign …",
+					"url" : "https://publons.com/publon/review/E2GBeXwI/"
+				}
+			],
+			"sources" : [
+				{
+					"display_name" : "Public peer reviews",
+					"events_last_week_count" : 0,
+					"posts_count" : 1,
+					"source_name" : "peer_reviews"
+				}
+			],
+			"title" : "Spatial and interspecific variability in phenological responses to warming temperatures",
+			"url" : "http://doi.org/10.1016/j.biocon.2009.06.003",
+			"year" : "2009",
+			"citations" : 149,
+			"citationlink" : "62062424245765126"
+		},
+		{
 			"_title" : "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
 			"altmetric_id" : "1474143",
 			"altmetric_score" : 1,
@@ -6729,83 +6835,11 @@
 			],
 			"title" : "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
 			"url" : "http://doi.org/10.1016/j.ecolmodel.2009.09.016",
-			"year" : "2010"
+			"year" : "2010",
+			"citations" : 48,
+			"citationlink" : "18256647831510752324"
 		},
-		"" : {
-			"_title" : "Spatial and interspecific variability in phenological responses to warming temperatures",
-			"altmetric_id" : "17236835",
-			"altmetric_score" : 1,
-			"authors" : "Primack, RB",
-			"doi" : "10.1016/j.biocon.2009.06.003",
-			"events_last_week_count" : 0,
-			"fulltext_url" : null,
-			"genre" : "article",
-			"has_fulltext_url" : false,
-			"id" : "h2Y72Mhv3N",
-			"journal" : "Biological Conservation",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Austria" : 0.05,
-					"Canada" : 0.05,
-					"Finland" : 0.05,
-					"France" : 0.05,
-					"Germany" : 0.05,
-					"India" : 0.05,
-					"Japan" : 0.05,
-					"Portugal" : 0.05,
-					"South Africa" : 0.14,
-					"Spain" : 0.05,
-					"United Kingdom" : 0.14,
-					"United States" : 0.29
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.11,
-					"Librarian" : 0.01,
-					"Masters Student" : 0.16,
-					"Other" : 0.04,
-					"PhD Student" : 0.35,
-					"Researcher" : 0.28,
-					"Undergrad Student" : 0.06
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/spatial-interspecific-variability-phenological-responses-warming-temperatures",
-				"readers" : 178,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.62,
-					"Biochemistry, Genetics and Molecular Biology" : 0.01,
-					"Chemistry" : 0.01,
-					"Earth and Planetary Sciences" : 0.06,
-					"Engineering" : 0.01,
-					"Environmental Science" : 0.26,
-					"Social Sciences" : 0.01,
-					"Unspecified" : 0.03
-				}
-			},
-			"num_mentions" : 1,
-			"num_posts" : 1,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [
-				{
-					"attribution" : "Amthal Mohammed Abbas",
-					"posted_on" : "2017-03-10T00:00:00+00:00",
-					"source" : "peer_reviews",
-					"title" : "A gestural form of human communication exists for the deaf in the form of sign …",
-					"url" : "https://publons.com/publon/review/E2GBeXwI/"
-				}
-			],
-			"sources" : [
-				{
-					"display_name" : "Public peer reviews",
-					"events_last_week_count" : 0,
-					"posts_count" : 1,
-					"source_name" : "peer_reviews"
-				}
-			],
-			"title" : "Spatial and interspecific variability in phenological responses to warming temperatures",
-			"url" : "http://doi.org/10.1016/j.biocon.2009.06.003",
-			"year" : "2009"
-		},
-		"" : {
+		{
 			"_title" : "Using multi-timescale methods and satellite-derived land surface temperature for the interpolation of daily maximum air temperature in Oregon",
 			"altmetric_id" : "3140836",
 			"altmetric_score" : 0.25,
@@ -6863,107 +6897,22 @@
 			],
 			"title" : "Using multi-timescale methods and satellite-derived land surface temperature for the interpolation of daily maximum air temperature in Oregon",
 			"url" : "http://doi.org/10.1002/joc.4251",
-			"year" : "2015"
+			"year" : "2015",
+			"citations" : 8,
+			"citationlink" : "15702577810729029249"
 		},
-		"" : {
-			"_title" : "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
+		{
+			"_title" : "Slingsby_TaylorPlots",
 			"altmetric_id" : null,
 			"altmetric_score" : 0,
-			"authors" : "De Klerk, H.M., Wilson, A.M., Steenkamp, K.",
-			"doi" : "10.1071/wf11002",
-			"events_last_week_count" : 0,
-			"fulltext_url" : "http://scholar.sun.ac.za/bitstream/10019.1/98979/1/deklerk_evaluation_2011.pdf",
-			"genre" : "article",
-			"has_fulltext_url" : true,
-			"id" : "w96eeh585x",
-			"journal" : "International Journal of Wildland Fire",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"South Africa" : 1
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.25,
-					"Masters Student" : 0.19,
-					"PhD Student" : 0.31,
-					"Researcher" : 0.25
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/evaluation-satellitederived-burned-area-products-fynbos-mediterranean-shrubland",
-				"readers" : 16,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.38,
-					"Computer Science" : 0.06,
-					"Earth and Planetary Sciences" : 0.06,
-					"Engineering" : 0.06,
-					"Environmental Science" : 0.38,
-					"Social Sciences" : 0.06
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
-			"url" : "http://doi.org/10.1071/wf11002",
-			"year" : "2012"
-		},
-		"" : {
-			"_title" : "A new class of flexible link functions with application to species co-occurrence in Cape Floristic Region",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Jiang, X., Dey, D.K., Prunier, R., Wilson, A.M., Holsinger, K.E.",
-			"doi" : "10.1214/13-aoas663",
+			"authors" : "Jasper Slingsby, Cory Merow, Matthew Aiello-lammens, Nicky Allsopp, Stuart Hall, Hayley Kilroy Mollmann, Ross Turner, Adam Wilson, John Silander",
+			"doi" : "10.6084/m9.figshare.4737358",
 			"events_last_week_count" : 0,
 			"fulltext_url" : null,
-			"genre" : "article",
+			"genre" : "dataset",
 			"has_fulltext_url" : false,
-			"id" : "DgYzD64X5S",
-			"journal" : "Annals of Applied Statistics",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Germany" : 0.25,
-					"South Africa" : 0.25,
-					"United States" : 0.5
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.12,
-					"Masters Student" : 0.06,
-					"Other" : 0.06,
-					"PhD Student" : 0.47,
-					"Researcher" : 0.29
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/new-class-flexible-link-functions-application-species-cooccurrence-cape-floristic-region",
-				"readers" : 17,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.47,
-					"Economics, Econometrics and Finance" : 0.18,
-					"Mathematics" : 0.18,
-					"Social Sciences" : 0.18
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "A new class of flexible link functions with application to species co-occurrence in Cape Floristic Region",
-			"url" : "http://doi.org/10.1214/13-aoas663",
-			"year" : "2013"
-		},
-		"" : {
-			"_title" : "An Introduction to R for Spatial Analysis and Mapping, by Chris Brunsdon and Lex Comber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Jared Aldstadt, Adam M. Wilson",
-			"doi" : "10.1111/jors.12271",
-			"events_last_week_count" : 0,
-			"fulltext_url" : null,
-			"genre" : "article",
-			"has_fulltext_url" : false,
-			"id" : "hZbw6cX6CZ",
-			"journal" : "Journal of Regional Science",
+			"id" : "RWnPKsFmuW",
+			"journal" : "Figshare",
 			"license" : null,
 			"mendeley" : {
 				"country_percent" : {},
@@ -6977,69 +6926,13 @@
 			"orcid_id" : "0000-0003-3362-7806",
 			"posts" : [],
 			"sources" : [],
-			"title" : "An Introduction to R for Spatial Analysis and Mapping, by Chris Brunsdon and Lex Comber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
-			"url" : "http://doi.org/10.1111/jors.12271",
-			"year" : "2016"
+			"title" : "Slingsby_TaylorPlots",
+			"url" : "http://doi.org/10.6084/m9.figshare.4737358",
+			"year" : "2017",
+			"citations" : null,
+			"citationlink" : null
 		},
-		"" : {
-			"_title" : "From imperfection to inference: issues of scale and uncertainty in global change biology",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : null,
-			"doi" : "10.6084/m9.figshare.947682",
-			"events_last_week_count" : 0,
-			"fulltext_url" : "http://doi.org/10.6084/m9.figshare.947682",
-			"genre" : "dataset",
-			"has_fulltext_url" : true,
-			"id" : "zzqjav7v39",
-			"journal" : null,
-			"license" : "cc-by",
-			"mendeley" : {
-				"country_percent" : {},
-				"job_title_percent" : {},
-				"mendeley_url" : null,
-				"readers" : 0,
-				"subdiscipline_percent" : {}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "From imperfection to inference: issues of scale and uncertainty in global change biology",
-			"url" : "http://doi.org/10.6084/m9.figshare.947682",
-			"year" : "2014"
-		},
-		"" : {
-			"_title" : "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : null,
-			"doi" : "10.6084/m9.figshare.951959",
-			"events_last_week_count" : 0,
-			"fulltext_url" : "http://doi.org/10.6084/m9.figshare.951959",
-			"genre" : "dataset",
-			"has_fulltext_url" : true,
-			"id" : "ozdof31n7f",
-			"journal" : null,
-			"license" : "cc-by",
-			"mendeley" : {
-				"country_percent" : {},
-				"job_title_percent" : {},
-				"mendeley_url" : null,
-				"readers" : 0,
-				"subdiscipline_percent" : {}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
-			"url" : "http://doi.org/10.6084/m9.figshare.951959",
-			"year" : "2014"
-		},
-		"" : {
+		{
 			"_title" : "Scaling up: Linking field data and remote sensing with a hierarchical model",
 			"altmetric_id" : "5799007",
 			"altmetric_score" : 0,
@@ -7089,9 +6982,510 @@
 			"sources" : [],
 			"title" : "Scaling up: Linking field data and remote sensing with a hierarchical model",
 			"url" : "http://doi.org/10.1080/13658816.2010.522779",
-			"year" : "2011"
+			"year" : "2011",
+			"citations" : 13,
+			"citationlink" : "14666785862283525109"
 		},
-		"" : {
+		{
+			"_title" : "Estimating uncertainty in daily weather interpolations: A Bayesian framework for developing climate surfaces",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Wilson, A.M., Silander, J.A.",
+			"doi" : "10.1002/joc.3859",
+			"events_last_week_count" : 0,
+			"fulltext_url" : null,
+			"genre" : "article",
+			"has_fulltext_url" : false,
+			"id" : "9W6g8mURms",
+			"journal" : "International Journal of Climatology",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Brazil" : 0.2,
+					"Spain" : 0.2,
+					"United Kingdom" : 0.2,
+					"United States" : 0.4
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.06,
+					"Masters Student" : 0.32,
+					"PhD Student" : 0.38,
+					"Researcher" : 0.18,
+					"Undergrad Student" : 0.03,
+					"Unspecified" : 0.03
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/estimating-uncertainty-daily-weather-interpolations-bayesian-framework-developing-climate-surfaces",
+				"readers" : 34,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.18,
+					"Computer Science" : 0.09,
+					"Earth and Planetary Sciences" : 0.15,
+					"Engineering" : 0.12,
+					"Environmental Science" : 0.32,
+					"Mathematics" : 0.03,
+					"Physics and Astronomy" : 0.03,
+					"Unspecified" : 0.09
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Estimating uncertainty in daily weather interpolations: A Bayesian framework for developing climate surfaces",
+			"url" : "http://doi.org/10.1002/joc.3859",
+			"year" : "2014",
+			"citations" : 16,
+			"citationlink" : "7850685944087463273"
+		},
+		{
+			"_title" : "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Merow, C",
+			"doi" : "10.1086/660295",
+			"events_last_week_count" : 0,
+			"fulltext_url" : null,
+			"genre" : "article",
+			"has_fulltext_url" : false,
+			"id" : "FpMvX3HAmw",
+			"journal" : "American Naturalist",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Australia" : 0.06,
+					"Brazil" : 0.18,
+					"Canada" : 0.09,
+					"Finland" : 0.03,
+					"Germany" : 0.06,
+					"Spain" : 0.09,
+					"Switzerland" : 0.09,
+					"United States" : 0.36,
+					"Venezuela" : 0.03
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.12,
+					"Masters Student" : 0.15,
+					"Other" : 0.05,
+					"PhD Student" : 0.33,
+					"Researcher" : 0.32,
+					"Undergrad Student" : 0.04
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/developing-dynamic-mechanistic-species-distribution-models-predicting-birdmediated-spread-invasive-p",
+				"readers" : 107,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.61,
+					"Computer Science" : 0.01,
+					"Earth and Planetary Sciences" : 0.03,
+					"Environmental Science" : 0.31,
+					"Unspecified" : 0.05
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
+			"url" : "http://doi.org/10.1086/660295",
+			"year" : "2011",
+			"citations" : 44,
+			"citationlink" : "12982824833770251112"
+		},
+		{
+			"_title" : "Identifying hotspots for plant invasions and forecasting focal points of further spread",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Ibanez, I",
+			"doi" : "10.1111/j.1365-2664.2009.01736.x",
+			"events_last_week_count" : 0,
+			"fulltext_url" : "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01736.x/pdf",
+			"genre" : "article",
+			"has_fulltext_url" : true,
+			"id" : "JKybmNnzw3",
+			"journal" : "Journal of Applied Ecology",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Brazil" : 0.06,
+					"Canada" : 0.12,
+					"France" : 0.06,
+					"India" : 0.12,
+					"New Zealand" : 0.06,
+					"Spain" : 0.12,
+					"Switzerland" : 0.06,
+					"United Kingdom" : 0.06,
+					"United States" : 0.35
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.19,
+					"Masters Student" : 0.18,
+					"Other" : 0.02,
+					"PhD Student" : 0.33,
+					"Researcher" : 0.27,
+					"Undergrad Student" : 0.01
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/identifying-hotspots-plant-invasions-forecasting-focal-points-further-spread",
+				"readers" : 89,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.61,
+					"Business, Management and Accounting" : 0.01,
+					"Earth and Planetary Sciences" : 0.04,
+					"Engineering" : 0.01,
+					"Environmental Science" : 0.25,
+					"Mathematics" : 0.01,
+					"Social Sciences" : 0.01,
+					"Unspecified" : 0.06
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Identifying hotspots for plant invasions and forecasting focal points of further spread",
+			"url" : "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
+			"year" : "2009",
+			"citations" : 55,
+			"citationlink" : "10471541810207926754"
+		},
+		{
+			"_title" : "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : null,
+			"doi" : "10.1016/j.gloplacha.2012.11.003",
+			"events_last_week_count" : 0,
+			"fulltext_url" : "http://hdl.handle.net/2060/20140010385",
+			"genre" : "article",
+			"has_fulltext_url" : true,
+			"id" : "bsbgeb0ycg",
+			"journal" : "Global and Planetary Change",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Belgium" : 0.05,
+					"Brazil" : 0.1,
+					"Canada" : 0.29,
+					"Colombia" : 0.05,
+					"France" : 0.05,
+					"Iran" : 0.05,
+					"Italy" : 0.05,
+					"Malaysia" : 0.05,
+					"Norway" : 0.05,
+					"United Kingdom" : 0.05,
+					"United States" : 0.24
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.03,
+					"Librarian" : 0.01,
+					"Masters Student" : 0.15,
+					"Other" : 0.06,
+					"PhD Student" : 0.44,
+					"Researcher" : 0.27,
+					"Undergrad Student" : 0.01,
+					"Unspecified" : 0.03
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north-3",
+				"readers" : 149,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.07,
+					"Computer Science" : 0.01,
+					"Earth and Planetary Sciences" : 0.34,
+					"Economics, Econometrics and Finance" : 0.01,
+					"Engineering" : 0.27,
+					"Environmental Science" : 0.21,
+					"Mathematics" : 0.02,
+					"Physics and Astronomy" : 0.01,
+					"Social Sciences" : 0.01,
+					"Unspecified" : 0.05
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+			"url" : "http://doi.org/10.1016/j.gloplacha.2012.11.003",
+			"year" : "2013",
+			"citations" : null,
+			"citationlink" : null
+		},
+		{
+			"_title" : "Are there spurious precipitation trends in the United States Climate Division database?",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Keim, B.D., Fischer, M.R., Wilson, A.M.",
+			"doi" : "10.1029/2004gl021985",
+			"events_last_week_count" : 0,
+			"fulltext_url" : "http://onlinelibrary.wiley.com/doi/10.1029/2004GL021985/pdf",
+			"genre" : "article",
+			"has_fulltext_url" : true,
+			"id" : "j2s7944t9t",
+			"journal" : "Geophysical Research Letters",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Philippines" : 0.33,
+					"United States" : 0.67
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.12,
+					"Masters Student" : 0.18,
+					"Other" : 0.06,
+					"PhD Student" : 0.29,
+					"Researcher" : 0.29,
+					"Undergrad Student" : 0.06
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/spurious-precipitation-trends-united-states-climate-division-database",
+				"readers" : 17,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.18,
+					"Arts and Humanities" : 0.06,
+					"Biochemistry, Genetics and Molecular Biology" : 0.06,
+					"Business, Management and Accounting" : 0.06,
+					"Earth and Planetary Sciences" : 0.24,
+					"Engineering" : 0.06,
+					"Environmental Science" : 0.29,
+					"Unspecified" : 0.06
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Are there spurious precipitation trends in the United States Climate Division database?",
+			"url" : "http://doi.org/10.1029/2004gl021985",
+			"year" : "2005",
+			"citations" : 44,
+			"citationlink" : "14890295198784645783"
+		},
+		{
+			"_title" : "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Xie, Y., Ahmed, K.F., Allen, J.M., Wilson, A.M., Silander, J.A.",
+			"doi" : "10.1007/s10980-014-0099-7",
+			"events_last_week_count" : 0,
+			"fulltext_url" : null,
+			"genre" : "article",
+			"has_fulltext_url" : false,
+			"id" : "nYo9KWVEWP",
+			"journal" : "Landscape Ecology",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"South Africa" : 1
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.33,
+					"Masters Student" : 0.33,
+					"Researcher" : 0.33
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/greenup-deciduous-forest-communities-northeastern-north-america-response-climate-variation-climate-c-7",
+				"readers" : 3,
+				"subdiscipline_percent" : {
+					"Environmental Science" : 1
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
+			"url" : "http://doi.org/10.1007/s10980-014-0099-7",
+			"year" : "2015",
+			"citations" : 7,
+			"citationlink" : "15216572920139885688"
+		},
+		{
+			"_title" : "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "De Klerk, H.M., Wilson, A.M., Steenkamp, K.",
+			"doi" : "10.1071/wf11002",
+			"events_last_week_count" : 0,
+			"fulltext_url" : "http://scholar.sun.ac.za/bitstream/10019.1/98979/1/deklerk_evaluation_2011.pdf",
+			"genre" : "article",
+			"has_fulltext_url" : true,
+			"id" : "w96eeh585x",
+			"journal" : "International Journal of Wildland Fire",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"South Africa" : 1
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.25,
+					"Masters Student" : 0.19,
+					"PhD Student" : 0.31,
+					"Researcher" : 0.25
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/evaluation-satellitederived-burned-area-products-fynbos-mediterranean-shrubland",
+				"readers" : 16,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.38,
+					"Computer Science" : 0.06,
+					"Earth and Planetary Sciences" : 0.06,
+					"Engineering" : 0.06,
+					"Environmental Science" : 0.38,
+					"Social Sciences" : 0.06
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
+			"url" : "http://doi.org/10.1071/wf11002",
+			"year" : "2012",
+			"citations" : 10,
+			"citationlink" : "17040391350078868441"
+		},
+		{
+			"_title" : "A new class of flexible link functions with application to species co-occurrence in Cape Floristic Region",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Jiang, X., Dey, D.K., Prunier, R., Wilson, A.M., Holsinger, K.E.",
+			"doi" : "10.1214/13-aoas663",
+			"events_last_week_count" : 0,
+			"fulltext_url" : null,
+			"genre" : "article",
+			"has_fulltext_url" : false,
+			"id" : "DgYzD64X5S",
+			"journal" : "Annals of Applied Statistics",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {
+					"Germany" : 0.25,
+					"South Africa" : 0.25,
+					"United States" : 0.5
+				},
+				"job_title_percent" : {
+					"Faculty" : 0.12,
+					"Masters Student" : 0.06,
+					"Other" : 0.06,
+					"PhD Student" : 0.47,
+					"Researcher" : 0.29
+				},
+				"mendeley_url" : "http://www.mendeley.com/research/new-class-flexible-link-functions-application-species-cooccurrence-cape-floristic-region",
+				"readers" : 17,
+				"subdiscipline_percent" : {
+					"Agricultural and Biological Sciences" : 0.47,
+					"Economics, Econometrics and Finance" : 0.18,
+					"Mathematics" : 0.18,
+					"Social Sciences" : 0.18
+				}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "A new class of flexible link functions with application to species co-occurrence in Cape Floristic Region",
+			"url" : "http://doi.org/10.1214/13-aoas663",
+			"year" : "2013",
+			"citations" : 13,
+			"citationlink" : "2162574719024066393"
+		},
+		{
+			"_title" : "An Introduction to R for Spatial Analysis and Mapping, by Chris Brunsdon and Lex Comber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : "Jared Aldstadt, Adam M. Wilson",
+			"doi" : "10.1111/jors.12271",
+			"events_last_week_count" : 0,
+			"fulltext_url" : null,
+			"genre" : "article",
+			"has_fulltext_url" : false,
+			"id" : "hZbw6cX6CZ",
+			"journal" : "Journal of Regional Science",
+			"license" : null,
+			"mendeley" : {
+				"country_percent" : {},
+				"job_title_percent" : {},
+				"mendeley_url" : null,
+				"readers" : 0,
+				"subdiscipline_percent" : {}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "An Introduction to R for Spatial Analysis and Mapping, by Chris Brunsdon and Lex Comber. 2015. London: Sage Publication Ltd. 343 + xii. ISBN: 9781446272954. $52.00.",
+			"url" : "http://doi.org/10.1111/jors.12271",
+			"year" : "2016",
+			"citations" : 0,
+			"citationlink" : null
+		},
+		{
+			"_title" : "From imperfection to inference: issues of scale and uncertainty in global change biology",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : null,
+			"doi" : "10.6084/m9.figshare.947682",
+			"events_last_week_count" : 0,
+			"fulltext_url" : "http://doi.org/10.6084/m9.figshare.947682",
+			"genre" : "dataset",
+			"has_fulltext_url" : true,
+			"id" : "zzqjav7v39",
+			"journal" : null,
+			"license" : "cc-by",
+			"mendeley" : {
+				"country_percent" : {},
+				"job_title_percent" : {},
+				"mendeley_url" : null,
+				"readers" : 0,
+				"subdiscipline_percent" : {}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "From imperfection to inference: issues of scale and uncertainty in global change biology",
+			"url" : "http://doi.org/10.6084/m9.figshare.947682",
+			"year" : "2014",
+			"citations" : null,
+			"citationlink" : null
+		},
+		{
+			"_title" : "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
+			"altmetric_id" : null,
+			"altmetric_score" : 0,
+			"authors" : null,
+			"doi" : "10.6084/m9.figshare.951959",
+			"events_last_week_count" : 0,
+			"fulltext_url" : "http://doi.org/10.6084/m9.figshare.951959",
+			"genre" : "dataset",
+			"has_fulltext_url" : true,
+			"id" : "ozdof31n7f",
+			"journal" : null,
+			"license" : "cc-by",
+			"mendeley" : {
+				"country_percent" : {},
+				"job_title_percent" : {},
+				"mendeley_url" : null,
+				"readers" : 0,
+				"subdiscipline_percent" : {}
+			},
+			"num_mentions" : 0,
+			"num_posts" : 0,
+			"orcid_id" : "0000-0003-3362-7806",
+			"posts" : [],
+			"sources" : [],
+			"title" : "Incorporating satellite derived cloud climatologies to improve high resolution interpolation of daily precipitation",
+			"url" : "http://doi.org/10.6084/m9.figshare.951959",
+			"year" : "2014",
+			"citations" : 0,
+			"citationlink" : null
+		},
+		{
 			"_title" : "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
 			"altmetric_id" : "5777116",
 			"altmetric_score" : 0,
@@ -7141,9 +7535,11 @@
 			"sources" : [],
 			"title" : "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
 			"url" : "http://doi.org/10.1214/10-aoas335",
-			"year" : "2010"
+			"year" : "2010",
+			"citations" : null,
+			"citationlink" : null
 		},
-		"" : {
+		{
 			"_title" : "Point pattern modelling for degraded presence-only data over large regions",
 			"altmetric_id" : null,
 			"altmetric_score" : 0,
@@ -7206,9 +7602,11 @@
 			"sources" : [],
 			"title" : "Point pattern modelling for degraded presence-only data over large regions",
 			"url" : "http://doi.org/10.1111/j.1467-9876.2011.01023.x",
-			"year" : "2011"
+			"year" : "2011",
+			"citations" : 56,
+			"citationlink" : "16361492880824597870"
 		},
-		"" : {
+		{
 			"_title" : "Global 2009 1km MODIS (MOD35/MOD09) cloud frequency and MOD35 processing path, supplement to: Wilson, Adam M; Parmentier, Benoit; Walter, Jetz (2013): Systematic landcover bias in collection 5 MODIS cloud mask and derived products - a global overview. Remote Sensing of Environment, conditionally accept",
 			"altmetric_id" : null,
 			"altmetric_score" : 0,
@@ -7235,9 +7633,11 @@
 			"sources" : [],
 			"title" : "Global 2009 1km MODIS (MOD35/MOD09) cloud frequency and MOD35 processing path, supplement to: Wilson, Adam M; Parmentier, Benoit; Walter, Jetz (2013): Systematic landcover bias in collection 5 MODIS cloud mask and derived products - a global overview. Remote Sensing of Environment, conditionally accept",
 			"url" : "http://doi.org/10.1594/pangaea.820938",
-			"year" : "2013"
+			"year" : "2013",
+			"citations" : null,
+			"citationlink" : null
 		},
-		"" : {
+		{
 			"_title" : "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum Air Temperature",
 			"altmetric_id" : null,
 			"altmetric_score" : 0,
@@ -7285,9 +7685,11 @@
 			"sources" : [],
 			"title" : "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum Air Temperature",
 			"url" : "http://doi.org/10.3390/rs6098639",
-			"year" : "2014"
+			"year" : "2014",
+			"citations" : 9,
+			"citationlink" : "17962076558487628612"
 		},
-		"" : {
+		{
 			"_title" : "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products — A global overview",
 			"altmetric_id" : null,
 			"altmetric_score" : 0,
@@ -7333,9 +7735,11 @@
 			"sources" : [],
 			"title" : "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products — A global overview",
 			"url" : "http://doi.org/10.1016/j.rse.2013.10.025",
-			"year" : "2014"
+			"year" : "2014",
+			"citations" : 27,
+			"citationlink" : "13563037565281892751"
 		},
-		"" : {
+		{
 			"_title" : "Are there spurious temperature trends in the United States Climate Division database?",
 			"altmetric_id" : null,
 			"altmetric_score" : 0,
@@ -7383,419 +7787,11 @@
 			"sources" : [],
 			"title" : "Are there spurious temperature trends in the United States Climate Division database?",
 			"url" : "http://doi.org/10.1029/2002gl016295",
-			"year" : "2003"
-		},
-		"" : {
-			"_title" : "Slingsby_TaylorPlots",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Jasper Slingsby, Cory Merow, Matthew Aiello-lammens, Nicky Allsopp, Stuart Hall, Hayley Kilroy Mollmann, Ross Turner, Adam Wilson, John Silander",
-			"doi" : "10.6084/m9.figshare.4737358",
-			"events_last_week_count" : 0,
-			"fulltext_url" : null,
-			"genre" : "dataset",
-			"has_fulltext_url" : false,
-			"id" : "RWnPKsFmuW",
-			"journal" : "Figshare",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {},
-				"job_title_percent" : {},
-				"mendeley_url" : null,
-				"readers" : 0,
-				"subdiscipline_percent" : {}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Slingsby_TaylorPlots",
-			"url" : "http://doi.org/10.6084/m9.figshare.4737358",
-			"year" : "2017"
-		},
-		"" : {
-			"_title" : "Estimating uncertainty in daily weather interpolations: A Bayesian framework for developing climate surfaces",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Wilson, A.M., Silander, J.A.",
-			"doi" : "10.1002/joc.3859",
-			"events_last_week_count" : 0,
-			"fulltext_url" : null,
-			"genre" : "article",
-			"has_fulltext_url" : false,
-			"id" : "9W6g8mURms",
-			"journal" : "International Journal of Climatology",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Brazil" : 0.2,
-					"Spain" : 0.2,
-					"United Kingdom" : 0.2,
-					"United States" : 0.4
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.06,
-					"Masters Student" : 0.32,
-					"PhD Student" : 0.38,
-					"Researcher" : 0.18,
-					"Undergrad Student" : 0.03,
-					"Unspecified" : 0.03
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/estimating-uncertainty-daily-weather-interpolations-bayesian-framework-developing-climate-surfaces",
-				"readers" : 34,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.18,
-					"Computer Science" : 0.09,
-					"Earth and Planetary Sciences" : 0.15,
-					"Engineering" : 0.12,
-					"Environmental Science" : 0.32,
-					"Mathematics" : 0.03,
-					"Physics and Astronomy" : 0.03,
-					"Unspecified" : 0.09
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Estimating uncertainty in daily weather interpolations: A Bayesian framework for developing climate surfaces",
-			"url" : "http://doi.org/10.1002/joc.3859",
-			"year" : "2014"
-		},
-		"" : {
-			"_title" : "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Merow, C",
-			"doi" : "10.1086/660295",
-			"events_last_week_count" : 0,
-			"fulltext_url" : null,
-			"genre" : "article",
-			"has_fulltext_url" : false,
-			"id" : "FpMvX3HAmw",
-			"journal" : "American Naturalist",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Australia" : 0.06,
-					"Brazil" : 0.18,
-					"Canada" : 0.09,
-					"Finland" : 0.03,
-					"Germany" : 0.06,
-					"Spain" : 0.09,
-					"Switzerland" : 0.09,
-					"United States" : 0.36,
-					"Venezuela" : 0.03
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.12,
-					"Masters Student" : 0.15,
-					"Other" : 0.05,
-					"PhD Student" : 0.33,
-					"Researcher" : 0.32,
-					"Undergrad Student" : 0.04
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/developing-dynamic-mechanistic-species-distribution-models-predicting-birdmediated-spread-invasive-p",
-				"readers" : 107,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.61,
-					"Computer Science" : 0.01,
-					"Earth and Planetary Sciences" : 0.03,
-					"Environmental Science" : 0.31,
-					"Unspecified" : 0.05
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
-			"url" : "http://doi.org/10.1086/660295",
-			"year" : "2011"
-		},
-		"" : {
-			"_title" : "Identifying hotspots for plant invasions and forecasting focal points of further spread",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Ibanez, I",
-			"doi" : "10.1111/j.1365-2664.2009.01736.x",
-			"events_last_week_count" : 0,
-			"fulltext_url" : "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01736.x/pdf",
-			"genre" : "article",
-			"has_fulltext_url" : true,
-			"id" : "JKybmNnzw3",
-			"journal" : "Journal of Applied Ecology",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Brazil" : 0.06,
-					"Canada" : 0.12,
-					"France" : 0.06,
-					"India" : 0.12,
-					"New Zealand" : 0.06,
-					"Spain" : 0.12,
-					"Switzerland" : 0.06,
-					"United Kingdom" : 0.06,
-					"United States" : 0.35
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.19,
-					"Masters Student" : 0.18,
-					"Other" : 0.02,
-					"PhD Student" : 0.33,
-					"Researcher" : 0.27,
-					"Undergrad Student" : 0.01
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/identifying-hotspots-plant-invasions-forecasting-focal-points-further-spread",
-				"readers" : 89,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.61,
-					"Business, Management and Accounting" : 0.01,
-					"Earth and Planetary Sciences" : 0.04,
-					"Engineering" : 0.01,
-					"Environmental Science" : 0.25,
-					"Mathematics" : 0.01,
-					"Social Sciences" : 0.01,
-					"Unspecified" : 0.06
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Identifying hotspots for plant invasions and forecasting focal points of further spread",
-			"url" : "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
-			"year" : "2009"
-		},
-		"" : {
-			"_title" : "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : null,
-			"doi" : "10.1016/j.gloplacha.2012.11.003",
-			"events_last_week_count" : 0,
-			"fulltext_url" : "http://hdl.handle.net/2060/20140010385",
-			"genre" : "article",
-			"has_fulltext_url" : true,
-			"id" : "bsbgeb0ycg",
-			"journal" : "Global and Planetary Change",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Belgium" : 0.05,
-					"Brazil" : 0.1,
-					"Canada" : 0.29,
-					"Colombia" : 0.05,
-					"France" : 0.05,
-					"Iran" : 0.05,
-					"Italy" : 0.05,
-					"Malaysia" : 0.05,
-					"Norway" : 0.05,
-					"United Kingdom" : 0.05,
-					"United States" : 0.24
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.03,
-					"Librarian" : 0.01,
-					"Masters Student" : 0.15,
-					"Other" : 0.06,
-					"PhD Student" : 0.44,
-					"Researcher" : 0.27,
-					"Undergrad Student" : 0.01,
-					"Unspecified" : 0.03
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north-3",
-				"readers" : 149,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.07,
-					"Computer Science" : 0.01,
-					"Earth and Planetary Sciences" : 0.34,
-					"Economics, Econometrics and Finance" : 0.01,
-					"Engineering" : 0.27,
-					"Environmental Science" : 0.21,
-					"Mathematics" : 0.02,
-					"Physics and Astronomy" : 0.01,
-					"Social Sciences" : 0.01,
-					"Unspecified" : 0.05
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-			"url" : "http://doi.org/10.1016/j.gloplacha.2012.11.003",
-			"year" : "2013"
-		},
-		"" : {
-			"_title" : "Are there spurious precipitation trends in the United States Climate Division database?",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Keim, B.D., Fischer, M.R., Wilson, A.M.",
-			"doi" : "10.1029/2004gl021985",
-			"events_last_week_count" : 0,
-			"fulltext_url" : "http://onlinelibrary.wiley.com/doi/10.1029/2004GL021985/pdf",
-			"genre" : "article",
-			"has_fulltext_url" : true,
-			"id" : "j2s7944t9t",
-			"journal" : "Geophysical Research Letters",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"Philippines" : 0.33,
-					"United States" : 0.67
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.12,
-					"Masters Student" : 0.18,
-					"Other" : 0.06,
-					"PhD Student" : 0.29,
-					"Researcher" : 0.29,
-					"Undergrad Student" : 0.06
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/spurious-precipitation-trends-united-states-climate-division-database",
-				"readers" : 17,
-				"subdiscipline_percent" : {
-					"Agricultural and Biological Sciences" : 0.18,
-					"Arts and Humanities" : 0.06,
-					"Biochemistry, Genetics and Molecular Biology" : 0.06,
-					"Business, Management and Accounting" : 0.06,
-					"Earth and Planetary Sciences" : 0.24,
-					"Engineering" : 0.06,
-					"Environmental Science" : 0.29,
-					"Unspecified" : 0.06
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Are there spurious precipitation trends in the United States Climate Division database?",
-			"url" : "http://doi.org/10.1029/2004gl021985",
-			"year" : "2005"
-		},
-		"" : {
-			"_title" : "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
-			"altmetric_id" : null,
-			"altmetric_score" : 0,
-			"authors" : "Xie, Y., Ahmed, K.F., Allen, J.M., Wilson, A.M., Silander, J.A.",
-			"doi" : "10.1007/s10980-014-0099-7",
-			"events_last_week_count" : 0,
-			"fulltext_url" : null,
-			"genre" : "article",
-			"has_fulltext_url" : false,
-			"id" : "nYo9KWVEWP",
-			"journal" : "Landscape Ecology",
-			"license" : null,
-			"mendeley" : {
-				"country_percent" : {
-					"South Africa" : 1
-				},
-				"job_title_percent" : {
-					"Faculty" : 0.33,
-					"Masters Student" : 0.33,
-					"Researcher" : 0.33
-				},
-				"mendeley_url" : "http://www.mendeley.com/research/greenup-deciduous-forest-communities-northeastern-north-america-response-climate-variation-climate-c-7",
-				"readers" : 3,
-				"subdiscipline_percent" : {
-					"Environmental Science" : 1
-				}
-			},
-			"num_mentions" : 0,
-			"num_posts" : 0,
-			"orcid_id" : "0000-0003-3362-7806",
-			"posts" : [],
-			"sources" : [],
-			"title" : "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
-			"url" : "http://doi.org/10.1007/s10980-014-0099-7",
-			"year" : "2015"
-		},
-		"citations" : [
-			23,
-			4,
-			0,
-			6,
-			null,
-			9,
-			7,
-			2,
-			45,
-			2,
-			12,
-			99,
-			69,
-			84,
-			37,
-			48,
-			149,
-			8,
-			10,
-			13,
-			0,
-			null,
-			0,
-			13,
-			null,
-			56,
-			null,
-			9,
-			27,
-			65,
-			null,
-			16,
-			44,
-			55,
-			null,
-			44,
-			7
-		],
-		"citationlink" : [
-			"2210894244204244525",
-			"2538076968072773354",
-			null,
-			"7262640301241929829",
-			null,
-			"834067950490850962",
-			"14349399844322329686",
-			"17832906044735692584",
-			"12652666495545664808",
-			"8347424790761169174",
-			"17984584479707219233",
-			"11539854097788409446",
-			"13627242760666690959",
-			"10722199125945852415",
-			"5979909871313787952",
-			"18256647831510752324",
-			"62062424245765126",
-			"15702577810729029249",
-			"17040391350078868441",
-			"2162574719024066393",
-			null,
-			null,
-			null,
-			"14666785862283525109",
-			null,
-			"16361492880824597870",
-			null,
-			"17962076558487628612",
-			"13563037565281892751",
-			"15564411114484490165",
-			null,
-			"7850685944087463273",
-			"12982824833770251112",
-			"10471541810207926754",
-			null,
-			"14890295198784645783",
-			"15216572920139885688"
-		]
-	},
+			"year" : "2003",
+			"citations" : 65,
+			"citationlink" : "15564411114484490165"
+		}
+	],
 	"promos" : {},
 	"sources" : [
 		{
@@ -7872,5 +7868,5 @@
 		}
 	],
 	"twitter" : "AdamWilsonLab",
-	"updated" : "2017-09-11 03:06:43.327113+00:00"
+	"updated" : "2017-09-12 03:16:44.214041+00:00"
 }

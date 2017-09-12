@@ -5,12 +5,6 @@ slides:
     title: Wilson Lab
     tagline: Global Environmental Change <br> Department of Geography <br> University at Buffalo, Buffalo NY
     buttons:
-#    - text: Publications
-#      class: small
-#      url: https://scholar.google.com/citations?user=zgVlijsAAAAJ&hl=en
-#    - text: purchase now
-#      class: small boxed
-#      url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 
 members:
   - avatar: images/photo/Wilson.jpg
@@ -36,16 +30,17 @@ members:
       - url: http://twitter.com/Chenyang_Wei
         icon: twitter
     desc: Ecology, remote sensing, and geographic information science
-  - avatar: images/photo/kaminski.jpg
-    name: Larry Kaminski
-    position: Evolution, Ecology, and Behavior MSc. Student
-    socials:
-    desc: Remote sensing and ecological modeling
   - avatar: images/photo/chen.jpg
     name: Yating Chen
     position: Geography MSc. Student
     socials:
     desc: Climate change and geography
+former_members:
+  - avatar: images/photo/kaminski.jpg
+    name: Larry Kaminski
+    position: Former Evolution, Ecology, and Behavior MSc. Student
+    socials:
+    desc: Remote sensing and ecological modeling
 socials:
   - title: Twitter
     text: Connect with us on twitter
@@ -140,7 +135,6 @@ socials:
         <p class='centered-text'>
           <a class='button' href='http://scholar.google.com/citations?user=zgVlijsAAAAJ&amp' target="_blank">View publications and scholarly impact with Google Scholar</a><br>
           <a class='button' href='https://impactstory.org/u/0000-0003-3362-7806' target="_blank">View online impact with ImpactStory</a><br>
-
           <a href="http://orcid.org/0000-0003-3362-7806" target="_blank"><img alt="OrcID" src="http://orcid.org/sites/all/themes/orcid/img/orcid-logo.png" width="200px" /></a>
         </p>
       </div>
@@ -214,6 +208,43 @@ socials:
     </div>
     {% endfor %}
   </div>
+
+
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html class="alt" title="Former Lab Members" %}
+    </div>
+  </div>
+
+  <div class='row'>
+    {% for member in page.former_members %}
+    <div class='small-6 medium-3 large-3 columns'>
+      <div class='mod modTeamMember style-2'>
+        <div class='member'>
+          <img class="avatar" width="250" height="250" alt="" src="{{member.avatar}}" />
+          <div class='overlay'>
+            <ul class='socials'>
+              {% for social in member.socials %}
+              <li>
+                <a href='{{social.url}}'>
+                  <i class='fa fa-{{social.icon}}'></i>
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        <h3>{{member.name}}</h3>
+        <p class='position'>{{member.position}}</p>
+        <p>{{member.desc}}</p>
+        <div class='two spacing'></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+
+
   <div class='three spacing'></div>
 </div>
 <a id='contact'></a>
