@@ -1,5 +1,5 @@
 library(scholar)
-library(jsonlite)
+library(tidyjson)
 library(stringdist)
 library(stringr)
 
@@ -11,11 +11,21 @@ pubs$title=as.character(pubs$title)
 ## Download impactstory information
 download.file("https://impactstory.org/api/person/0000-0003-3362-7806.json",
               destfile = "_data/is.json")
+is=read_json("_data/is.json")
 
-is=fromJSON("_data/is.json")
+validate(toJSON(is))
 
-  ## Get fuzzy string matches
-dm=stringdistmatrix(sapply(is$products,function(x) x[["title"]]),
+is2=is%>%
+  spread_values(products=jstring("products"))%>%
+  enter_object("products")%>%
+  gather_array()%>%
+  str()
+  
+
+
+
+## Get fuzzy string matches
+dm=stringdistmatrix(is$products$title,
                     pubs$title)
 dm_min=apply(dm,
              1,
@@ -42,13 +52,13 @@ is$products$citationlink=as.character(pubs$cid[dm2])
 #lapply(is$products$posts,function(x) 
 
 # clean up json
-is_out=toJSON(is,auto_unbox=T,pretty=T)
-is_out=enc2native(is_out)
-is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
-is_out=gsub("[\\]","",is_out)
-is_out=gsub("href=\"","href='",is_out)
-is_out=gsub("\"\"","",is_out)
-is_out=gsub("\">","'>",is_out)
+is_out=toJSON(is,auto_unbox=T,pretty=T,force=T)
+#is_out=enc2native(is_out)
+#is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
+#is_out=gsub("[\\]","",is_out)
+#is_out=gsub("href=\"","href='",is_out)
+#is_out=gsub("\"\"","",is_out)
+#is_out=gsub("\">","'>",is_out)
 
 if(!validate(is_out)) stop("JSON is not valid")
 
