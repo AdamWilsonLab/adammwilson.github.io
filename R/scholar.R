@@ -30,20 +30,20 @@ dm2=apply(dm,
 dm2[dm_min>15]=NA
 
 if(F){
-for(i in 1:length(is$products$title)){
+for(i in 1:length(is$products)){
   writeLines(paste(i,":    ",dm_min[i]))
   writeLines(pubs$title[dm2][i])
-  writeLines(is$products$title[i])
+  writeLines(is$products[[i]]$title)
 }
 }
 
   for(i in 1:length(is$products)){
-    is$products[[i]]$citations=pubs$cites[dm2][i]
+    is$products[[i]]$citations=ifelse(is.na(pubs$cites[dm2][i]),
+                                      0,pubs$cites[dm2][i])
     is$products[[i]]$citationlink=as.character(pubs$cid[dm2])[i]
-    lapply(is$products[[i]]$posts,function(x) {
-      for(l in 1:length(x)) x$title=NULL
-    })
-      }
+    for(l in 1:length(is$products[[i]]$posts)){
+      is$products[[i]]$posts[l]$title=NULL}
+    }
 
 
 #remove problematic parts of pubs list

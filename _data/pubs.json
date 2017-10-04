@@ -4419,7 +4419,7 @@
       "title": "Wikipedia Content Volatility",
       "url": "http://doi.org/10.6084/m9.figshare.1397533",
       "year": "2015",
-      "citations": "NA",
+      "citations": 0,
       "citationlink": null
     },
     {
@@ -6137,7 +6137,7 @@
       "title": "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
       "url": "http://doi.org/10.1214/10-aoas335",
       "year": "2010",
-      "citations": "NA",
+      "citations": 0,
       "citationlink": null
     },
     {
@@ -6510,7 +6510,7 @@
       "title": "From imperfection to inference: issues of scale and uncertainty in global change biology",
       "url": "http://doi.org/10.6084/m9.figshare.947682",
       "year": "2014",
-      "citations": "NA",
+      "citations": 0,
       "citationlink": null
     },
     {
@@ -6664,7 +6664,7 @@
       "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
       "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
       "year": "2013",
-      "citations": "NA",
+      "citations": 0,
       "citationlink": null
     },
     {
@@ -6766,7 +6766,7 @@
       "title": "Global 2009 1km MODIS (MOD35/MOD09) cloud frequency and MOD35 processing path, supplement to: Wilson, Adam M; Parmentier, Benoit; Walter, Jetz (2013): Systematic landcover bias in collection 5 MODIS cloud mask and derived products - a global overview. Remote Sensing of Environment, conditionally accept",
       "url": "http://doi.org/10.1594/pangaea.820938",
       "year": "2013",
-      "citations": "NA",
+      "citations": 0,
       "citationlink": null
     },
     {
@@ -6907,7 +6907,7 @@
       "title": "Slingsby_TaylorPlots",
       "url": "http://doi.org/10.6084/m9.figshare.4737358",
       "year": "2017",
-      "citations": "NA",
+      "citations": 0,
       "citationlink": null
     }
   ],
