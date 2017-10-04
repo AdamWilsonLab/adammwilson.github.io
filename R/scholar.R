@@ -42,6 +42,11 @@ for(i in 1:length(is$products$title)){
     is$products[[i]]$citationlink=as.character(pubs$cid[dm2])[i]
       }
 
+
+#remove problematic parts of pubs list
+is$badges=NULL
+
+
 #is$products$citations=pubs$cites[dm2]
 #is$products$citationlink=as.character(pubs$cid[dm2])
 
