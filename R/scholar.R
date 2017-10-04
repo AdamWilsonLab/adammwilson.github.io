@@ -40,12 +40,15 @@ for(i in 1:length(is$products$title)){
   for(i in 1:length(is$products)){
     is$products[[i]]$citations=pubs$cites[dm2][i]
     is$products[[i]]$citationlink=as.character(pubs$cid[dm2])[i]
+    lapply(is$products[[i]]$posts,function(x) {
+      for(l in 1:length(x)) x$title=NULL
+    })
       }
 
 
 #remove problematic parts of pubs list
 is$badges=NULL
-
+is$overview_badges=NULL
 
 #is$products$citations=pubs$cites[dm2]
 #is$products$citationlink=as.character(pubs$cid[dm2])

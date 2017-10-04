@@ -2093,10 +2093,10 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "News mentions",
+          "display_name": "Google+ posts",
           "events_last_week_count": 0,
-          "posts_count": 38,
-          "source_name": "news"
+          "posts_count": 4,
+          "source_name": "googleplus"
         },
         {
           "display_name": "Tweets",
@@ -2117,10 +2117,10 @@
           "source_name": "reddit"
         },
         {
-          "display_name": "Google+ posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 4,
-          "source_name": "googleplus"
+          "posts_count": 38,
+          "source_name": "news"
         }
       ],
       "title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
@@ -4142,10 +4142,10 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "News mentions",
+          "display_name": "Google+ posts",
           "events_last_week_count": 0,
-          "posts_count": 15,
-          "source_name": "news"
+          "posts_count": 3,
+          "source_name": "googleplus"
         },
         {
           "display_name": "Tweets",
@@ -4166,10 +4166,10 @@
           "source_name": "reddit"
         },
         {
-          "display_name": "Google+ posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 3,
-          "source_name": "googleplus"
+          "posts_count": 15,
+          "source_name": "news"
         }
       ],
       "title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
@@ -4533,12 +4533,6 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "News mentions",
-          "events_last_week_count": 0,
-          "posts_count": 4,
-          "source_name": "news"
-        },
-        {
           "display_name": "Tweets",
           "events_last_week_count": 0,
           "posts_count": 29,
@@ -4549,6 +4543,12 @@
           "events_last_week_count": 0,
           "posts_count": 1,
           "source_name": "blogs"
+        },
+        {
+          "display_name": "News mentions",
+          "events_last_week_count": 0,
+          "posts_count": 4,
+          "source_name": "news"
         }
       ],
       "title": "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
@@ -4787,10 +4787,10 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "News mentions",
+          "display_name": "Google+ posts",
           "events_last_week_count": 0,
-          "posts_count": 3,
-          "source_name": "news"
+          "posts_count": 1,
+          "source_name": "googleplus"
         },
         {
           "display_name": "Tweets",
@@ -4805,10 +4805,10 @@
           "source_name": "blogs"
         },
         {
-          "display_name": "Google+ posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "googleplus"
+          "posts_count": 3,
+          "source_name": "news"
         }
       ],
       "title": "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa",
@@ -4906,10 +4906,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Google+ posts",
           "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "news"
+          "posts_count": 2,
+          "source_name": "googleplus"
         },
         {
           "display_name": "Tweets",
@@ -4924,10 +4924,10 @@
           "source_name": "blogs"
         },
         {
-          "display_name": "Google+ posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 2,
-          "source_name": "googleplus"
+          "posts_count": 1,
+          "source_name": "news"
         }
       ],
       "title": "Wikipedia Content Volatility",
@@ -6511,37 +6511,6 @@
       "citationlink": "15702577810729029249"
     },
     {
-      "_title": "Slingsby_TaylorPlots",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": "Jasper Slingsby, Cory Merow, Matthew Aiello-lammens, Nicky Allsopp, Stuart Hall, Hayley Kilroy Mollmann, Ross Turner, Adam Wilson, John Silander",
-      "doi": "10.6084/m9.figshare.4737358",
-      "events_last_week_count": 0,
-      "fulltext_url": {},
-      "genre": "dataset",
-      "has_fulltext_url": false,
-      "id": "RWnPKsFmuW",
-      "journal": "Figshare",
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [],
-      "sources": [],
-      "title": "Slingsby_TaylorPlots",
-      "url": "http://doi.org/10.6084/m9.figshare.4737358",
-      "year": "2017",
-      "citations": "NA",
-      "citationlink": null
-    },
-    {
       "_title": "Estimating uncertainty in daily weather interpolations: A Bayesian framework for developing climate surfaces",
       "altmetric_id": {},
       "altmetric_score": 0,
@@ -7462,6 +7431,37 @@
       "year": "2003",
       "citations": 65,
       "citationlink": "15564411114484490165"
+    },
+    {
+      "_title": "Slingsby_TaylorPlots",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": "Jasper Slingsby, Cory Merow, Matthew Aiello-lammens, Nicky Allsopp, Stuart Hall, Hayley Kilroy Mollmann, Ross Turner, Adam Wilson, John Silander",
+      "doi": "10.6084/m9.figshare.4737358",
+      "events_last_week_count": 0,
+      "fulltext_url": {},
+      "genre": "dataset",
+      "has_fulltext_url": false,
+      "id": "RWnPKsFmuW",
+      "journal": "Figshare",
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [],
+      "sources": [],
+      "title": "Slingsby_TaylorPlots",
+      "url": "http://doi.org/10.6084/m9.figshare.4737358",
+      "year": "2017",
+      "citations": "NA",
+      "citationlink": null
     }
   ],
   "promos": {},
@@ -7473,16 +7473,22 @@
       "source_name": "facebook"
     },
     {
-      "display_name": "News mentions",
+      "display_name": "Google+ posts",
       "events_last_week_count": 0,
-      "posts_count": 61,
-      "source_name": "news"
+      "posts_count": 10,
+      "source_name": "googleplus"
     },
     {
       "display_name": "Tweets",
       "events_last_week_count": 0,
       "posts_count": 481,
       "source_name": "twitter"
+    },
+    {
+      "display_name": "F1000 reviews",
+      "events_last_week_count": 0,
+      "posts_count": 1,
+      "source_name": "f1000"
     },
     {
       "display_name": "Blog posts",
@@ -7497,22 +7503,16 @@
       "source_name": "reddit"
     },
     {
-      "display_name": "Google+ posts",
+      "display_name": "News mentions",
       "events_last_week_count": 0,
-      "posts_count": 10,
-      "source_name": "googleplus"
+      "posts_count": 61,
+      "source_name": "news"
     },
     {
       "display_name": "Public peer reviews",
       "events_last_week_count": 0,
       "posts_count": 1,
       "source_name": "peer_reviews"
-    },
-    {
-      "display_name": "F1000 reviews",
-      "events_last_week_count": 0,
-      "posts_count": 1,
-      "source_name": "f1000"
     }
   ],
   "subscores": [
