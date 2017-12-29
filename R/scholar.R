@@ -3,6 +3,7 @@ library(jsonlite)
 library(stringdist)
 library(stringr)
 library(tidyjson)
+library(jsonview)
 
 ## Download google scholar citations
 id="zgVlijsAAAAJ"
@@ -14,7 +15,9 @@ download.file("https://impactstory.org/api/person/0000-0003-3362-7806.json",
               destfile = "_data/is.json")
 
 #is=fromJSON("_data/is.json")
-is=read_json("_data/is.json")
+is=attr(read_json("_data/is.json"),which="JSON")[[1]]
+
+#json_tree_view(is)
 
   ## Get fuzzy string matches
 dm=stringdistmatrix(sapply(is$products,function(x) x[["title"]]),
