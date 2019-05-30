@@ -3,7 +3,7 @@ library(jsonlite)
 library(stringdist)
 library(stringr)
 library(tidyjson)
-library(jsonview)
+#library(jsonview)
 
 ## Download google scholar citations
 id="zgVlijsAAAAJ"
