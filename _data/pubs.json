@@ -7,18 +7,18 @@
   "claimed_at": "2016-04-11 14:59:29.656361+00:00",
   "coauthors": [
     {
-      "id": "u_isB5Xat",
-      "name": "Jasper Slingsby",
-      "num_posts": 36,
-      "orcid_id": "0000-0003-1246-1181",
-      "sort_score": 36
-    },
-    {
       "id": "0000-0003-4312-3804",
       "name": "Kent Holsinger",
-      "num_posts": 91,
+      "num_posts": 94,
       "orcid_id": "0000-0003-4312-3804",
-      "sort_score": 91
+      "sort_score": 94
+    },
+    {
+      "id": "u_isB5Xat",
+      "name": "Jasper Slingsby",
+      "num_posts": 40,
+      "orcid_id": "0000-0003-1246-1181",
+      "sort_score": 40
     }
   ],
   "created": "2016-03-01 21:22:18.408549+00:00",
@@ -83,7 +83,7 @@
       "Unspecified": 0.03
     },
     "mendeley_url": {},
-    "percent_of_products": 0.4894,
+    "percent_of_products": 0.46,
     "readers": 1735,
     "subdiscipline_percent": {
       "Agricultural and Biological Sciences": 0.43,
@@ -107,19 +107,19 @@
       "Unspecified": 0.07
     }
   },
-  "num_mentions": 184,
-  "num_orcid_products": 47,
-  "num_posts": 184,
+  "num_mentions": 185,
+  "num_orcid_products": 50,
+  "num_posts": 185,
   "num_twitter_followers": 131,
   "orcid_id": "0000-0003-3362-7806",
-  "percent_fulltext": 0.702,
-  "percent_open_license": 0.191,
+  "percent_fulltext": 0.76,
+  "percent_open_license": 0.18,
   "picture": "https://pbs.twimg.com/profile_images/378800000789335660/a4d54b2ca59a61aeec9407c77321fce9.jpeg",
   "products": [
     {
       "_title": "Metabolic asymmetry and the global diversity of marine predators",
       "altmetric_id": "54445545",
-      "altmetric_score": 365.948,
+      "altmetric_score": 365.178,
       "authors": {},
       "doi": "10.1126/science.aat4220",
       "events_last_week_count": 0,
@@ -136,10 +136,17 @@
         "readers": 0,
         "subdiscipline_percent": {}
       },
-      "num_mentions": 34,
-      "num_posts": 34,
+      "num_mentions": 35,
+      "num_posts": 35,
       "orcid_id": "0000-0003-3362-7806",
       "posts": [
+        {
+          "attribution": "TheScienceBreaker",
+          "posted_on": "2019-10-16T11:00:21+00:00",
+          "source": "blogs",
+          "title": "Sharks, Seals, and the Balance of Power at Sea",
+          "url": "https://www.thesciencebreaker.com/breaks/evolution-behaviour/sharks-seals-and-the-balance-of-power-at-sea"
+        },
         {
           "attribution": "Dynamic Ecology",
           "posted_on": "2019-02-07T13:00:54+00:00",
@@ -351,7 +358,7 @@
           "url": "http://ct.moreover.com/?a=38342493573&p=1pl&v=1&x=WXfcDIIbZQb66rIaveiVZw"
         },
         {
-          "attribution": "Channel NewsAsia",
+          "attribution": "Channel News Asia CNA",
           "posted_on": "2019-01-24T19:10:46+00:00",
           "source": "news",
           "title": "As polar seas heat up, mammals will find less slow, stupid prey",
@@ -381,34 +388,34 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
-          "events_last_week_count": 0,
-          "posts_count": 24,
-          "source_name": "news"
-        },
-        {
-          "display_name": "Blog posts",
-          "events_last_week_count": 0,
-          "posts_count": 6,
-          "source_name": "blogs"
-        },
-        {
           "display_name": "Facebook pages",
           "events_last_week_count": 0,
           "posts_count": 4,
           "source_name": "facebook"
+        },
+        {
+          "display_name": "Blog posts",
+          "events_last_week_count": 0,
+          "posts_count": 7,
+          "source_name": "blogs"
+        },
+        {
+          "display_name": "News mentions",
+          "events_last_week_count": 0,
+          "posts_count": 24,
+          "source_name": "news"
         }
       ],
       "title": "Metabolic asymmetry and the global diversity of marine predators",
       "url": "http://doi.org/10.1126/science.aat4220",
       "year": "2019",
-      "citations": 3,
+      "citations": 9,
       "citationlink": "4579944159378188030"
     },
     {
       "_title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
       "altmetric_id": "6410740",
-      "altmetric_score": 347.308,
+      "altmetric_score": 345.258,
       "authors": {},
       "doi": "10.1371/journal.pbio.1002415",
       "events_last_week_count": 0,
@@ -860,16 +867,10 @@
           "source_name": "googleplus"
         },
         {
-          "display_name": "News mentions",
+          "display_name": "Facebook pages",
           "events_last_week_count": 0,
-          "posts_count": 38,
-          "source_name": "news"
-        },
-        {
-          "display_name": "Blog posts",
-          "events_last_week_count": 0,
-          "posts_count": 6,
-          "source_name": "blogs"
+          "posts_count": 3,
+          "source_name": "facebook"
         },
         {
           "display_name": "Reddit posts",
@@ -878,22 +879,28 @@
           "source_name": "reddit"
         },
         {
-          "display_name": "Facebook pages",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 3,
-          "source_name": "facebook"
+          "posts_count": 6,
+          "source_name": "blogs"
+        },
+        {
+          "display_name": "News mentions",
+          "events_last_week_count": 0,
+          "posts_count": 38,
+          "source_name": "news"
         }
       ],
       "title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
       "url": "http://doi.org/10.1371/journal.pbio.1002415",
       "year": "2016",
-      "citations": 90,
+      "citations": 122,
       "citationlink": "2210894244204244525"
     },
     {
       "_title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
       "altmetric_id": "4398603",
-      "altmetric_score": 299.836,
+      "altmetric_score": 297.936,
       "authors": {},
       "doi": "10.1371/journal.pone.0134454",
       "events_last_week_count": 0,
@@ -1204,16 +1211,10 @@
           "source_name": "googleplus"
         },
         {
-          "display_name": "News mentions",
+          "display_name": "Facebook pages",
           "events_last_week_count": 0,
-          "posts_count": 15,
-          "source_name": "news"
-        },
-        {
-          "display_name": "Blog posts",
-          "events_last_week_count": 0,
-          "posts_count": 11,
-          "source_name": "blogs"
+          "posts_count": 6,
+          "source_name": "facebook"
         },
         {
           "display_name": "Reddit posts",
@@ -1222,22 +1223,28 @@
           "source_name": "reddit"
         },
         {
-          "display_name": "Facebook pages",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 6,
-          "source_name": "facebook"
+          "posts_count": 11,
+          "source_name": "blogs"
+        },
+        {
+          "display_name": "News mentions",
+          "events_last_week_count": 0,
+          "posts_count": 15,
+          "source_name": "news"
         }
       ],
       "title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
       "url": "http://doi.org/10.1371/journal.pone.0134454",
       "year": "2015",
-      "citations": 15,
+      "citations": 20,
       "citationlink": "2538076968072773354"
     },
     {
       "_title": "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
       "altmetric_id": "18922314",
-      "altmetric_score": 60.55,
+      "altmetric_score": 60.65,
       "authors": {},
       "doi": "10.1073/pnas.1619014114",
       "events_last_week_count": 0,
@@ -1324,10 +1331,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Facebook pages",
           "events_last_week_count": 0,
-          "posts_count": 4,
-          "source_name": "news"
+          "posts_count": 1,
+          "source_name": "facebook"
         },
         {
           "display_name": "Blog posts",
@@ -1336,16 +1343,16 @@
           "source_name": "blogs"
         },
         {
-          "display_name": "Facebook pages",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "facebook"
+          "posts_count": 4,
+          "source_name": "news"
         }
       ],
       "title": "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
       "url": "http://doi.org/10.1073/pnas.1619014114",
       "year": "2017",
-      "citations": 15,
+      "citations": 22,
       "citationlink": "14230295455049915630"
     },
     {
@@ -1355,7 +1362,7 @@
       "authors": {},
       "doi": "10.1073/pnas.1416710112",
       "events_last_week_count": 0,
-      "fulltext_url": "http://www.pnas.org/content/112/29/9058.full.pdf",
+      "fulltext_url": "https://www.pnas.org/content/pnas/112/29/9058.full.pdf",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "qj070knb6q",
@@ -1454,10 +1461,10 @@
           "source_name": "googleplus"
         },
         {
-          "display_name": "News mentions",
+          "display_name": "Facebook pages",
           "events_last_week_count": 0,
           "posts_count": 3,
-          "source_name": "news"
+          "source_name": "facebook"
         },
         {
           "display_name": "Blog posts",
@@ -1466,16 +1473,16 @@
           "source_name": "blogs"
         },
         {
-          "display_name": "Facebook pages",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
           "posts_count": 3,
-          "source_name": "facebook"
+          "source_name": "news"
         }
       ],
       "title": "Climatic controls on ecosystem resilience: Postfire regeneration in the Cape Floristic Region of South Africa",
       "url": "http://doi.org/10.1073/pnas.1416710112",
       "year": "2015",
-      "citations": 22,
+      "citations": 27,
       "citationlink": "7262640301241929829"
     },
     {
@@ -1537,16 +1544,16 @@
           "source_name": "googleplus"
         },
         {
-          "display_name": "News mentions",
-          "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "news"
-        },
-        {
           "display_name": "Blog posts",
           "events_last_week_count": 0,
           "posts_count": 1,
           "source_name": "blogs"
+        },
+        {
+          "display_name": "News mentions",
+          "events_last_week_count": 0,
+          "posts_count": 1,
+          "source_name": "news"
         }
       ],
       "title": "Wikipedia Content Volatility",
@@ -1636,28 +1643,28 @@
       ],
       "sources": [
         {
-          "display_name": "Blog posts",
-          "events_last_week_count": 0,
-          "posts_count": 3,
-          "source_name": "blogs"
-        },
-        {
           "display_name": "Facebook pages",
           "events_last_week_count": 0,
           "posts_count": 1,
           "source_name": "facebook"
+        },
+        {
+          "display_name": "Blog posts",
+          "events_last_week_count": 0,
+          "posts_count": 3,
+          "source_name": "blogs"
         }
       ],
       "title": "Modeling daily flowering probabilities: expected impact of climate change on Japanese cherry phenology",
       "url": "http://doi.org/10.1111/gcb.12364",
       "year": "2014",
-      "citations": 17,
+      "citations": 20,
       "citationlink": "834067950490850962"
     },
     {
       "_title": "Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species",
       "altmetric_id": "4861733",
-      "altmetric_score": 7.2,
+      "altmetric_score": 7.45,
       "authors": {},
       "doi": "10.1111/ecog.01925",
       "events_last_week_count": 0,
@@ -1704,7 +1711,7 @@
       "title": "Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species",
       "url": "http://doi.org/10.1111/ecog.01925",
       "year": "2015",
-      "citations": 12,
+      "citations": 17,
       "citationlink": "14349399844322329686"
     },
     {
@@ -1909,7 +1916,7 @@
       "title": "Integrating occurrence data and expert maps for improved species range predictions",
       "url": "http://doi.org/10.1111/geb.12539",
       "year": "2017",
-      "citations": 24,
+      "citations": 37,
       "citationlink": "17832906044735692584"
     },
     {
@@ -1985,7 +1992,7 @@
       "title": "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data",
       "url": "http://doi.org/10.1111/ecog.00839",
       "year": "2014",
-      "citations": 77,
+      "citations": 87,
       "citationlink": "12652666495545664808"
     },
     {
@@ -2057,7 +2064,7 @@
       "title": "Air pollution, weather, and respiratory emergency room visits in two northern New England cities: An ecological time-series study",
       "url": "http://doi.org/10.1016/j.envres.2004.07.010",
       "year": "2005",
-      "citations": 115,
+      "citations": 120,
       "citationlink": "11539854097788409446"
     },
     {
@@ -2112,7 +2119,7 @@
       "title": "A new class of flexible link functions with application to species co-occurrence in Cape Floristic Region",
       "url": "http://doi.org/10.1214/13-aoas663",
       "year": "2013",
-      "citations": 21,
+      "citations": 25,
       "citationlink": "2162574719024066393"
     },
     {
@@ -2247,7 +2254,7 @@
       "title": "Downscaling of species distribution models: A hierarchical approach",
       "url": "http://doi.org/10.1111/j.2041-210x.2012.00264.x",
       "year": "2013",
-      "citations": 54,
+      "citations": 66,
       "citationlink": "5979909871313787952"
     },
     {
@@ -2395,7 +2402,7 @@
       "title": "Uncertainty, priors, autocorrelation and disparate data in downscaling of species distributions",
       "url": "http://doi.org/10.1111/ddi.12199",
       "year": "2014",
-      "citations": 13,
+      "citations": 15,
       "citationlink": "17984584479707219233"
     },
     {
@@ -2428,7 +2435,7 @@
       "title": "Air pollution and the demand for hospital services: A review",
       "url": "http://doi.org/10.1016/j.envint.2004.01.004",
       "year": "2004",
-      "citations": 86,
+      "citations": 91,
       "citationlink": "13627242760666690959"
     },
     {
@@ -2438,12 +2445,12 @@
       "authors": {},
       "doi": "10.1890/07-2095.1",
       "events_last_week_count": 0,
-      "fulltext_url": "http://dx.doi.org/10.6084/M9.FIGSHARE.C.3294173.V1",
+      "fulltext_url": "http://pdfs.semanticscholar.org/aa23/259b6f5a3c02abe5275b6cfc080379a539a7.pdf",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "wwjy5tk5ej",
       "journal": "Ecological Applications",
-      "license": "cc-by",
+      "license": {},
       "mendeley": {
         "country_percent": {
           "Canada": 0.06,
@@ -2504,7 +2511,7 @@
       "title": "Multivariate forecasts of potential distributions of invasive plant species",
       "url": "http://doi.org/10.1890/07-2095.1",
       "year": "2009",
-      "citations": 97,
+      "citations": 100,
       "citationlink": "10722199125945852415"
     },
     {
@@ -2565,6 +2572,39 @@
       "citationlink": null
     },
     {
+      "_title": "Monitoring invasions: looking into the disco ball",
+      "altmetric_id": "71232991",
+      "altmetric_score": 1.5,
+      "authors": {},
+      "doi": "10.6084/m9.figshare.11276144",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://doi.org/10.6084/m9.figshare.11276144",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "cBHjaNfuN5",
+      "journal": {},
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Monitoring invasions: looking into the disco ball",
+      "url": "http://doi.org/10.6084/m9.figshare.11276144",
+      "year": "2019",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
       "_title": "Beyond counts and averages: relating geodiversity to dimensions of biodiversity",
       "altmetric_id": "55072978",
       "altmetric_score": 1.1,
@@ -2596,6 +2636,51 @@
       "year": "2019",
       "citations": 0,
       "citationlink": null
+    },
+    {
+      "_title": "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
+      "altmetric_id": "1474143",
+      "altmetric_score": 1,
+      "authors": {},
+      "doi": "10.1016/j.ecolmodel.2009.09.016",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://scholar.sun.ac.za:443/bitstream/10019.1/14994/2/wilson_hierarchical_2010_postprint.pdf",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "yjdZrBVqBW",
+      "journal": "Ecological Modelling",
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 1,
+      "num_posts": 1,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {
+          "posted_on": "2010-05-24T00:00:00+00:00",
+          "source": "f1000",
+          "title": "Recommended in F1000Prime",
+          "url": "https://f1000.com/prime/3287966"
+        }
+      ],
+      "sources": [
+        {
+          "display_name": "F1000 reviews",
+          "events_last_week_count": 0,
+          "posts_count": 1,
+          "source_name": "f1000"
+        }
+      ],
+      "title": "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
+      "url": "http://doi.org/10.1016/j.ecolmodel.2009.09.016",
+      "year": "2010",
+      "citations": 67,
+      "citationlink": "18256647831510752324"
     },
     {
       "_title": "Spatial and interspecific variability in phenological responses to warming temperatures",
@@ -2640,53 +2725,8 @@
       "title": "Spatial and interspecific variability in phenological responses to warming temperatures",
       "url": "http://doi.org/10.1016/j.biocon.2009.06.003",
       "year": "2009",
-      "citations": 187,
+      "citations": 199,
       "citationlink": "62062424245765126"
-    },
-    {
-      "_title": "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
-      "altmetric_id": "1474143",
-      "altmetric_score": 1,
-      "authors": {},
-      "doi": "10.1016/j.ecolmodel.2009.09.016",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://scholar.sun.ac.za:443/bitstream/10019.1/14994/2/wilson_hierarchical_2010_postprint.pdf",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "yjdZrBVqBW",
-      "journal": "Ecological Modelling",
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 1,
-      "num_posts": 1,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {
-          "posted_on": "2010-05-24T00:00:00+00:00",
-          "source": "f1000",
-          "title": "Recommended in F1000Prime",
-          "url": "https://f1000.com/prime/3287966"
-        }
-      ],
-      "sources": [
-        {
-          "display_name": "F1000 reviews",
-          "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "f1000"
-        }
-      ],
-      "title": "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
-      "url": "http://doi.org/10.1016/j.ecolmodel.2009.09.016",
-      "year": "2010",
-      "citations": 60,
-      "citationlink": "18256647831510752324"
     },
     {
       "_title": "Scaling up: Linking field data and remote sensing with a hierarchical model",
@@ -2695,9 +2735,9 @@
       "authors": {},
       "doi": "10.1080/13658816.2010.522779",
       "events_last_week_count": 0,
-      "fulltext_url": {},
+      "fulltext_url": "http://pdfs.semanticscholar.org/82c8/04faeb394e12c14a5b6bd2ae8f3820cd40bb.pdf",
       "genre": "article",
-      "has_fulltext_url": false,
+      "has_fulltext_url": true,
       "id": "BWZY2Hc3DG",
       "journal": "International Journal of Geographical Information Science",
       "license": {},
@@ -2756,7 +2796,7 @@
       "title": "Scaling up: Linking field data and remote sensing with a hierarchical model",
       "url": "http://doi.org/10.1080/13658816.2010.522779",
       "year": "2011",
-      "citations": 25,
+      "citations": 30,
       "citationlink": "14666785862283525109"
     },
     {
@@ -2818,189 +2858,21 @@
       "title": "Using multi-timescale methods and satellite-derived land surface temperature for the interpolation of daily maximum air temperature in Oregon",
       "url": "http://doi.org/10.1002/joc.4251",
       "year": "2015",
-      "citations": 18,
+      "citations": 22,
       "citationlink": "15702577810729029249"
     },
     {
-      "_title": "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
-      "altmetric_id": "5777116",
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1214/10-aoas335",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://doi.org/10.1214/10-aoas335",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "PK75kGVLSQ",
-      "journal": "The Annals of Applied Statistics",
-      "license": "implied-oa",
-      "mendeley": {
-        "country_percent": {
-          "China": 0.09,
-          "Mexico": 0.09,
-          "New Zealand": 0.09,
-          "South Africa": 0.09,
-          "Switzerland": 0.09,
-          "United Kingdom": 0.09,
-          "United States": 0.45
-        },
-        "job_title_percent": {
-          "Faculty": 0.13,
-          "Masters Student": 0.13,
-          "PhD Student": 0.38,
-          "Researcher": 0.28,
-          "Undergrad Student": 0.08
-        },
-        "mendeley_url": "http://www.mendeley.com/research/modeling-large-scale-species-abundance-latent-spatial-processes-5",
-        "readers": 39,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.41,
-          "Biochemistry, Genetics and Molecular Biology": 0.03,
-          "Computer Science": 0.03,
-          "Earth and Planetary Sciences": 0.05,
-          "Environmental Science": 0.31,
-          "Mathematics": 0.13,
-          "Medicine and Dentistry": 0.03,
-          "Unspecified": 0.03
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
-      "url": "http://doi.org/10.1214/10-aoas335",
-      "year": "2010",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
-      "_title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum Air Temperature",
-      "altmetric_id": "33676299",
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.3390/rs6098639",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://www.mdpi.com/2072-4292/6/9/8639/pdf",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "UF3rpDCXH3",
-      "journal": "Remote Sensing",
-      "license": "cc-by",
-      "mendeley": {
-        "country_percent": {
-          "Japan": 0.5,
-          "United States": 0.5
-        },
-        "job_title_percent": {
-          "Faculty": 0.07,
-          "Masters Student": 0.04,
-          "Other": 0.11,
-          "PhD Student": 0.37,
-          "Researcher": 0.33,
-          "Undergrad Student": 0.04,
-          "Unspecified": 0.04
-        },
-        "mendeley_url": "http://www.mendeley.com/research/assessment-methods-remotesensing-derived-covariates-regional-predictions-1-km-daily-maximum-air-temp",
-        "readers": 27,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.19,
-          "Biochemistry, Genetics and Molecular Biology": 0.04,
-          "Earth and Planetary Sciences": 0.19,
-          "Engineering": 0.11,
-          "Environmental Science": 0.11,
-          "Medicine and Dentistry": 0.04,
-          "Physics and Astronomy": 0.04,
-          "Social Sciences": 0.07,
-          "Unspecified": 0.22
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum Air Temperature",
-      "url": "http://doi.org/10.3390/rs6098639",
-      "year": "2014",
-      "citations": 17,
-      "citationlink": "17962076558487628612"
-    },
-    {
-      "_title": "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
+      "_title": "Point pattern modelling for degraded presence-only data over large regions",
       "altmetric_id": {},
       "altmetric_score": 0,
       "authors": {},
-      "doi": "10.1086/660295",
+      "doi": "10.1111/j.1467-9876.2011.01023.x",
       "events_last_week_count": 0,
       "fulltext_url": {},
       "genre": "article",
       "has_fulltext_url": false,
-      "id": "FpMvX3HAmw",
-      "journal": "The American Naturalist",
-      "license": {},
-      "mendeley": {
-        "country_percent": {
-          "Australia": 0.06,
-          "Brazil": 0.19,
-          "Canada": 0.06,
-          "Finland": 0.03,
-          "Germany": 0.06,
-          "Spain": 0.1,
-          "Switzerland": 0.1,
-          "United States": 0.35,
-          "Venezuela": 0.03
-        },
-        "job_title_percent": {
-          "Faculty": 0.12,
-          "Masters Student": 0.14,
-          "Other": 0.04,
-          "PhD Student": 0.32,
-          "Researcher": 0.31,
-          "Undergrad Student": 0.05,
-          "Unspecified": 0.02
-        },
-        "mendeley_url": "http://www.mendeley.com/research/developing-dynamic-mechanistic-species-distribution-models-predicting-birdmediated-spread-invasive-p-1",
-        "readers": 113,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.59,
-          "Biochemistry, Genetics and Molecular Biology": 0.01,
-          "Computer Science": 0.01,
-          "Earth and Planetary Sciences": 0.03,
-          "Environmental Science": 0.3,
-          "Unspecified": 0.06
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
-      "url": "http://doi.org/10.1086/660295",
-      "year": "2011",
-      "citations": 52,
-      "citationlink": "12982824833770251112"
-    },
-    {
-      "_title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1002/joc.3859",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.3859",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "cSQsHG2ziq",
-      "journal": "International Journal of Climatology",
+      "id": "6UkfSLdYWA",
+      "journal": "Journal of the Royal Statistical Society: Series C (Applied Statistics)",
       "license": {},
       "mendeley": {
         "country_percent": {},
@@ -3016,63 +2888,11 @@
         {}
       ],
       "sources": [],
-      "title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
-      "url": "http://doi.org/10.1002/joc.3859",
-      "year": "2013",
-      "citations": 21,
-      "citationlink": "7850685944087463273"
-    },
-    {
-      "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products — A global overview",
-      "altmetric_id": "60936994",
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1016/j.rse.2013.10.025",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://dx.doi.org/10.1594/PANGAEA.820938",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "ig9nzcxgio",
-      "journal": "Remote Sensing of Environment",
-      "license": "cc-by",
-      "mendeley": {
-        "country_percent": {
-          "Germany": 0.6,
-          "United States": 0.2,
-          "Vietnam": 0.2
-        },
-        "job_title_percent": {
-          "Faculty": 0.09,
-          "Masters Student": 0.18,
-          "Other": 0.05,
-          "PhD Student": 0.33,
-          "Researcher": 0.29,
-          "Undergrad Student": 0.04,
-          "Unspecified": 0.02
-        },
-        "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview",
-        "readers": 55,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.11,
-          "Biochemistry, Genetics and Molecular Biology": 0.02,
-          "Earth and Planetary Sciences": 0.36,
-          "Engineering": 0.04,
-          "Environmental Science": 0.4,
-          "Unspecified": 0.07
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products — A global overview",
-      "url": "http://doi.org/10.1016/j.rse.2013.10.025",
-      "year": "2014",
-      "citations": 36,
-      "citationlink": "13563037565281892751"
+      "title": "Point pattern modelling for degraded presence-only data over large regions",
+      "url": "http://doi.org/10.1111/j.1467-9876.2011.01023.x",
+      "year": "2011",
+      "citations": 82,
+      "citationlink": "16361492880824597870"
     },
     {
       "_title": "Ecosystem dynamics: disturbance and recovery in the Cape Floristic Region of South Africa",
@@ -3104,6 +2924,39 @@
       "title": "Ecosystem dynamics: disturbance and recovery in the Cape Floristic Region of South Africa",
       "url": "http://doi.org/10.6084/m9.figshare.1025883",
       "year": "2014",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "MODIS Cloud Climatology",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.6084/m9.figshare.1531955",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1531955",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "EZaRmsvBmg",
+      "journal": {},
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "MODIS Cloud Climatology",
+      "url": "http://doi.org/10.6084/m9.figshare.1531955",
+      "year": "2016",
       "citations": 0,
       "citationlink": null
     },
@@ -3141,39 +2994,6 @@
       "citationlink": null
     },
     {
-      "_title": "Morocco Natural Resources Management and Community Development",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.6084/m9.figshare.1144538",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1144538",
-      "genre": "other",
-      "has_fulltext_url": true,
-      "id": "HbpzEn5GRP",
-      "journal": {},
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Morocco Natural Resources Management and Community Development",
-      "url": "http://doi.org/10.6084/m9.figshare.1144538",
-      "year": "2014",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
       "_title": "Environmental Data for Biodiversity Analyses",
       "altmetric_id": {},
       "altmetric_score": 0,
@@ -3203,170 +3023,6 @@
       "title": "Environmental Data for Biodiversity Analyses",
       "url": "http://doi.org/10.6084/m9.figshare.951960",
       "year": "2015",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
-      "_title": "Post-fire recovery in the Cape Floristic Region of South Africa",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.6084/m9.figshare.1420575",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1420575",
-      "genre": "other",
-      "has_fulltext_url": true,
-      "id": "YfQWnH8bzz",
-      "journal": {},
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Post-fire recovery in the Cape Floristic Region of South Africa",
-      "url": "http://doi.org/10.6084/m9.figshare.1420575",
-      "year": "2015",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
-      "_title": "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1007/s10980-014-0099-7",
-      "events_last_week_count": 0,
-      "fulltext_url": {},
-      "genre": "article",
-      "has_fulltext_url": false,
-      "id": "ZUrKrmaxA5",
-      "journal": "Landscape Ecology",
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
-      "url": "http://doi.org/10.1007/s10980-014-0099-7",
-      "year": "2014",
-      "citations": 16,
-      "citationlink": "15216572920139885688"
-    },
-    {
-      "_title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1111/j.1365-2664.2009.01736.x",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://deepblue.lib.umich.edu/bitstream/2027.42/78698/1/j.1365-2664.2009.01736.x.pdf",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "bPjV4A4Asf",
-      "journal": "Journal of Applied Ecology",
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
-      "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
-      "year": "2009",
-      "citations": 63,
-      "citationlink": "10471541810207926754"
-    },
-    {
-      "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1016/j.gloplacha.2012.11.003",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://hdl.handle.net/2060/20140010385",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "bsbgeb0ycg",
-      "journal": "Global and Planetary Change",
-      "license": {},
-      "mendeley": {
-        "country_percent": {
-          "Belgium": 0.05,
-          "Brazil": 0.1,
-          "Canada": 0.29,
-          "Colombia": 0.05,
-          "France": 0.05,
-          "Iran": 0.05,
-          "Italy": 0.05,
-          "Malaysia": 0.05,
-          "Norway": 0.05,
-          "United Kingdom": 0.05,
-          "United States": 0.24
-        },
-        "job_title_percent": {
-          "Faculty": 0.02,
-          "Librarian": 0.01,
-          "Masters Student": 0.14,
-          "Other": 0.05,
-          "PhD Student": 0.45,
-          "Researcher": 0.27,
-          "Undergrad Student": 0.01,
-          "Unspecified": 0.05
-        },
-        "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north",
-        "readers": 168,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.07,
-          "Computer Science": 0.01,
-          "Earth and Planetary Sciences": 0.31,
-          "Economics, Econometrics and Finance": 0.01,
-          "Engineering": 0.26,
-          "Environmental Science": 0.24,
-          "Mathematics": 0.02,
-          "Physics and Astronomy": 0.01,
-          "Social Sciences": 0.01,
-          "Unspecified": 0.08
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
-      "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
-      "year": "2013",
       "citations": 0,
       "citationlink": null
     },
@@ -3527,185 +3183,6 @@
       "citationlink": null
     },
     {
-      "_title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1071/wf11002",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://scholar.sun.ac.za:443/bitstream/10019.1/98979/1/deklerk_evaluation_2011.pdf",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "w96eeh585x",
-      "journal": "International Journal of Wildland Fire",
-      "license": {},
-      "mendeley": {
-        "country_percent": {
-          "South Africa": 1
-        },
-        "job_title_percent": {
-          "Faculty": 0.25,
-          "Masters Student": 0.19,
-          "PhD Student": 0.31,
-          "Researcher": 0.25
-        },
-        "mendeley_url": "http://www.mendeley.com/research/evaluation-satellitederived-burned-area-products-fynbos-mediterranean-shrubland",
-        "readers": 16,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.38,
-          "Computer Science": 0.06,
-          "Earth and Planetary Sciences": 0.06,
-          "Engineering": 0.06,
-          "Environmental Science": 0.38,
-          "Social Sciences": 0.06
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
-      "url": "http://doi.org/10.1071/wf11002",
-      "year": "2012",
-      "citations": 18,
-      "citationlink": "17040391350078868441"
-    },
-    {
-      "_title": "Point pattern modelling for degraded presence-only data over large regions",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1111/j.1467-9876.2011.01023.x",
-      "events_last_week_count": 0,
-      "fulltext_url": {},
-      "genre": "article",
-      "has_fulltext_url": false,
-      "id": "6UkfSLdYWA",
-      "journal": "Journal of the Royal Statistical Society: Series C (Applied Statistics)",
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Point pattern modelling for degraded presence-only data over large regions",
-      "url": "http://doi.org/10.1111/j.1467-9876.2011.01023.x",
-      "year": "2011",
-      "citations": 72,
-      "citationlink": "16361492880824597870"
-    },
-    {
-      "_title": "MODIS Cloud Climatology",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.6084/m9.figshare.1531955",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1531955",
-      "genre": "other",
-      "has_fulltext_url": true,
-      "id": "EZaRmsvBmg",
-      "journal": {},
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "MODIS Cloud Climatology",
-      "url": "http://doi.org/10.6084/m9.figshare.1531955",
-      "year": "2016",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
-      "_title": "Slingsby_TaylorPlots",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.6084/m9.figshare.4737358",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://doi.org/10.6084/m9.figshare.4737358",
-      "genre": "dataset",
-      "has_fulltext_url": true,
-      "id": "RWnPKsFmuW",
-      "journal": {},
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Slingsby_TaylorPlots",
-      "url": "http://doi.org/10.6084/m9.figshare.4737358",
-      "year": "2017",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
-      "_title": "Climatic controls on ecosystem resilience: combining hierarchical modelling with space borne monitoring of past fire plant biomass accumulation",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.6084/m9.figshare.1142275",
-      "events_last_week_count": 0,
-      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1142275",
-      "genre": "other",
-      "has_fulltext_url": true,
-      "id": "qK8VrRV35e",
-      "journal": {},
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Climatic controls on ecosystem resilience: combining hierarchical modelling with space borne monitoring of past fire plant biomass accumulation",
-      "url": "http://doi.org/10.6084/m9.figshare.1142275",
-      "year": "2014",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
       "_title": "From imperfection to inference: issues of scale and uncertainty in global change biology",
       "altmetric_id": {},
       "altmetric_score": 0,
@@ -3739,13 +3216,208 @@
       "citationlink": null
     },
     {
+      "_title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1002/joc.3859",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.3859",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "cSQsHG2ziq",
+      "journal": "International Journal of Climatology",
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Estimating uncertainty in daily weather interpolations: a Bayesian framework for developing climate surfaces",
+      "url": "http://doi.org/10.1002/joc.3859",
+      "year": "2013",
+      "citations": 23,
+      "citationlink": "7850685944087463273"
+    },
+    {
+      "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products — A global overview",
+      "altmetric_id": "60936994",
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1016/j.rse.2013.10.025",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://dx.doi.org/10.1594/PANGAEA.820938",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "ig9nzcxgio",
+      "journal": "Remote Sensing of Environment",
+      "license": "cc-by",
+      "mendeley": {
+        "country_percent": {
+          "Germany": 0.6,
+          "United States": 0.2,
+          "Vietnam": 0.2
+        },
+        "job_title_percent": {
+          "Faculty": 0.09,
+          "Masters Student": 0.18,
+          "Other": 0.05,
+          "PhD Student": 0.33,
+          "Researcher": 0.29,
+          "Undergrad Student": 0.04,
+          "Unspecified": 0.02
+        },
+        "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview",
+        "readers": 55,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.11,
+          "Biochemistry, Genetics and Molecular Biology": 0.02,
+          "Earth and Planetary Sciences": 0.36,
+          "Engineering": 0.04,
+          "Environmental Science": 0.4,
+          "Unspecified": 0.07
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products — A global overview",
+      "url": "http://doi.org/10.1016/j.rse.2013.10.025",
+      "year": "2014",
+      "citations": 39,
+      "citationlink": "13563037565281892751"
+    },
+    {
+      "_title": "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
+      "altmetric_id": "5777116",
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1214/10-aoas335",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://doi.org/10.1214/10-aoas335",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "PK75kGVLSQ",
+      "journal": "The Annals of Applied Statistics",
+      "license": "implied-oa",
+      "mendeley": {
+        "country_percent": {
+          "China": 0.09,
+          "Mexico": 0.09,
+          "New Zealand": 0.09,
+          "South Africa": 0.09,
+          "Switzerland": 0.09,
+          "United Kingdom": 0.09,
+          "United States": 0.45
+        },
+        "job_title_percent": {
+          "Faculty": 0.13,
+          "Masters Student": 0.13,
+          "PhD Student": 0.38,
+          "Researcher": 0.28,
+          "Undergrad Student": 0.08
+        },
+        "mendeley_url": "http://www.mendeley.com/research/modeling-large-scale-species-abundance-latent-spatial-processes-5",
+        "readers": 39,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.41,
+          "Biochemistry, Genetics and Molecular Biology": 0.03,
+          "Computer Science": 0.03,
+          "Earth and Planetary Sciences": 0.05,
+          "Environmental Science": 0.31,
+          "Mathematics": 0.13,
+          "Medicine and Dentistry": 0.03,
+          "Unspecified": 0.03
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "MODELING LARGE SCALE SPECIES ABUNDANCE WITH LATENT SPATIAL PROCESSES",
+      "url": "http://doi.org/10.1214/10-aoas335",
+      "year": "2010",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum Air Temperature",
+      "altmetric_id": "33676299",
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.3390/rs6098639",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://www.mdpi.com/2072-4292/6/9/8639/pdf",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "UF3rpDCXH3",
+      "journal": "Remote Sensing",
+      "license": "cc-by",
+      "mendeley": {
+        "country_percent": {
+          "Japan": 0.5,
+          "United States": 0.5
+        },
+        "job_title_percent": {
+          "Faculty": 0.07,
+          "Masters Student": 0.04,
+          "Other": 0.11,
+          "PhD Student": 0.37,
+          "Researcher": 0.33,
+          "Undergrad Student": 0.04,
+          "Unspecified": 0.04
+        },
+        "mendeley_url": "http://www.mendeley.com/research/assessment-methods-remotesensing-derived-covariates-regional-predictions-1-km-daily-maximum-air-temp",
+        "readers": 27,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.19,
+          "Biochemistry, Genetics and Molecular Biology": 0.04,
+          "Earth and Planetary Sciences": 0.19,
+          "Engineering": 0.11,
+          "Environmental Science": 0.11,
+          "Medicine and Dentistry": 0.04,
+          "Physics and Astronomy": 0.04,
+          "Social Sciences": 0.07,
+          "Unspecified": 0.22
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily Maximum Air Temperature",
+      "url": "http://doi.org/10.3390/rs6098639",
+      "year": "2014",
+      "citations": 20,
+      "citationlink": "17962076558487628612"
+    },
+    {
       "_title": "Are there spurious temperature trends in the United States Climate Division database?",
       "altmetric_id": {},
       "altmetric_score": 0,
       "authors": {},
       "doi": "10.1029/2002gl016295",
       "events_last_week_count": 0,
-      "fulltext_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2002GL016295",
+      "fulltext_url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1539&context=earthsci_facpub",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "rjK4EUEGZ6",
@@ -3790,17 +3462,481 @@
       "title": "Are there spurious temperature trends in the United States Climate Division database?",
       "url": "http://doi.org/10.1029/2002gl016295",
       "year": "2003",
-      "citations": 72,
+      "citations": 76,
       "citationlink": "15564411114484490165"
+    },
+    {
+      "_title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1111/j.1365-2664.2009.01736.x",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://deepblue.lib.umich.edu/bitstream/2027.42/78698/1/j.1365-2664.2009.01736.x.pdf",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "bPjV4A4Asf",
+      "journal": "Journal of Applied Ecology",
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
+      "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
+      "year": "2009",
+      "citations": 74,
+      "citationlink": "10471541810207926754"
+    },
+    {
+      "_title": "A Word from Alpine Tundra: Watch Out, Forests Are Invading! -- Spatial Detection of Alpine Treeline Ecotones in the Western United States",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1002/essoar.10500196.1",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://www.essoar.org/doi/pdf/10.1002/essoar.10500196.1",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "iHVC6ouJt6",
+      "journal": {},
+      "license": "cc-by-nc-nd",
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "A Word from Alpine Tundra: Watch Out, Forests Are Invading! -- Spatial Detection of Alpine Treeline Ecotones in the Western United States",
+      "url": "http://doi.org/10.1002/essoar.10500196.1",
+      "year": "2018",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "Monitoring Dimensions of Biodiversity in a Mega-Diverse Region of Southern Africa: from Traits to Communities to Ecosystems",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1002/essoar.10500104.1",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://www.essoar.org/doi/pdf/10.1002/essoar.10500104.1",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "C4o2cjMCYo",
+      "journal": {},
+      "license": "cc-by",
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Monitoring Dimensions of Biodiversity in a Mega-Diverse Region of Southern Africa: from Traits to Communities to Ecosystems",
+      "url": "http://doi.org/10.1002/essoar.10500104.1",
+      "year": "2018",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "Morocco Natural Resources Management and Community Development",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.6084/m9.figshare.1144538",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1144538",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "HbpzEn5GRP",
+      "journal": {},
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Morocco Natural Resources Management and Community Development",
+      "url": "http://doi.org/10.6084/m9.figshare.1144538",
+      "year": "2014",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "Post-fire recovery in the Cape Floristic Region of South Africa",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.6084/m9.figshare.1420575",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1420575",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "YfQWnH8bzz",
+      "journal": {},
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Post-fire recovery in the Cape Floristic Region of South Africa",
+      "url": "http://doi.org/10.6084/m9.figshare.1420575",
+      "year": "2015",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1007/s10980-014-0099-7",
+      "events_last_week_count": 0,
+      "fulltext_url": {},
+      "genre": "article",
+      "has_fulltext_url": false,
+      "id": "ZUrKrmaxA5",
+      "journal": "Landscape Ecology",
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
+      "url": "http://doi.org/10.1007/s10980-014-0099-7",
+      "year": "2014",
+      "citations": 20,
+      "citationlink": "15216572920139885688"
+    },
+    {
+      "_title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1071/wf11002",
+      "events_last_week_count": 0,
+      "fulltext_url": "https://scholar.sun.ac.za:443/bitstream/10019.1/98979/1/deklerk_evaluation_2011.pdf",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "w96eeh585x",
+      "journal": "International Journal of Wildland Fire",
+      "license": {},
+      "mendeley": {
+        "country_percent": {
+          "South Africa": 1
+        },
+        "job_title_percent": {
+          "Faculty": 0.25,
+          "Masters Student": 0.19,
+          "PhD Student": 0.31,
+          "Researcher": 0.25
+        },
+        "mendeley_url": "http://www.mendeley.com/research/evaluation-satellitederived-burned-area-products-fynbos-mediterranean-shrubland",
+        "readers": 16,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.38,
+          "Computer Science": 0.06,
+          "Earth and Planetary Sciences": 0.06,
+          "Engineering": 0.06,
+          "Environmental Science": 0.38,
+          "Social Sciences": 0.06
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
+      "url": "http://doi.org/10.1071/wf11002",
+      "year": "2012",
+      "citations": 21,
+      "citationlink": "17040391350078868441"
+    },
+    {
+      "_title": "Slingsby_TaylorPlots",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.6084/m9.figshare.4737358",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://doi.org/10.6084/m9.figshare.4737358",
+      "genre": "dataset",
+      "has_fulltext_url": true,
+      "id": "RWnPKsFmuW",
+      "journal": {},
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Slingsby_TaylorPlots",
+      "url": "http://doi.org/10.6084/m9.figshare.4737358",
+      "year": "2017",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1086/660295",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://pdfs.semanticscholar.org/7a73/41b28b228129abb65332a96f026f11e3d012.pdf",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "FpMvX3HAmw",
+      "journal": "The American Naturalist",
+      "license": {},
+      "mendeley": {
+        "country_percent": {
+          "Australia": 0.06,
+          "Brazil": 0.19,
+          "Canada": 0.06,
+          "Finland": 0.03,
+          "Germany": 0.06,
+          "Spain": 0.1,
+          "Switzerland": 0.1,
+          "United States": 0.35,
+          "Venezuela": 0.03
+        },
+        "job_title_percent": {
+          "Faculty": 0.12,
+          "Masters Student": 0.14,
+          "Other": 0.04,
+          "PhD Student": 0.32,
+          "Researcher": 0.31,
+          "Undergrad Student": 0.05,
+          "Unspecified": 0.02
+        },
+        "mendeley_url": "http://www.mendeley.com/research/developing-dynamic-mechanistic-species-distribution-models-predicting-birdmediated-spread-invasive-p-1",
+        "readers": 113,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.59,
+          "Biochemistry, Genetics and Molecular Biology": 0.01,
+          "Computer Science": 0.01,
+          "Earth and Planetary Sciences": 0.03,
+          "Environmental Science": 0.3,
+          "Unspecified": 0.06
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
+      "url": "http://doi.org/10.1086/660295",
+      "year": "2011",
+      "citations": 61,
+      "citationlink": "12982824833770251112"
+    },
+    {
+      "_title": "Climatic controls on ecosystem resilience: combining hierarchical modelling with space borne monitoring of past fire plant biomass accumulation",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.6084/m9.figshare.1142275",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://doi.org/10.6084/m9.figshare.1142275",
+      "genre": "other",
+      "has_fulltext_url": true,
+      "id": "qK8VrRV35e",
+      "journal": {},
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Climatic controls on ecosystem resilience: combining hierarchical modelling with space borne monitoring of past fire plant biomass accumulation",
+      "url": "http://doi.org/10.6084/m9.figshare.1142275",
+      "year": "2014",
+      "citations": 0,
+      "citationlink": null
+    },
+    {
+      "_title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+      "altmetric_id": {},
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1016/j.gloplacha.2012.11.003",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://hdl.handle.net/2060/20140010385",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "bsbgeb0ycg",
+      "journal": "Global and Planetary Change",
+      "license": {},
+      "mendeley": {
+        "country_percent": {
+          "Belgium": 0.05,
+          "Brazil": 0.1,
+          "Canada": 0.29,
+          "Colombia": 0.05,
+          "France": 0.05,
+          "Iran": 0.05,
+          "Italy": 0.05,
+          "Malaysia": 0.05,
+          "Norway": 0.05,
+          "United Kingdom": 0.05,
+          "United States": 0.24
+        },
+        "job_title_percent": {
+          "Faculty": 0.02,
+          "Librarian": 0.01,
+          "Masters Student": 0.14,
+          "Other": 0.05,
+          "PhD Student": 0.45,
+          "Researcher": 0.27,
+          "Undergrad Student": 0.01,
+          "Unspecified": 0.05
+        },
+        "mendeley_url": "http://www.mendeley.com/research/statistical-downscaling-bias-correction-climate-model-outputs-climate-change-impact-assessment-north",
+        "readers": 168,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.07,
+          "Computer Science": 0.01,
+          "Earth and Planetary Sciences": 0.31,
+          "Economics, Econometrics and Finance": 0.01,
+          "Engineering": 0.26,
+          "Environmental Science": 0.24,
+          "Mathematics": 0.02,
+          "Physics and Astronomy": 0.01,
+          "Social Sciences": 0.01,
+          "Unspecified": 0.08
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Bias correction and downscaling of climate model outputs for climate change impact assessments in the U.S. Northeast",
+      "url": "http://doi.org/10.1016/j.gloplacha.2012.11.003",
+      "year": "2013",
+      "citations": 0,
+      "citationlink": null
     }
   ],
   "promos": {},
   "sources": [
     {
+      "display_name": "Tweets",
+      "events_last_week_count": 0,
+      "posts_count": 27,
+      "source_name": "twitter"
+    },
+    {
       "display_name": "Google+ posts",
       "events_last_week_count": 0,
       "posts_count": 10,
       "source_name": "googleplus"
+    },
+    {
+      "display_name": "F1000 reviews",
+      "events_last_week_count": 0,
+      "posts_count": 1,
+      "source_name": "f1000"
+    },
+    {
+      "display_name": "Facebook pages",
+      "events_last_week_count": 0,
+      "posts_count": 24,
+      "source_name": "facebook"
+    },
+    {
+      "display_name": "Reddit posts",
+      "events_last_week_count": 0,
+      "posts_count": 5,
+      "source_name": "reddit"
+    },
+    {
+      "display_name": "Blog posts",
+      "events_last_week_count": 0,
+      "posts_count": 31,
+      "source_name": "blogs"
     },
     {
       "display_name": "News mentions",
@@ -3815,40 +3951,10 @@
       "source_name": "peer_reviews"
     },
     {
-      "display_name": "Blog posts",
-      "events_last_week_count": 0,
-      "posts_count": 30,
-      "source_name": "blogs"
-    },
-    {
-      "display_name": "F1000 reviews",
-      "events_last_week_count": 0,
-      "posts_count": 1,
-      "source_name": "f1000"
-    },
-    {
-      "display_name": "Reddit posts",
-      "events_last_week_count": 0,
-      "posts_count": 5,
-      "source_name": "reddit"
-    },
-    {
       "display_name": "Wikipedia articles",
       "events_last_week_count": 0,
       "posts_count": 1,
       "source_name": "wikipedia"
-    },
-    {
-      "display_name": "Facebook pages",
-      "events_last_week_count": 0,
-      "posts_count": 24,
-      "source_name": "facebook"
-    },
-    {
-      "display_name": "Tweets",
-      "events_last_week_count": 0,
-      "posts_count": 27,
-      "source_name": "twitter"
     }
   ],
   "subscores": [
@@ -3870,5 +3976,5 @@
     }
   ],
   "twitter": "AdamWilsonLab",
-  "updated": "2019-05-30 08:11:33.204583+00:00"
+  "updated": "2020-01-04 22:12:59.020707+00:00"
 }
