@@ -64,8 +64,8 @@ is$overview_badges=NULL
 
 # clean up json
 is_out=toJSON(is,auto_unbox=T,pretty=T)
-#is_out=enc2native(is_out)
-#is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
+is_out=enc2native(is_out)
+is_out=iconv(is_out, "us-ascii", "us-ascii",sub="")
 #is_out=gsub("[\\]","",is_out)
 #is_out=gsub("href=\"","href='",is_out)
 #is_out=gsub("\"\"","",is_out)
@@ -77,3 +77,4 @@ if(!validate(is_out)) stop("JSON is not valid")
 write(is_out,
     file="_data/pubs.json")
 file.remove("_data/is.json")
+

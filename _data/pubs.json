@@ -119,7 +119,7 @@
     {
       "_title": "Metabolic asymmetry and the global diversity of marine predators",
       "altmetric_id": "54445545",
-      "altmetric_score": 363.078,
+      "altmetric_score": 363.728,
       "authors": {},
       "doi": "10.1126/science.aat4220",
       "events_last_week_count": 0,
@@ -411,10 +411,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 24,
-          "source_name": "news"
+          "posts_count": 7,
+          "source_name": "blogs"
         },
         {
           "display_name": "Facebook pages",
@@ -423,10 +423,10 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "Blog posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 7,
-          "source_name": "blogs"
+          "posts_count": 24,
+          "source_name": "news"
         },
         {
           "display_name": "Wikipedia articles",
@@ -438,17 +438,17 @@
       "title": "Metabolic asymmetry and the global diversity of marine predators",
       "url": "http://doi.org/10.1126/science.aat4220",
       "year": "2019",
-      "citations": 18,
+      "citations": 23,
       "citationlink": "4579944159378188030"
     },
     {
       "_title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
       "altmetric_id": "6410740",
-      "altmetric_score": 345.658,
+      "altmetric_score": 345.308,
       "authors": {},
       "doi": "10.1371/journal.pbio.1002415",
       "events_last_week_count": 0,
-      "fulltext_url": "https://doi.org/10.1371/journal.pbio.1002415",
+      "fulltext_url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002415&type=printable",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "w8j6n5MrmV",
@@ -890,10 +890,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 38,
-          "source_name": "news"
+          "posts_count": 6,
+          "source_name": "blogs"
         },
         {
           "display_name": "Facebook pages",
@@ -902,34 +902,34 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "Blog posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 6,
-          "source_name": "blogs"
-        },
-        {
-          "display_name": "Google+ posts",
-          "events_last_week_count": 0,
-          "posts_count": 4,
-          "source_name": "googleplus"
+          "posts_count": 38,
+          "source_name": "news"
         },
         {
           "display_name": "Reddit posts",
           "events_last_week_count": 0,
           "posts_count": 4,
           "source_name": "reddit"
+        },
+        {
+          "display_name": "Google+ posts",
+          "events_last_week_count": 0,
+          "posts_count": 4,
+          "source_name": "googleplus"
         }
       ],
       "title": "Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions",
       "url": "http://doi.org/10.1371/journal.pbio.1002415",
       "year": "2016",
-      "citations": 158,
+      "citations": 168,
       "citationlink": "2210894244204244525"
     },
     {
       "_title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
       "altmetric_id": "4398603",
-      "altmetric_score": 294.836,
+      "altmetric_score": 295.336,
       "authors": {},
       "doi": "10.1371/journal.pone.0134454",
       "events_last_week_count": 0,
@@ -1234,10 +1234,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 15,
-          "source_name": "news"
+          "posts_count": 11,
+          "source_name": "blogs"
         },
         {
           "display_name": "Facebook pages",
@@ -1246,22 +1246,22 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "Blog posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 11,
-          "source_name": "blogs"
-        },
-        {
-          "display_name": "Google+ posts",
-          "events_last_week_count": 0,
-          "posts_count": 3,
-          "source_name": "googleplus"
+          "posts_count": 15,
+          "source_name": "news"
         },
         {
           "display_name": "Reddit posts",
           "events_last_week_count": 0,
           "posts_count": 1,
           "source_name": "reddit"
+        },
+        {
+          "display_name": "Google+ posts",
+          "events_last_week_count": 0,
+          "posts_count": 3,
+          "source_name": "googleplus"
         }
       ],
       "title": "Content Volatility of Scientific Topics in Wikipedia: A Cautionary Tale",
@@ -1273,7 +1273,7 @@
     {
       "_title": "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
       "altmetric_id": "18922314",
-      "altmetric_score": 61.55,
+      "altmetric_score": 61.05,
       "authors": {},
       "doi": "10.1073/pnas.1619014114",
       "events_last_week_count": 0,
@@ -1360,10 +1360,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 4,
-          "source_name": "news"
+          "posts_count": 1,
+          "source_name": "blogs"
         },
         {
           "display_name": "Facebook pages",
@@ -1372,16 +1372,16 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "Blog posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "blogs"
+          "posts_count": 4,
+          "source_name": "news"
         }
       ],
       "title": "Intensifying postfire weather and biological invasion drive species loss in a Mediterranean-type biodiversity hotspot",
       "url": "http://doi.org/10.1073/pnas.1619014114",
       "year": "2017",
-      "citations": 31,
+      "citations": 32,
       "citationlink": "14230295455049915630"
     },
     {
@@ -1484,10 +1484,10 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
+          "display_name": "Blog posts",
           "events_last_week_count": 0,
-          "posts_count": 3,
-          "source_name": "news"
+          "posts_count": 1,
+          "source_name": "blogs"
         },
         {
           "display_name": "Facebook pages",
@@ -1496,10 +1496,10 @@
           "source_name": "facebook"
         },
         {
-          "display_name": "Blog posts",
+          "display_name": "News mentions",
           "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "blogs"
+          "posts_count": 3,
+          "source_name": "news"
         },
         {
           "display_name": "Google+ posts",
@@ -1567,16 +1567,16 @@
       ],
       "sources": [
         {
-          "display_name": "News mentions",
-          "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "news"
-        },
-        {
           "display_name": "Blog posts",
           "events_last_week_count": 0,
           "posts_count": 1,
           "source_name": "blogs"
+        },
+        {
+          "display_name": "News mentions",
+          "events_last_week_count": 0,
+          "posts_count": 1,
+          "source_name": "news"
         },
         {
           "display_name": "Google+ posts",
@@ -1672,16 +1672,16 @@
       ],
       "sources": [
         {
-          "display_name": "Facebook pages",
-          "events_last_week_count": 0,
-          "posts_count": 1,
-          "source_name": "facebook"
-        },
-        {
           "display_name": "Blog posts",
           "events_last_week_count": 0,
           "posts_count": 3,
           "source_name": "blogs"
+        },
+        {
+          "display_name": "Facebook pages",
+          "events_last_week_count": 0,
+          "posts_count": 1,
+          "source_name": "facebook"
         }
       ],
       "title": "Modeling daily flowering probabilities: expected impact of climate change on Japanese cherry phenology",
@@ -1945,7 +1945,7 @@
       "title": "Integrating occurrence data and expert maps for improved species range predictions",
       "url": "http://doi.org/10.1111/geb.12539",
       "year": "2017",
-      "citations": 46,
+      "citations": 47,
       "citationlink": "17832906044735692584"
     },
     {
@@ -2021,7 +2021,7 @@
       "title": "On using integral projection models to generate demographically driven predictions of species' distributions: development and validation using sparse data",
       "url": "http://doi.org/10.1111/ecog.00839",
       "year": "2014",
-      "citations": 94,
+      "citations": 96,
       "citationlink": "12652666495545664808"
     },
     {
@@ -2148,7 +2148,7 @@
       "title": "A new class of flexible link functions with application to species co-occurrence in Cape Floristic Region",
       "url": "http://doi.org/10.1214/13-aoas663",
       "year": "2013",
-      "citations": 32,
+      "citations": 33,
       "citationlink": "2162574719024066393"
     },
     {
@@ -2237,7 +2237,7 @@
       "authors": {},
       "doi": "10.1111/j.2041-210x.2012.00264.x",
       "events_last_week_count": 0,
-      "fulltext_url": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2041-210x.2012.00264.x",
+      "fulltext_url": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.2041-210x.2012.00264.x",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "igjofkpj9f",
@@ -2316,7 +2316,7 @@
       "title": "Downscaling of species distribution models: A hierarchical approach",
       "url": "http://doi.org/10.1111/j.2041-210x.2012.00264.x",
       "year": "2013",
-      "citations": 67,
+      "citations": 68,
       "citationlink": "5979909871313787952"
     },
     {
@@ -2349,41 +2349,8 @@
       "title": "Spatial detection of alpine treeline ecotones in the Western United States",
       "url": "http://doi.org/10.1016/j.rse.2020.111672",
       "year": "2020",
-      "citations": 0,
-      "citationlink": null
-    },
-    {
-      "_title": "Air pollution and the demand for hospital services: A review",
-      "altmetric_id": "15037952",
-      "altmetric_score": 3,
-      "authors": {},
-      "doi": "10.1016/j.envint.2004.01.004",
-      "events_last_week_count": 0,
-      "fulltext_url": {},
-      "genre": "article",
-      "has_fulltext_url": false,
-      "id": "WA2kGTT3PG",
-      "journal": "Environment International",
-      "license": {},
-      "mendeley": {
-        "country_percent": {},
-        "job_title_percent": {},
-        "mendeley_url": {},
-        "readers": 0,
-        "subdiscipline_percent": {}
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Air pollution and the demand for hospital services: A review",
-      "url": "http://doi.org/10.1016/j.envint.2004.01.004",
-      "year": "2004",
-      "citations": 93,
-      "citationlink": "13627242760666690959"
+      "citations": 1,
+      "citationlink": "2516503650187358148"
     },
     {
       "_title": "Multivariate forecasts of potential distributions of invasive plant species",
@@ -2458,8 +2425,41 @@
       "title": "Multivariate forecasts of potential distributions of invasive plant species",
       "url": "http://doi.org/10.1890/07-2095.1",
       "year": "2009",
-      "citations": 104,
+      "citations": 106,
       "citationlink": "10722199125945852415"
+    },
+    {
+      "_title": "Air pollution and the demand for hospital services: A review",
+      "altmetric_id": "15037952",
+      "altmetric_score": 3,
+      "authors": {},
+      "doi": "10.1016/j.envint.2004.01.004",
+      "events_last_week_count": 0,
+      "fulltext_url": {},
+      "genre": "article",
+      "has_fulltext_url": false,
+      "id": "WA2kGTT3PG",
+      "journal": "Environment International",
+      "license": {},
+      "mendeley": {
+        "country_percent": {},
+        "job_title_percent": {},
+        "mendeley_url": {},
+        "readers": 0,
+        "subdiscipline_percent": {}
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Air pollution and the demand for hospital services: A review",
+      "url": "http://doi.org/10.1016/j.envint.2004.01.004",
+      "year": "2004",
+      "citations": 93,
+      "citationlink": "13627242760666690959"
     },
     {
       "_title": "Uncertainty, priors, autocorrelation and disparate data in downscaling of species distributions",
@@ -2606,7 +2606,7 @@
       "title": "Uncertainty, priors, autocorrelation and disparate data in downscaling of species distributions",
       "url": "http://doi.org/10.1111/ddi.12199",
       "year": "2014",
-      "citations": 16,
+      "citations": 17,
       "citationlink": "17984584479707219233"
     },
     {
@@ -2774,7 +2774,7 @@
       "title": "A Hierarchical Bayesian model of wildfire in a Mediterranean biodiversity hotspot: Implications of weather variability and global circulation",
       "url": "http://doi.org/10.1016/j.ecolmodel.2009.09.016",
       "year": "2010",
-      "citations": 68,
+      "citations": 69,
       "citationlink": "18256647831510752324"
     },
     {
@@ -2820,7 +2820,7 @@
       "title": "Spatial and interspecific variability in phenological responses to warming temperatures",
       "url": "http://doi.org/10.1016/j.biocon.2009.06.003",
       "year": "2009",
-      "citations": 211,
+      "citations": 214,
       "citationlink": "62062424245765126"
     },
     {
@@ -2957,6 +2957,58 @@
       "citationlink": "15702577810729029249"
     },
     {
+      "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
+      "altmetric_id": "60936994",
+      "altmetric_score": 0,
+      "authors": {},
+      "doi": "10.1016/j.rse.2013.10.025",
+      "events_last_week_count": 0,
+      "fulltext_url": "http://dx.doi.org/10.1594/PANGAEA.820938",
+      "genre": "article",
+      "has_fulltext_url": true,
+      "id": "ig9nzcxgio",
+      "journal": "Remote Sensing of Environment",
+      "license": "cc-by",
+      "mendeley": {
+        "country_percent": {
+          "Germany": 0.6,
+          "United States": 0.2,
+          "Vietnam": 0.2
+        },
+        "job_title_percent": {
+          "Faculty": 0.09,
+          "Masters Student": 0.18,
+          "Other": 0.05,
+          "PhD Student": 0.33,
+          "Researcher": 0.29,
+          "Undergrad Student": 0.04,
+          "Unspecified": 0.02
+        },
+        "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview",
+        "readers": 55,
+        "subdiscipline_percent": {
+          "Agricultural and Biological Sciences": 0.11,
+          "Biochemistry, Genetics and Molecular Biology": 0.02,
+          "Earth and Planetary Sciences": 0.36,
+          "Engineering": 0.04,
+          "Environmental Science": 0.4,
+          "Unspecified": 0.07
+        }
+      },
+      "num_mentions": 0,
+      "num_posts": 0,
+      "orcid_id": "0000-0003-3362-7806",
+      "posts": [
+        {}
+      ],
+      "sources": [],
+      "title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
+      "url": "http://doi.org/10.1016/j.rse.2013.10.025",
+      "year": "2014",
+      "citations": 42,
+      "citationlink": "13563037565281892751"
+    },
+    {
       "_title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily MaximumAir Temperature",
       "altmetric_id": "33676299",
       "altmetric_score": 0,
@@ -3007,7 +3059,7 @@
       "title": "An Assessment of Methods and Remote-Sensing Derived Covariates for Regional Predictions of 1 km Daily MaximumAir Temperature",
       "url": "http://doi.org/10.3390/rs6098639",
       "year": "2014",
-      "citations": 20,
+      "citations": 21,
       "citationlink": "17962076558487628612"
     },
     {
@@ -3067,41 +3119,44 @@
       "citationlink": null
     },
     {
-      "_title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
-      "altmetric_id": "60936994",
+      "_title": "Are there spurious temperature trends in the United States Climate Division database?",
+      "altmetric_id": {},
       "altmetric_score": 0,
       "authors": {},
-      "doi": "10.1016/j.rse.2013.10.025",
+      "doi": "10.1029/2002gl016295",
       "events_last_week_count": 0,
-      "fulltext_url": "http://dx.doi.org/10.1594/PANGAEA.820938",
+      "fulltext_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2002GL016295",
       "genre": "article",
       "has_fulltext_url": true,
-      "id": "ig9nzcxgio",
-      "journal": "Remote Sensing of Environment",
-      "license": "cc-by",
+      "id": "rjK4EUEGZ6",
+      "journal": "Geophysical Research Letters",
+      "license": {},
       "mendeley": {
         "country_percent": {
-          "Germany": 0.6,
-          "United States": 0.2,
-          "Vietnam": 0.2
+          "United Kingdom": 0.33,
+          "United States": 0.67
         },
         "job_title_percent": {
-          "Faculty": 0.09,
-          "Masters Student": 0.18,
-          "Other": 0.05,
-          "PhD Student": 0.33,
-          "Researcher": 0.29,
+          "Faculty": 0.19,
+          "Masters Student": 0.11,
+          "Other": 0.07,
+          "PhD Student": 0.37,
+          "Researcher": 0.19,
           "Undergrad Student": 0.04,
-          "Unspecified": 0.02
+          "Unspecified": 0.04
         },
-        "mendeley_url": "http://www.mendeley.com/research/systematic-land-cover-bias-collection-5-modis-cloud-mask-derived-products-global-overview",
-        "readers": 55,
+        "mendeley_url": "http://www.mendeley.com/research/spurious-temperature-trends-united-states-climate-division-database",
+        "readers": 27,
         "subdiscipline_percent": {
           "Agricultural and Biological Sciences": 0.11,
-          "Biochemistry, Genetics and Molecular Biology": 0.02,
-          "Earth and Planetary Sciences": 0.36,
+          "Biochemistry, Genetics and Molecular Biology": 0.04,
+          "Computer Science": 0.04,
+          "Earth and Planetary Sciences": 0.22,
           "Engineering": 0.04,
-          "Environmental Science": 0.4,
+          "Environmental Science": 0.37,
+          "Medicine and Dentistry": 0.04,
+          "Physics and Astronomy": 0.04,
+          "Social Sciences": 0.04,
           "Unspecified": 0.07
         }
       },
@@ -3112,11 +3167,11 @@
         {}
       ],
       "sources": [],
-      "title": "Systematic land cover bias in Collection 5 MODIS cloud mask and derived products  A global overview",
-      "url": "http://doi.org/10.1016/j.rse.2013.10.025",
-      "year": "2014",
-      "citations": 41,
-      "citationlink": "13563037565281892751"
+      "title": "Are there spurious temperature trends in the United States Climate Division database?",
+      "url": "http://doi.org/10.1029/2002gl016295",
+      "year": "2003",
+      "citations": 77,
+      "citationlink": "15564411114484490165"
     },
     {
       "_title": "Evaluation of satellite-derived burned area products for the fynbos, a Mediterranean shrubland",
@@ -3195,8 +3250,8 @@
       "title": "Change point estimation of deciduous forest land surface phenology",
       "url": "http://doi.org/10.1016/j.rse.2020.111698",
       "year": "2020",
-      "citations": 0,
-      "citationlink": null
+      "citations": 2,
+      "citationlink": "5013950129004221460"
     },
     {
       "_title": "Are there spurious precipitation trends in the United States Climate Division database?",
@@ -3205,7 +3260,7 @@
       "authors": {},
       "doi": "10.1029/2004gl021985",
       "events_last_week_count": 0,
-      "fulltext_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2004GL021985",
+      "fulltext_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2004GL021985",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "j2s7944t9t",
@@ -3318,7 +3373,7 @@
       "title": "Identifying hotspots for plant invasions and forecasting focal points of further spread",
       "url": "http://doi.org/10.1111/j.1365-2664.2009.01736.x",
       "year": "2009",
-      "citations": 86,
+      "citations": 87,
       "citationlink": "10471541810207926754"
     },
     {
@@ -3351,7 +3406,7 @@
       "title": "Green-up of deciduous forest communities of northeastern North America in response to climate variation and climate change",
       "url": "http://doi.org/10.1007/s10980-014-0099-7",
       "year": "2014",
-      "citations": 20,
+      "citations": 21,
       "citationlink": "15216572920139885688"
     },
     {
@@ -3409,7 +3464,7 @@
       "title": "Developing Dynamic Mechanistic Species Distribution Models: Predicting Bird-Mediated Spread of Invasive Plants across Northeastern North America",
       "url": "http://doi.org/10.1086/660295",
       "year": "2011",
-      "citations": 70,
+      "citations": 73,
       "citationlink": "12982824833770251112"
     },
     {
@@ -3419,7 +3474,7 @@
       "authors": {},
       "doi": "10.1002/joc.3859",
       "events_last_week_count": 0,
-      "fulltext_url": "https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.3859",
+      "fulltext_url": "https://rmets.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/joc.3859",
       "genre": "article",
       "has_fulltext_url": true,
       "id": "cSQsHG2ziq",
@@ -3545,61 +3600,6 @@
       "citationlink": null
     },
     {
-      "_title": "Are there spurious temperature trends in the United States Climate Division database?",
-      "altmetric_id": {},
-      "altmetric_score": 0,
-      "authors": {},
-      "doi": "10.1029/2002gl016295",
-      "events_last_week_count": 0,
-      "fulltext_url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1539&context=earthsci_facpub",
-      "genre": "article",
-      "has_fulltext_url": true,
-      "id": "rjK4EUEGZ6",
-      "journal": "Geophysical Research Letters",
-      "license": {},
-      "mendeley": {
-        "country_percent": {
-          "United Kingdom": 0.33,
-          "United States": 0.67
-        },
-        "job_title_percent": {
-          "Faculty": 0.19,
-          "Masters Student": 0.11,
-          "Other": 0.07,
-          "PhD Student": 0.37,
-          "Researcher": 0.19,
-          "Undergrad Student": 0.04,
-          "Unspecified": 0.04
-        },
-        "mendeley_url": "http://www.mendeley.com/research/spurious-temperature-trends-united-states-climate-division-database",
-        "readers": 27,
-        "subdiscipline_percent": {
-          "Agricultural and Biological Sciences": 0.11,
-          "Biochemistry, Genetics and Molecular Biology": 0.04,
-          "Computer Science": 0.04,
-          "Earth and Planetary Sciences": 0.22,
-          "Engineering": 0.04,
-          "Environmental Science": 0.37,
-          "Medicine and Dentistry": 0.04,
-          "Physics and Astronomy": 0.04,
-          "Social Sciences": 0.04,
-          "Unspecified": 0.07
-        }
-      },
-      "num_mentions": 0,
-      "num_posts": 0,
-      "orcid_id": "0000-0003-3362-7806",
-      "posts": [
-        {}
-      ],
-      "sources": [],
-      "title": "Are there spurious temperature trends in the United States Climate Division database?",
-      "url": "http://doi.org/10.1029/2002gl016295",
-      "year": "2003",
-      "citations": 77,
-      "citationlink": "15564411114484490165"
-    },
-    {
       "_title": "Point pattern modelling for degraded presence-only data over large regions",
       "altmetric_id": {},
       "altmetric_score": 0,
@@ -3629,7 +3629,7 @@
       "title": "Point pattern modelling for degraded presence-only data over large regions",
       "url": "http://doi.org/10.1111/j.1467-9876.2011.01023.x",
       "year": "2011",
-      "citations": 90,
+      "citations": 92,
       "citationlink": "16361492880824597870"
     },
     {
@@ -4064,24 +4064,6 @@
   "promos": {},
   "sources": [
     {
-      "display_name": "News mentions",
-      "events_last_week_count": 0,
-      "posts_count": 85,
-      "source_name": "news"
-    },
-    {
-      "display_name": "Public peer reviews",
-      "events_last_week_count": 0,
-      "posts_count": 1,
-      "source_name": "peer_reviews"
-    },
-    {
-      "display_name": "Facebook pages",
-      "events_last_week_count": 0,
-      "posts_count": 25,
-      "source_name": "facebook"
-    },
-    {
       "display_name": "Tweets",
       "events_last_week_count": 0,
       "posts_count": 27,
@@ -4094,10 +4076,10 @@
       "source_name": "blogs"
     },
     {
-      "display_name": "Google+ posts",
+      "display_name": "Facebook pages",
       "events_last_week_count": 0,
-      "posts_count": 10,
-      "source_name": "googleplus"
+      "posts_count": 25,
+      "source_name": "facebook"
     },
     {
       "display_name": "F1000 reviews",
@@ -4106,16 +4088,34 @@
       "source_name": "f1000"
     },
     {
-      "display_name": "Wikipedia articles",
+      "display_name": "News mentions",
       "events_last_week_count": 0,
-      "posts_count": 3,
-      "source_name": "wikipedia"
+      "posts_count": 85,
+      "source_name": "news"
     },
     {
       "display_name": "Reddit posts",
       "events_last_week_count": 0,
       "posts_count": 5,
       "source_name": "reddit"
+    },
+    {
+      "display_name": "Wikipedia articles",
+      "events_last_week_count": 0,
+      "posts_count": 3,
+      "source_name": "wikipedia"
+    },
+    {
+      "display_name": "Google+ posts",
+      "events_last_week_count": 0,
+      "posts_count": 10,
+      "source_name": "googleplus"
+    },
+    {
+      "display_name": "Public peer reviews",
+      "events_last_week_count": 0,
+      "posts_count": 1,
+      "source_name": "peer_reviews"
     }
   ],
   "subscores": [
@@ -4137,5 +4137,5 @@
     }
   ],
   "twitter": "AdamWilsonLab",
-  "updated": "2020-08-16 19:03:12.380677+00:00"
+  "updated": "2020-10-02 16:00:59.108961+00:00"
 }

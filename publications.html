@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<a id='publications'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Publications" class="alt" %}
+      <div class='spacing'></div>
+      <ol reversed>
+        {% assign productlist = site.data.pubs.products | sort: 'year' | reverse %}
+        {% for products in productlist %}
+        <li>
+          <b>{{ products.title }}</b> ({{ products.year}}) {{ products.authors}}, <i> {{ products.journal}} </i>
+          <a title="Digital Object Identifier" href="https://doi.org/{{products.doi}}">{{products.doi}}</a>
+          {% if products.citations > 0 %}
+              <a title="Citations from Google Scholar" href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites={{products.citationlink}}" target="_blank"><font color="black">({{products.citations}} citations)</font></a>
+          {% endif %}
+          {% if products.altmetric_score > 0.0 %}
+              <a title="Altmetric Score" href="https://www.altmetric.com/details/{{products.altmetric_id}}" target="_blank"><img alt="Altmetric" src="images/altm.png" width="20px"><font color="darkred">{{products.altmetric_score | round: 1}}</font></a>;
+
+            {% if products.num_posts > 0 %}
+              Media Links:
+              {% for p in products.posts  %}
+                {% if p.source == "news" %}
+                  <a href="{{p.url}}" target="_blank"><font color="lightblue">{{p.attribution}}</font></a>,
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+     {% endif %}
+            
+      </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
